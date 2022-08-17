@@ -9,7 +9,7 @@ const Home = () => {
 
   const Searcher = async () => {
     const xml = await fetch(
-      'https://jackett.at7.in/api/v2.0/indexers/cloudtorrents/results/torznab?apikey=qbittorrent&q=the+boys'
+      'https://jackett.at7.in/api/v2.0/indexers/cloudtorrents/results/torznab?apikey=qbittorrent&q=the+boys+1080p'
     )
     const res = await await xml.text()
 
@@ -20,6 +20,8 @@ const Home = () => {
     items.forEach((element) => {
       if (element.includes('<size>')) {
         const title = element.split('<title>')[1].split('</title>')[0]
+
+        console.log(title)
 
         array.push({ title: title })
       }
@@ -42,7 +44,7 @@ const Home = () => {
         {search.map((element, key) => {
           return (
             <p className="text-center text-black" key={key}>
-              {key} ~ {element.title}
+              {key + 1} ~ {element.title}
             </p>
           )
         })}
