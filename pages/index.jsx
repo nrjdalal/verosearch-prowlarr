@@ -33,7 +33,7 @@ const Home = () => {
 
   return (
     <div className="mx-auto max-w-6xl p-4">
-      <main className="my-8 flex items-center justify-between">
+      <main className="mt-4 lg:my-8 flex items-center justify-between">
         <input
           type="text"
           className="h-10 w-full max-w-3xl rounded-lg border-2 border-gray-300 text-xl"
