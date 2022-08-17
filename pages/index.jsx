@@ -30,6 +30,8 @@ const Home = () => {
 
   return (
     <div className="w-screen p-4">
+      <div className="mb-4 text-xl">The Ultimate Torrent Searcher by @nrjdalal</div>
+
       <main className="flex items-center">
         <input
           type="text"
