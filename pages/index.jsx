@@ -67,7 +67,7 @@ const Home = () => {
               <p className="break-words  text-black line-clamp-2">{element.title}</p>
               <div className="mt-2 flex items-center justify-between">
                 <p>
-                  {size(element.size)} / {seeders(element)} / {timeSince(new Date(element.pubDate[0]).valueOf())}
+                  {timeSince(new Date(element.pubDate[0]).valueOf())} / {seeders(element)} / {size(element.size)}
                 </p>
 
                 <a href={element.link}>
