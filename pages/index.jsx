@@ -33,12 +33,10 @@ const Home = () => {
 
   return (
     <div className="mx-auto max-w-6xl p-6">
-      <div className="mb-4 text-xl">The Ultimate Torrent Searcher by @nrjdalal</div>
-
-      <main className="flex items-center">
+      <main className="my-8 flex items-center justify-between">
         <input
           type="text"
-          className="h-10 rounded-lg border-2"
+          className="h-10 w-full max-w-3xl rounded-lg border-2 text-xl"
           value={search}
           onChange={(e) => setSearch(e.target.value)}
         />
