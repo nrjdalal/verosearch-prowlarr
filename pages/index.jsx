@@ -32,19 +32,21 @@ const Home = () => {
   }
 
   return (
-    <div>
-      <main className="flex w-full items-center justify-center gap-x-8 px-20 py-10 text-center">
+    <div className="w-screen">
+      <main className="py-8 pl-4">
         <button className="rounded-xl bg-black p-8 py-2 text-xl text-white" onClick={Searcher}>
           Search
         </button>
 
-        <button onClick={() => setSearch([])}>Clear</button>
+        <button className="pl-4" onClick={() => setSearch([])}>
+          Clear
+        </button>
       </main>
 
-      <div className="pb-8">
+      <div className="pb-8 pl-4">
         {search.map((element, key) => {
           return (
-            <p className="text-center text-black" key={key}>
+            <p className="text-black" key={key}>
               {key + 1} ~ {element.title}
             </p>
           )
