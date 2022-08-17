@@ -32,7 +32,7 @@ const Home = () => {
   }
 
   return (
-    <div className="mx-auto max-w-6xl p-6">
+    <div className="mx-auto max-w-6xl p-4">
       <main className="my-8 flex items-center justify-between">
         <input
           type="text"
