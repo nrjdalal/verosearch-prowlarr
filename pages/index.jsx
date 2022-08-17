@@ -9,7 +9,8 @@ const Home = () => {
 
   const Searcher = async () => {
     const xml = await fetch(
-      'https://jackett.at7.in/api/v2.0/indexers/cloudtorrents/results/torznab?apikey=qbittorrent&q=the+boys+1080p'
+      // 'https://jackett.at7.in/api/v2.0/indexers/cloudtorrents/results/torznab?apikey=qbittorrent&q=the+boys+1080p'
+      'https://jackett.at7.in/api/v2.0/indexers/all/results/torznab?apikey=qbittorrent&q=the+boys+1080p'
     )
     const res = await await xml.text()
 
