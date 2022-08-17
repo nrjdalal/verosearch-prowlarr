@@ -55,7 +55,9 @@ const Home = () => {
         {results.map((element, key) => {
           return (
             <div className="flex" key={key}>
-              <p className="text-black">{element.title}</p>
+              <p className="text-black">
+                {element.title} {size(element.size)}
+              </p>
               <a className="ml-2" href={element.link}>
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -81,3 +83,20 @@ const Home = () => {
 }
 
 export default Home
+
+const size = (bytes) => {
+  if (bytes >= 1073741824) {
+    bytes = (bytes / 1073741824).toFixed(1) + ' GB'
+  } else if (bytes >= 1048576) {
+    bytes = (bytes / 1048576).toFixed(1) + ' MB'
+  } else if (bytes >= 1024) {
+    bytes = (bytes / 1024).toFixed(1) + ' KB'
+  } else if (bytes > 1) {
+    bytes = bytes + ' bytes'
+  } else if (bytes == 1) {
+    bytes = bytes + ' byte'
+  } else {
+    bytes = '0 bytes'
+  }
+  return bytes
+}
