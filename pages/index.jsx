@@ -1,49 +1,46 @@
-import Head from 'next/head'
-import Image from 'next/image'
+import { parseString } from 'xml2js'
 import { useEffect, useState } from 'react'
 
 const Home = () => {
-  const [search, setSearch] = useState([])
+  const [search, setSearch] = useState('')
+  const [results, setResults] = useState([])
 
-  useEffect(() => {}, [search])
+  useEffect(() => {}, [results])
 
   const Searcher = async () => {
-    const xml = await fetch(
-      'https://jackett.at7.in/api/v2.0/indexers/all/results/torznab?apikey=qbittorrent&q=harley+quinn+1080p'
+    setResults([])
+
+    const res = await fetch(
+      `https://jackett.at7.in/api/v2.0/indexers/all/results/torznab?apikey=qbittorrent&q=${search}`
     )
-    const res = await await xml.text()
+    const xml = await res.text()
 
-    let items = res.split('<item>')
+    const json = []
 
-    const array = []
-
-    items.forEach((element) => {
-      if (element.includes('<size>')) {
-        const title = element.split('<title>')[1].split('</title>')[0]
-
-        console.log(title)
-
-        array.push({ title: title })
-      }
+    parseString(xml, function (err, result) {
+      json = result.rss.channel[0].item
     })
 
-    setSearch(array)
+    setResults(json)
   }
 
   return (
     <div className="w-screen">
-      <main className="py-8 pl-4">
-        <button className="rounded-xl bg-black p-8 py-2 text-xl text-white" onClick={Searcher}>
-          Search
-        </button>
+      <main className="ml-4 flex items-center py-8">
+        <input
+          type="text"
+          className="h-10 rounded-lg border-2"
+          value={search}
+          onChange={(e) => setSearch(e.target.value)}
+        ></input>
 
-        <button className="pl-4" onClick={() => setSearch([])}>
-          Clear
+        <button className="ml-4 h-10 rounded-lg bg-black px-8 text-xl text-white" onClick={Searcher}>
+          Search
         </button>
       </main>
 
       <div className="flex flex-col gap-y-2 pb-8 pl-4">
-        {search.map((element, key) => {
+        {results.map((element, key) => {
           return (
             <p className="text-black" key={key}>
               {key + 1} <br /> {element.title}
