@@ -45,7 +45,7 @@ const Home = () => {
           return (
             <div className="flex" key={key}>
               <p className="text-black">{element.title}</p>
-              <a href={element.link}>
+              <a className="ml-2" href={element.link}>
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   className="h-6 w-6"
