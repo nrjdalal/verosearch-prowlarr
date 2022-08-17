@@ -23,9 +23,12 @@ const Home = () => {
       json = result.rss.channel[0].item
     })
 
-    setResults(json)
+    if (json !== undefined) {
+      setResults(json)
+      console.log(json[0])
+    }
+
     setStatus(false)
-    console.log(json[0])
   }
 
   return (
