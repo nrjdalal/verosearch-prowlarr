@@ -42,7 +42,7 @@ const Home = () => {
         />
 
         <button
-          className={`ml-4 flex h-10 w-10 items-center justify-center rounded-lg bg-black text-xl text-white ${
+          className={`ml-4 flex h-10 w-14 items-center justify-center rounded-lg bg-black text-xl text-white ${
             status ? 'animate-pulse' : ''
           }`}
           onClick={Searcher}
