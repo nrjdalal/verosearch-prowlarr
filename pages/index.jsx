@@ -60,13 +60,16 @@ const Home = () => {
         </button>
       </main>
 
-      <div className="mt-4 mb-4 flex flex-col gap-y-4">
+      <div className="mt-4 mb-4 flex flex-col gap-y-4 font-mono">
         {results.map((element, key) => {
           return (
-            <div className="relative flex flex-col rounded-lg bg-gray-200 p-4" key={key}>
-              <p className="break-words font-mono text-black line-clamp-2">{element.title}</p>
+            <div className="relative flex flex-col rounded-lg bg-gray-200 p-4 " key={key}>
+              <p className="break-words  text-black line-clamp-2">{element.title}</p>
               <div className="mt-2 flex items-center justify-between">
-                <p>{size(element.size)}</p>
+                <p>
+                  {size(element.size)} / {seeders(element)}
+                </p>
+
                 <a href={element.link}>
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
@@ -105,4 +108,8 @@ const size = (bytes) => {
     bytes = ' bytes'
   }
   return bytes
+}
+
+const seeders = (element) => {
+  return JSON.stringify(element).split('"name":"seeders","value":"')[1].split('"}}')[0]
 }
