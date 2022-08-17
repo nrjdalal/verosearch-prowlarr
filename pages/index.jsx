@@ -32,7 +32,7 @@ const Home = () => {
   }
 
   return (
-    <div className="w-screen p-4">
+    <div className="w-screen p-6">
       <div className="mb-4 text-xl">The Ultimate Torrent Searcher by @nrjdalal</div>
 
       <main className="flex items-center">
@@ -51,29 +51,14 @@ const Home = () => {
         </button>
       </main>
 
-      <div className="mt-4 mb-4 flex flex-col gap-y-2">
+      <div className="mt-4 mb-4 flex flex-col gap-y-4">
         {results.map((element, key) => {
           return (
-            <div className="flex" key={key}>
-              <p className="text-black">
-                {element.title} {size(element.size)}
-              </p>
-              <a className="ml-2" href={element.link}>
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  className="h-6 w-6"
-                  fill="none"
-                  viewBox="0 0 24 24"
-                  stroke="currentColor"
-                  strokeWidth={2}
-                >
-                  <path
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    d="M7 16a4 4 0 01-.88-7.903A5 5 0 1115.9 6L16 6a5 5 0 011 9.9M9 19l3 3m0 0l3-3m-3 3V10"
-                  />
-                </svg>
-              </a>
+            <div className="relative flex flex-col rounded-lg bg-gray-200 p-4" key={key}>
+              <p className="break-words font-mono text-black line-clamp-2">{element.title}</p>
+              <div className="mt-2 flex justify-between">
+                <p>{size(element.size)}</p>
+              </div>
             </div>
           )
         })}
@@ -86,17 +71,17 @@ export default Home
 
 const size = (bytes) => {
   if (bytes >= 1073741824) {
-    bytes = (bytes / 1073741824).toFixed(1) + ' GB'
+    bytes = (bytes / 1073741824).toFixed(1) + ' gb'
   } else if (bytes >= 1048576) {
-    bytes = (bytes / 1048576).toFixed(1) + ' MB'
+    bytes = (bytes / 1048576).toFixed(1) + ' mb'
   } else if (bytes >= 1024) {
-    bytes = (bytes / 1024).toFixed(1) + ' KB'
+    bytes = (bytes / 1024).toFixed(1) + ' kb'
   } else if (bytes > 1) {
     bytes = bytes + ' bytes'
   } else if (bytes == 1) {
     bytes = bytes + ' byte'
   } else {
-    bytes = '0 bytes'
+    bytes = ' bytes'
   }
   return bytes
 }
