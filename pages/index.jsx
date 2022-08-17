@@ -43,11 +43,11 @@ const Home = () => {
         </button>
       </main>
 
-      <div className="pb-8 pl-4">
+      <div className="flex flex-col gap-y-2 pb-8 pl-4">
         {search.map((element, key) => {
           return (
             <p className="text-black" key={key}>
-              {key + 1} ~ {element.title}
+              {key + 1} <br /> {element.title}
             </p>
           )
         })}
