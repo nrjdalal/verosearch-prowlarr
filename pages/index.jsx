@@ -22,6 +22,7 @@ const Home = () => {
     })
 
     setResults(json)
+    console.log(json[0])
   }
 
   return (
