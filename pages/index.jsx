@@ -25,8 +25,8 @@ const Home = () => {
   }
 
   return (
-    <div className="w-screen">
-      <main className="ml-4 flex items-center py-8">
+    <div className="w-screen p-4">
+      <main className="flex items-center">
         <input
           type="text"
           className="h-10 rounded-lg border-2"
@@ -39,7 +39,7 @@ const Home = () => {
         </button>
       </main>
 
-      <div className="flex flex-col gap-y-2 pb-8 pl-4">
+      <div className="mt-4 flex flex-col gap-y-2 pb-8">
         {results.map((element, key) => {
           return (
             <p className="text-black" key={key}>
