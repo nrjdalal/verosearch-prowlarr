@@ -40,7 +40,7 @@ const Home = () => {
         </button>
       </main>
 
-      <div className="mt-4 flex flex-col gap-y-2 pb-8">
+      <div className="mt-4 mb-4 flex flex-col gap-y-2">
         {results.map((element, key) => {
           return (
             <div className="flex" key={key}>
