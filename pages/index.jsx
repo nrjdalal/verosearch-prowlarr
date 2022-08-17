@@ -44,9 +44,7 @@ const Home = () => {
         {results.map((element, key) => {
           return (
             <div className="flex" key={key}>
-              <p className="text-black">
-                {key + 1} {element.title}
-              </p>
+              <p className="text-black">{element.title}</p>
               <a href={element.link}>
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
