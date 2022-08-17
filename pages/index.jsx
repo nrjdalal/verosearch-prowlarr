@@ -2,7 +2,7 @@ import { parseString } from 'xml2js'
 import { useEffect, useState } from 'react'
 
 const Home = () => {
-  const [status, setStatus] = useState('Search')
+  const [status, setStatus] = useState(false)
   const [search, setSearch] = useState('')
   const [results, setResults] = useState([])
 
@@ -10,7 +10,7 @@ const Home = () => {
 
   const Searcher = async () => {
     setResults([])
-    setStatus('Searching')
+    setStatus(true)
 
     const res = await fetch(
       `https://jackett.at7.in/api/v2.0/indexers/all/results/torznab?apikey=qbittorrent&q=${search}`
@@ -24,7 +24,7 @@ const Home = () => {
     })
 
     setResults(json)
-    setStatus('Search')
+    setStatus(false)
     console.log(json[0])
   }
 
@@ -38,10 +38,13 @@ const Home = () => {
           className="h-10 rounded-lg border-2"
           value={search}
           onChange={(e) => setSearch(e.target.value)}
-        ></input>
+        />
 
-        <button className="ml-4 h-10 rounded-lg bg-black px-8 text-xl text-white" onClick={Searcher}>
-          {status}
+        <button
+          className={`ml-4 h-10 rounded-lg bg-black px-8 text-xl text-white ${status ? 'animate-pulse' : ''}`}
+          onClick={Searcher}
+        >
+          {status ? 'Searching' : 'Search'}
         </button>
       </main>
 
