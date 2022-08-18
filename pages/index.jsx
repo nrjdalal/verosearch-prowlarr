@@ -20,8 +20,12 @@ const Home = () => {
     setResults([])
     setStatus(true)
 
+    // const res = await fetch(
+    //   `https://jackett.at7.in/api/v2.0/indexers/all/results/torznab?apikey=qbittorrent&q=${search}`
+    // )
+
     const res = await fetch(
-      `https://jackett.at7.in/api/v2.0/indexers/all/results/torznab?apikey=qbittorrent&q=${search}`
+      `http://140.238.246.165//api/v1/indexer/1/newznab?t=search&q=${search}&apikey=531ae118e5fe4b67ade8f1c862a047dd`
     )
 
     const xml = await res.text()
@@ -31,6 +35,8 @@ const Home = () => {
     parseString(xml, function (err, result) {
       json = result
     })
+
+    console.log(json)
 
     json = json.rss.channel[0].item
 
@@ -49,7 +55,7 @@ const Home = () => {
           date: element.pubDate[0],
           unix: new Date(element.pubDate[0]).getTime() / 1000,
           size: element.size[0],
-          index: element.jackettindexer[0]._,
+          index: element.prowlarrindexer[0]._,
           link: element.link[0],
           torznab,
         }
