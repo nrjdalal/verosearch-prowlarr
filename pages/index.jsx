@@ -34,7 +34,7 @@ const Home = () => {
           unix: new Date(element.publishDate).getTime() / 1000,
           size: element.size,
           indexer: element.indexer,
-          link: element.guid,
+          link: element.downloadUrl || element.guid || element.magnetUrl,
           torznab: {
             seeders: element.seeders,
           },
