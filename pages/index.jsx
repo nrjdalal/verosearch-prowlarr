@@ -15,12 +15,34 @@ const Home = () => {
     const res = await fetch(
       `https://jackett.at7.in/api/v2.0/indexers/all/results/torznab?apikey=qbittorrent&q=${search}`
     )
+
     const xml = await res.text()
 
-    const json = []
+    let json
 
     parseString(xml, function (err, result) {
-      json = result.rss.channel[0].item
+      json = result
+    })
+
+    json = json.rss.channel[0].item
+
+    json = json.map((element) => {
+      const torznab = {}
+
+      element['torznab:attr'].forEach((element) => {
+        torznab[`${element.$.name}`] = element.$.value
+      })
+
+      const info = {
+        title: element.title[0],
+        date: element.pubDate[0],
+        unix: new Date(element.pubDate[0]).getTime() / 1000,
+        size: element.size[0],
+        index: element.jackettindexer[0]._,
+        torznab,
+      }
+
+      return info
     })
 
     if (json !== undefined) {
@@ -33,7 +55,7 @@ const Home = () => {
 
   return (
     <div className="mx-auto max-w-6xl p-4">
-      <main className="mt-4 lg:my-8 flex items-center justify-between">
+      <main className="mt-4 flex items-center justify-between lg:my-8">
         <input
           type="text"
           className="h-10 w-full max-w-3xl rounded-lg border-2 border-gray-300 text-xl"
@@ -67,7 +89,7 @@ const Home = () => {
               <p className="break-words  text-black line-clamp-2">{element.title}</p>
               <div className="mt-2 flex items-center justify-between">
                 <p>
-                  {timeSince(new Date(element.pubDate[0]).valueOf())} / {seeders(element)} / {size(element.size)}
+                  {time(element.unix)} / {element.torznab.seeders} / {size(element.size)}
                 </p>
 
                 <a href={element.link}>
@@ -110,15 +132,9 @@ const size = (bytes) => {
   return bytes
 }
 
-const seeders = (element) => {
-  return JSON.stringify(element).split('"name":"seeders","value":"')[1].split('"}}')[0]
-}
-
-function timeSince(date) {
-  var seconds = Math.floor((new Date() - date) / 1000)
-
-  var interval = seconds / 31536000
-
+const time = (date) => {
+  let seconds = Math.floor(new Date() / 1000 - date)
+  let interval = seconds / 31536000
   if (interval > 1) {
     return Math.floor(interval) + ' years'
   }
