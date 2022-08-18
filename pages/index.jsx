@@ -101,11 +101,11 @@ const Home = () => {
   }
 
   return (
-    <div className="mx-auto max-w-6xl p-4 text-xs md:text-sm lg:text-base">
+    <div className="mx-auto max-w-6xl p-4 text-sm md:text-base">
       <main className="mt-4 flex items-center justify-between">
         <input
           type="text"
-          className="h-12 w-full rounded-lg border-2 border-gray-300 text-xl lg:w-3/4"
+          className="h-12 w-full rounded-lg border-2 border-gray-300 text-lg md:text-xl lg:w-3/4"
           value={search}
           onChange={(e) => setSearch(e.target.value)}
         />
@@ -161,9 +161,9 @@ const Home = () => {
         {results.map((element, key) => {
           return (
             <div className="relative flex flex-col rounded-lg bg-gray-200 p-4 " key={key}>
-              <p className="break-words  text-black line-clamp-2">{element.title}</p>
+              <p className="break-all text-black line-clamp-2">{element.title}</p>
               <div className="mt-2 flex items-center justify-between">
-                <p>
+                <p className="text-xs md:text-sm">
                   {time(element.unix)} / {element.torznab.seeders} / {hsize(element.size)} / {element.indexer}
                 </p>
 
