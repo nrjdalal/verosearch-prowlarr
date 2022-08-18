@@ -22,6 +22,8 @@ const Home = () => {
 
     let json = await res.json()
 
+    console.log(json[0])
+
     if (json !== undefined) {
       json = json.map((element) => {
         const torznab = {}
@@ -32,7 +34,7 @@ const Home = () => {
           unix: new Date(element.publishDate).getTime() / 1000,
           size: element.size,
           indexer: element.indexer,
-          link: element.magneturl,
+          link: element.guid,
           torznab: {
             seeders: element.seeders,
           },
@@ -63,6 +65,7 @@ const Home = () => {
     }
 
     setStatus(false)
+    console.log(results)
   }
 
   const SwitchFilter = (filter) => {
