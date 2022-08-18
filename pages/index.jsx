@@ -55,16 +55,16 @@ const Home = () => {
 
   return (
     <div className="mx-auto max-w-6xl p-4">
-      <main className="mt-4 flex items-center justify-between lg:my-8">
+      <main className="mt-4 flex items-center justify-between">
         <input
           type="text"
-          className="h-10 w-full max-w-3xl rounded-lg border-2 border-gray-300 text-xl"
+          className="h-12 w-full rounded-lg border-2 border-gray-300 text-xl lg:w-3/4"
           value={search}
           onChange={(e) => setSearch(e.target.value)}
         />
 
         <button
-          className={`ml-4 flex h-10 w-14 items-center justify-center rounded-lg bg-black text-xl text-white ${
+          className={`ml-4 flex h-12 w-14 items-center justify-center rounded-lg bg-black text-xl text-white lg:w-1/4 ${
             status ? 'animate-pulse' : ''
           }`}
           onClick={Searcher}
