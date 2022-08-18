@@ -88,7 +88,7 @@ const Home = () => {
       </main>
 
       <div className="mt-4 mb-4 flex flex-col gap-y-4 font-mono">
-        <p className={`text-center ${status ? 'mt-5 animate-bounce' : ''}`}>
+        <p className={`text-center ${status ? 'mt-1 animate-bounce' : ''}`}>
           {status
             ? 'Searching...!'
             : `${results.length !== 0 ? `${results.length} results found!` : 'No results! Search something!'}`}
