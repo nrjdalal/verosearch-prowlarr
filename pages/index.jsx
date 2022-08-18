@@ -157,11 +157,15 @@ const Home = () => {
         </button>
       </div>
 
-      <div className="my-4 flex flex-col gap-y-4 font-mono">
+      <div className="my-4 flex flex-col gap-y-4">
         {results.map((element, key) => {
           return (
             <div className="relative flex flex-col rounded-lg bg-white p-4 shadow-md" key={key}>
-              <p className="break-all text-black line-clamp-2">{element.title}</p>
+              {
+                // ~ Title
+              }
+              <p className="break-all font-medium text-black line-clamp-2">{element.title}</p>
+
               <div className="mt-2 flex items-center justify-between">
                 <div className="flex items-center gap-2 text-xs md:text-sm">
                   {
@@ -249,13 +253,17 @@ const Home = () => {
                 <a href={element.link}>
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
-                    className="h-4 w-4"
+                    className="h-4 w-4 text-red-600"
                     fill="none"
                     viewBox="0 0 24 24"
                     stroke="currentColor"
                     strokeWidth={2}
                   >
-                    <path strokeLinecap="round" strokeLinejoin="round" d="M19 13l-7 7-7-7m14-8l-7 7-7-7" />
+                    <path
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1"
+                    />
                   </svg>
                 </a>
               </div>
