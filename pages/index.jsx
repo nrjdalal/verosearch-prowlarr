@@ -7,9 +7,14 @@ const Home = () => {
   const [results, setResults] = useState([])
 
   // filtering
+  const [filter, setFilter] = useState('seed')
   const [date, setDate] = useState(false)
   const [seed, setSeed] = useState(true)
   const [size, setSize] = useState(false)
+
+  // useState(() => {
+  //   SwitchFilter(filter)
+  // }, [])
 
   const Searcher = async () => {
     setResults([])
@@ -52,7 +57,25 @@ const Home = () => {
       })
 
       if (json !== undefined) {
-        setResults(json.sort((a, b) => b.torznab.seeders - a.torznab.seeders))
+        if (filter === 'date') {
+          const res = json.sort((a, b) => b.unix - a.unix)
+          setResults(res)
+        }
+
+        if (filter === 'seed') {
+          const res = json.sort((a, b) => b.torznab.seeders - a.torznab.seeders)
+          setResults(res)
+        }
+
+        if (filter === 'size') {
+          setFilter('size')
+          setDate(false)
+          setSeed(false)
+          setSize(true)
+
+          const res = json.sort((a, b) => b.size - a.size)
+          setResults(res)
+        }
         console.log(json[0])
       }
     }
@@ -62,6 +85,7 @@ const Home = () => {
 
   const SwitchFilter = (filter) => {
     if (filter === 'date') {
+      setFilter('date')
       setDate(true)
       setSeed(false)
       setSize(false)
@@ -71,6 +95,7 @@ const Home = () => {
     }
 
     if (filter === 'seed') {
+      setFilter('seed')
       setDate(false)
       setSeed(true)
       setSize(false)
@@ -80,6 +105,7 @@ const Home = () => {
     }
 
     if (filter === 'size') {
+      setFilter('size')
       setDate(false)
       setSeed(false)
       setSize(true)
@@ -119,7 +145,7 @@ const Home = () => {
         </button>
       </main>
 
-      <p className={`mt-4 text-center ${status ? 'mt-5 animate-bounce' : ''}`}>
+      <p className={`mt-8 text-center ${status ? 'animate-bounce' : ''}`}>
         {status
           ? 'Searching...!'
           : `${results.length !== 0 ? `${results.length} results found!` : 'No results! Search something!'}`}
@@ -146,7 +172,7 @@ const Home = () => {
         </button>
       </div>
 
-      <div className="mt-4 mb-4 flex flex-col gap-y-4 font-mono">
+      <div className="my-4 flex flex-col gap-y-4 font-mono">
         {results.map((element, key) => {
           return (
             <div className="relative flex flex-col rounded-lg bg-gray-200 p-4 " key={key}>
