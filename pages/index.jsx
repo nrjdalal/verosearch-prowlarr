@@ -33,7 +33,7 @@ const Home = () => {
           date: element.publishDate,
           unix: new Date(element.publishDate).getTime() / 1000,
           size: element.size,
-          indexer: element.indexer,
+          indexer: element.indexer.replace(/ /g, ''),
           link: element.downloadUrl || element.guid || element.magnetUrl,
           torznab: {
             seeders: element.seeders,
@@ -105,7 +105,7 @@ const Home = () => {
       <main className="mt-4 flex items-center justify-between">
         <input
           type="text"
-          className="h-12 w-full rounded-lg border-2 border-slate-400 text-center text-lg md:text-xl lg:w-3/4"
+          className="h-12 w-full rounded-lg border-2 border-slate-400 text-lg md:text-xl lg:w-3/4"
           value={search}
           onChange={(e) => setSearch(e.target.value)}
           placeholder="Type here!"
