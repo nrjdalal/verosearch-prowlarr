@@ -69,8 +69,8 @@ const Home = () => {
 
         <button
           className={`ml-4 flex h-12 w-14 items-center justify-center rounded-lg text-xl text-white lg:w-1/4 ${
-            (status ? 'animate-pulse' : '', search ? 'bg-gray-900' : 'cursor-not-allowed bg-gray-300')
-          }`}
+            search ? 'bg-gray-900' : 'cursor-not-allowed bg-gray-300'
+          } ${status ? 'animate-pulse' : ''}`}
           onClick={Searcher}
           disabled={!search}
         >
