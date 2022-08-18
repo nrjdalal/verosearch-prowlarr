@@ -12,53 +12,78 @@ const Home = () => {
   const [seed, setSeed] = useState(true)
   const [size, setSize] = useState(false)
 
+  // useState(() => {
+  //   SwitchFilter(filter)
+  // }, [])
+
   const Searcher = async () => {
     setResults([])
     setStatus(true)
 
+    // const res = await fetch(
+    //   `https://jackett.at7.in/api/v2.0/indexers/all/results/torznab?apikey=qbittorrent&q=${search}`
+    // )
+
     const res = await fetch(
-      `https://jditej.at7.in/api/v1/search?query=she+hulk&apikey=531ae118e5fe4b67ade8f1c862a047dd&type=search`
+      `https://jditej.at7.in/api/v1/indexer/1/newznab?t=search&q=${search}&apikey=531ae118e5fe4b67ade8f1c862a047dd`
     )
 
-    let json = await res.json()
+    const xml = await res.text()
+
+    let json
+
+    parseString(xml, function (err, result) {
+      json = result
+    })
+
+    console.log(json)
+
+    json = json.rss.channel[0].item
+
+    console.log(json)
 
     if (json !== undefined) {
       json = json.map((element) => {
         const torznab = {}
 
+        element['torznab:attr'].forEach((element) => {
+          torznab[`${element.$.name}`] = element.$.value
+        })
+
         const info = {
-          title: element.title,
-          date: element.publishDate,
-          unix: new Date(element.publishDate).getTime() / 1000,
-          size: element.size,
-          // index: element.prowlarrindexer[0]._,
-          link: element.magneturl,
-          torznab: {
-            seeders: element.seeders,
-          },
+          title: element.title[0],
+          date: element.pubDate[0],
+          unix: new Date(element.pubDate[0]).getTime() / 1000,
+          size: element.size[0],
+          index: element.prowlarrindexer[0]._,
+          link: element.link[0],
+          torznab,
         }
 
         return info
       })
 
-      if (filter === 'date') {
-        const res = json.sort((a, b) => b.unix - a.unix)
-        setResults(res)
-      }
+      if (json !== undefined) {
+        if (filter === 'date') {
+          const res = json.sort((a, b) => b.unix - a.unix)
+          setResults(res)
+        }
 
-      if (filter === 'seed') {
-        const res = json.sort((a, b) => b.torznab.seeders - a.torznab.seeders)
-        setResults(res)
-      }
+        if (filter === 'seed') {
+          const res = json.sort((a, b) => b.torznab.seeders - a.torznab.seeders)
+          setResults(res)
+        }
 
-      if (filter === 'size') {
-        setFilter('size')
-        setDate(false)
-        setSeed(false)
-        setSize(true)
+        if (filter === 'size') {
+          setFilter('size')
+          setDate(false)
+          setSeed(false)
+          setSize(true)
 
-        const res = json.sort((a, b) => b.size - a.size)
-        setResults(res)
+          const res = json.sort((a, b) => b.size - a.size)
+          setResults(res)
+        }
+        console.log(json[0])
       }
     }
 

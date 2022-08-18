@@ -1,0 +1,1461 @@
+[
+  {
+    "guid": "https://itorrents.org/torrent/940F29932DE969247AE5B219C9AC0A1B8577E50A.torrent?title=[Bitsearch.to]She.Hulk.Attorney.at.Law.S01E01.720p.10Bit.Hindi.English.Esubs.MoviezVerse.in.mkv",
+    "age": 0,
+    "ageHours": 12.402370610222222,
+    "ageMinutes": 744.1422366183333,
+    "size": 294649856,
+    "grabs": 64,
+    "indexerId": 1,
+    "indexer": "BitSearch",
+    "title": "She.Hulk.Attorney.at.Law.S01E01.720p.10Bit.Hindi.English.Esubs.MoviezVerse.in.mkv",
+    "approved": false,
+    "imdbId": 0,
+    "publishDate": "2022-08-17T23:00:00Z",
+    "downloadUrl": "https://jditej.at7.in/1/download?apikey=531ae118e5fe4b67ade8f1c862a047dd&link=dm5JNGxEb0dSanZ3RzdiR0RHWlpLSzFIbTVUK2VJNWZreEk4dXJ3emwrbnBNRjFIakVPRzBlQUlWUU81LzcwM3JPdmExQmloY0p1cEZoODROYVFLT2p4bWNRZFVtMzM5R2JOYnJiL3BUUVNYNjMyVUpyUFZ3UjRPQ0JKSC85em4vK1dWUEJndHpNQUZGcDBLWjVCRk8zV1M0SEw3a3gwVUc2cHlBSS81MUhnMkpFUldLcnRHOEJwdjA4TXlHNVUvQUVHK1UwRnZ1QUZIOVNGQmdmNTVGRVhWcFFqL3dMVmFURzV2VDNHVFFncksxdzFnZWtkL3pFNVpKK2FXYmpZVWJjR05xQytSdlZNWTZQOGNhMFNPNmc9PQ&file=She.Hulk.Attorney.at.Law.S01E01.720p.10Bit.Hindi.English.Esubs.MoviezVerse.in.mkv",
+    "infoUrl": "https://bitsearch.to/torrents/she-hulk-attorney-at-law-s01e01-720p-10bit-hindi-e-98b60/62fe1fa4e93c06b6d4eae406/",
+    "indexerFlags": [
+      "freeleech"
+    ],
+    "categories": [
+      {
+        "id": 5000,
+        "name": "TV",
+        "subCategories": [
+          {
+            "id": 5010,
+            "name": "TV/WEB-DL",
+            "subCategories": []
+          },
+          {
+            "id": 5020,
+            "name": "TV/Foreign",
+            "subCategories": []
+          },
+          {
+            "id": 5030,
+            "name": "TV/SD",
+            "subCategories": []
+          },
+          {
+            "id": 5040,
+            "name": "TV/HD",
+            "subCategories": []
+          },
+          {
+            "id": 5045,
+            "name": "TV/UHD",
+            "subCategories": []
+          },
+          {
+            "id": 5050,
+            "name": "TV/Other",
+            "subCategories": []
+          },
+          {
+            "id": 5060,
+            "name": "TV/Sport",
+            "subCategories": []
+          },
+          {
+            "id": 5070,
+            "name": "TV/Anime",
+            "subCategories": []
+          },
+          {
+            "id": 5080,
+            "name": "TV/Documentary",
+            "subCategories": []
+          }
+        ]
+      }
+    ],
+    "magnetUrl": "https://jditej.at7.in/1/download?apikey=531ae118e5fe4b67ade8f1c862a047dd&link=cnU4Y3RMLzRaQkFiT1pranl2bHBINjN4a2lNNFZRWmNJSU5ERWxpZXBEWHVFYTRPRkQyUjBVdnNhRThsTVZrWkZ1RWl6empXeTZqa2xKQ0VnTDRsVzkwR2FUY0cxcDcraXQ1cW40bnZDSEZ1VmVxQ2lyNnN0VmlxREMrTE8zYkFvZkNpN0txRVZSN1Z2MCswb1NmSnc1MTZvTkRQcW85SUFESG1zTm5WWVRtOVVlSDBVRWQvQjNRb0NJTnYyNXY0OU9hdVh3WnpGM0M3Tm45dTJGT2dwZkFGc1MyaFh0cXhKOHVFZHZjUG54M0FpaGlUZFNBVitJNENEcHR1by9vYjloeGNnZFpWV3QveDJ0YlZSZE9ldEQ5NU4rK2wvZHFSWVJZVVg2dGRiQWdRR1o0YTVZTU12Wmc3UWFoY1NLTG5uWDZoTlJDcTZJVFJ1RVo1VzBTSXF0KzVMOFhVNmhQNWVpblpYUVJiSFFPbjBRMnhaMERPM0x1VENvb1lGZmZBczlYVkxpNnJaOGJ5a1EwM0VscGhtVzhnWElhdlRpSVRsd0EwQ3h2Z0lyZ2NIbGI1enVQY1o1UEdWTWVhZGxjNWliRzZtYjQ2T25JK3RsZWhCekoyTDdQSUM4Y1h0Rm9JSldZYVRTZ1YzcWVPUnhiNEplWGNsR2VoQ0tWRVU4eXE1SE1jZW55UDNUbnpqczU2YkQ1S2I3L3A2UkY1K0NVdEI1YUtmQnAzRW9jSXBTVW1LRFNpT0RmY1pTWGhEdUFKZVBBUmQ5QkE3ZXB1aTZBMGxDYlVJc3pTZmQ5alRpUmh0U0E0bUI4aVcwYWhBUEdmcmtHbGtURldoOHZvaENBdHNjTENBOC9jb0J0TjNZd3pHRW9qbkc5L1NnQ3hTWWdSNjZIZzFVTG1MS052UENpNzhDRUI2RnphanFIa1MzT25BRTlxTnIwNU9jayttR3hiSStLUU9UUUxEQkJVc2tzNjE1dDVSZHdCVzJldDNWSjNZREU3Zy81UVEwOUtTOTZFWGtRa0YzY09qNEhlSm8yamFDZGx4ZDlHbTV6S0ZIWTdWRTVSY3p3TElWUE1XOVlQZTBXYWluUmdtWUxIQUg1L3I5eTErY2d5aUZpajNNcmlISFViTmpSWnJJS3VpT2NYdHdMcDNkajU1V0QvUng0QTQwcWZkaE9nY0s5NEd3c3lFQzY4c3hHVSt3dnI4dHU3TEh4ZlpuLzB3V3QrYzVoYmttSGtmS0o3WlBDRWpiU3phQWNkNis2cldrNEhudTAyWjdhdStxZWordFM5VWd6SUtIZHdNSk9FNkxqUllXRnYzb0hBNG1rMzRHTDZkcjl6L3UzVHhRUVJqdkFPVnVSL0h5ekkveXNPVEFBbW1VQVdtMDI2NXdOK3IzZ3AzTmdtUE1ma2djcFVtZ2x5cnFIQ0ZlYU53YUdydzFLS2hhWEFKenRtS083WThzY0F3UThRdndpWFl3Z3IwSDFXbHZDRWpqUmE5bTdRT3VIUFpZNzhVVFBOQ2pPQ2dlZ1Y5bEhWL0hRTmVNbUJQSGZwemo3WVBRV0xENmtnQXBsaUJSWWpZYjM5aHR4ME52SG10NHNRMGhoNnBhMXBzYm9wT1ZLalZUaXBjTENwMWx0TzJKODhVZC9qNkg0dXJGcU1Wc2R0cElDU2VhdERVZ0ZpcWFJV09jR0tySmlZSlB2bklPUzFyS3QvdWhLWWh3T2g3Y2xaZS9vVEdjaWdpSGdKYXN2azhyaFVtWFNURWQ0N2Z1TjRBL1E5d3p6VGRWdmtwTmdYNTZDVkVtTTBHWXlmdU5jVHVaSGJ0TUJabGs3QWt6dnk2TzNuZ2ZqVXhzWGhHakhLR1IyWDNUdGhZUUNad043cUFycDJYT1djRzBQZUdSVWdNcURyUDNIckJYS3lFZXFrMVdOa3RMT0lqUGVTamVnM2dqT2dmUmhFMG1XK2U2T01SWVRwTDlPZzJpNzUxQjMwcVpsaE5vVisrajA2YWM1YmYyT3ZtWUd4Vzkra3hTYU5yRExuSUkydXZwRmczS3VZSk1IUzFXRlByQVdmQ3dBVmZ3YWp3Mi8rK1p1dFVXNzZ6RFplOXRwbUpYc3RlUVdBd05xbkRES3Nnb285NXlUbg&file=She.Hulk.Attorney.at.Law.S01E01.720p.10Bit.Hindi.English.Esubs.MoviezVerse.in.mkv",
+    "infoHash": "940F29932DE969247AE5B219C9AC0A1B8577E50A",
+    "seeders": 2,
+    "leechers": 13,
+    "protocol": "torrent"
+  },
+  {
+    "guid": "https://itorrents.org/torrent/896F6AD16B4E8C2B94D7B4E4CED4DB0FD765C824.torrent?title=[Bitsearch.to]www.1TamilMV.team%20-%20She-Hulk%20Attorney%20at%20Law%20(2022)%20S01%20EP01%20-%20A%20Normal%20Amount%20of%20Rage%20TRUE%20WEB-DL%20-%20720p%20-%20HEVC%20-%20(AAC%202.0)%20[Tam%20+%20Tel%20+%20Hin%20+%20Mal%20+%20Eng]%20-%20MSub.mkv",
+    "age": 0,
+    "ageHours": 12.402370671944444,
+    "ageMinutes": 744.1422403166666,
+    "size": 311427072,
+    "grabs": 1600,
+    "indexerId": 1,
+    "indexer": "BitSearch",
+    "title": "www.1TamilMV.team - She-Hulk Attorney at Law (2022) S01 EP01 - A Normal Amount of Rage TRUE WEB-DL - 720p - HEVC - (AAC 2.0) [Tam + Tel + Hin + Mal + Eng] - MSub.mkv",
+    "approved": false,
+    "imdbId": 0,
+    "publishDate": "2022-08-17T23:00:00Z",
+    "downloadUrl": "https://jditej.at7.in/1/download?apikey=531ae118e5fe4b67ade8f1c862a047dd&link=R0dEOGR6WWNDamVYKzVsaXdMYjNaTTZaZDdRbmVsOTd3RWs1NzRJNVUvSTAyN3FaN091M0g5L0dyTHlRMWl3VnY4amJpWTBuQW9sajgwUzB0QzhsQmVqanJNajJiMndXM3locURRbjZWTVplWks5cmNHVUlmL1IxZWxBbGtNSFkyS05RbW55Y2o4OXZsVkN3b01FVmJ4anlLbVpLVllva1lXMXFEOVlYMitaeGliQ2xDaStrSUhxOEpNb1FPQ2JrU0dWbGxVUVE3NjQzcU92TElzTWxWY01FWDhSdUhLcDgyTUMxRVZ3M0JDdHBtMmNnbUFSZGpLRTVEL2pkdnVjcmtTZUM1MWdPL3VqS0Vab25rMDJZWlMvRzNmV1dkU0xLcUtXOWFrbjBKWXF2Qlp6UG10c3hFWlBEV2ZnYkdEZmlXdHZPUXdaRXpURXdWR2czOU4xcmF1cUFMUTErdkdIeU42WE1DOUlScVJBSWZhOStSajIwZUYxT0orQ1VQaVBP&file=www.1TamilMV.team+-+She-Hulk+Attorney+at+Law+(2022)+S01+EP01+-+A+Normal+Amount+of+Rage+TRUE+WEB-DL+-+720p+-+HEVC+-+(AAC+2.0)+%5BTam+%2B+Tel+%2B+Hin+%2B+Mal+%2B+Eng%5D+-+MSub.mkv",
+    "infoUrl": "https://bitsearch.to/torrents/www-1tamilmv-team-she-hulk-attorney-at-law-2022-s0-86cf2/62fe1f68e93c06b6d4eae33f/",
+    "indexerFlags": [
+      "freeleech"
+    ],
+    "categories": [
+      {
+        "id": 5000,
+        "name": "TV",
+        "subCategories": [
+          {
+            "id": 5010,
+            "name": "TV/WEB-DL",
+            "subCategories": []
+          },
+          {
+            "id": 5020,
+            "name": "TV/Foreign",
+            "subCategories": []
+          },
+          {
+            "id": 5030,
+            "name": "TV/SD",
+            "subCategories": []
+          },
+          {
+            "id": 5040,
+            "name": "TV/HD",
+            "subCategories": []
+          },
+          {
+            "id": 5045,
+            "name": "TV/UHD",
+            "subCategories": []
+          },
+          {
+            "id": 5050,
+            "name": "TV/Other",
+            "subCategories": []
+          },
+          {
+            "id": 5060,
+            "name": "TV/Sport",
+            "subCategories": []
+          },
+          {
+            "id": 5070,
+            "name": "TV/Anime",
+            "subCategories": []
+          },
+          {
+            "id": 5080,
+            "name": "TV/Documentary",
+            "subCategories": []
+          }
+        ]
+      }
+    ],
+    "magnetUrl": "https://jditej.at7.in/1/download?apikey=531ae118e5fe4b67ade8f1c862a047dd&link=dW1PajdvWHY4aEJVRFNZbGNzdXh2aWI1QWd0emVwSFREdXh4Uk1YWHpYaWE3S2dpMnp1akc3d01JaFowSEZBTWlUUC9QeDMxT3loZmhJUjBUMUkrREl6ZkNKVjFGL1ZFYUNsUjRlK2JuQUIyRStGcEt0OStCU0hZaEs3RWs5d0dEMFBhemVWL25DNms1cytVZWFrTGgzNWx2Q09kUHlKWGVxdjBTTk5JU3FDbnlnZEs4WDZEOVBNQ0FQQVNCeTZGMllSTXFLWmR4QjFwK2VjTnl3aGdqR3Jhb1E5VkdyYzNKWmRTdkZoSWs4MWxOVjM3dHhPV0Z1MnhqRUNIWEVvbCtucWlxbHVDQTJBVnBHckhCMWQxV1V2b1lDSFp6WmlLa0xwOUl3UkZQUWJNM0k5M25VSlJsaFNxWTNoakx4ZEprOTIxWnB6MG9lOGoxbWJ2cWhoRW5vTkhlUTcrR29rU1o4b0JWdWRhWGxDd3lCZnk0dUF1ZXdjRWJzZjNNYmE3U0JGTmNGdzEvSWZLSGRSQ1ozc2twbVFqTGtqN0ZvOVlJUHRTRTBqYWtNSFdFYXRYZGF4Mlcvclk1RmdKdDFhb3hMZVRYb3NGUUh4bmxBWmlXZnh4cnVzazg1SGRDTG51K1dBL0FLMHZDVm8xZGhwblVsVmlKMVNiT0RkUDRLa2EwMkVHTno3QTlid0ZXVkpUSGxFcTdlTlVINk00WHIzRmdRWjlsVkxiekhTZXBJKzFudjVyYjZzU3F6cHM2Z0NJSTB6MjVBWjBkL3NpWTlmSHQ1eGhHc21qTGgyTWhuKzJEbERGS2FQTXA1V3RPNE9aZktiRmErNHlEMldEbDZSb2pSODlycThaSUZ5K3kvdDhmZ2pvTjBEM3Mxb2xFeG45RXh1ZWhHNzRESUVPSmx2YkJXcURXOFRKbGxDWDBNMnhDMmZEckwzcnpTQlducXlXZVpSOHRLYkVZSHZNYzIyanovZHlucTBUaTNkYk5NV1BrcjJia1N6L0ZhcjFKeXlmTE1sbk5KUGhnY1AweDlLVEhLSE96bnh5aUpRQmZ3WmdYYndVUU96Y24yZ04yejVlRDBlSFVPVHBOamhUWXZRK0Jzbld0c2lCamozZEpOOFdaK2trU0E5RHY1RnZZdUluL3FFcWZDVmdCZG5saURnN2tKM09IYjgxcHlqOW9WcHY3TEU4YkpiQkNBVi8yczhVQS9lYWZwNktTaTJPd2lQOWJUZlFzMHNzaWp1em8yazNrZFNFQlc4S2FiRStidzc3UURLQ08raGRYZFcveTRzbGlWM3BQN3liV01xVGpmSlZ3S2ZaaWhJYTUybmNhQkFLWFBnZG9WcUdyajVKMXg4TkFFaElaWHAzdEplSHdzdTVISVNKeHVGYUdzWW15M241SmpSSWQyT0NhY0tWaGpmYUdFNW1ZaDRhN0k4RUlheCtuOUl5Qjc3U2R6RFJlSUlPRGVyOHdERXNIOUdDdzVmYmYxQkhKMHhMOG5JK29PV0pFanJBeVgwcmR4RTl5ZkJSWXAzQzgycUU2bEJua1hyVWM5SWNQWHZNQjdBVmFVT05nZGZkQ0R3b3MwUzhVUHdzTS9PMWp6V0JvQ0w3cWVobThRNEd4QWZiSHY2U1NIbnJEdW1ic1p4Wm5pUjlrOHVLSks3bS96R3YyOHM1UVJhTVJROGlDOVpnby9rNHdINXlXNzRvV3pRdGNIbWNEV2V4WWhQLzRKdzRtYzVwcVFIa0hNRndmSTh6a252cDI5cThtamd6blcwSFhjeUxqUGR6KzJtTWVtaXE4b2FzQUJnYklzSEhMRHdnUnd1U3pwbUh3dTBYaTVOaS94TXdFUjY1cnZWUlB6TEZ1SW1zU2JsME5GR3BLSHd4NWZiZzJVbFF2eFIySXAxVnU0VGtOYjI2TVM5czVSR0NlL29Td1ZVQXFXWEVtWFR3UkhRdklZWnlDTGpaNDAwNjl0bG01aXhsY0trRVdBRzdoVGJNdjkvS293RW5HTUwzbmZUWE9yZkd3NHU2bHFkL1IzeG9YN0wwcXpKVVhmczNITXNMbXBIYitlUDNsclRxSXZ0QUcxYk50U0srMXNqcGg2RG5MZUVibDd0enRZS0YxZWFlcWtuNUpxcXlBYmJza2lkR0RvME0vZ1p3STFHWkJMT2tva2dRK2o1S0Y1WVVpWHNEQkUxMUpleGQ4UHo0SGtiUTNmbVU1LzFaY0hoVXJ2VGhYWmFQSi9EZjYrS0dLd2xTTHFJWkxFaEpMTXBQck9RRjRHd1JVd1YrcW5aVS9NWHF3L2VD&file=www.1TamilMV.team+-+She-Hulk+Attorney+at+Law+(2022)+S01+EP01+-+A+Normal+Amount+of+Rage+TRUE+WEB-DL+-+720p+-+HEVC+-+(AAC+2.0)+%5BTam+%2B+Tel+%2B+Hin+%2B+Mal+%2B+Eng%5D+-+MSub.mkv",
+    "infoHash": "896F6AD16B4E8C2B94D7B4E4CED4DB0FD765C824",
+    "seeders": 44,
+    "leechers": 320,
+    "protocol": "torrent"
+  },
+  {
+    "guid": "https://itorrents.org/torrent/CCA188E5F64549415A96A3C000B370BA1659E9E1.torrent?title=[Bitsearch.to]She-Hulk.Attorney.at.Law.S01E01.Un.normale.livello.di.rabbia.ITA.ENG.1080p.DSNP.WEB-DL.DDP5.1.H.264-MeM.GP.mkv",
+    "age": 0,
+    "ageHours": 12.402370715,
+    "ageMinutes": 744.1422429,
+    "size": 2061584256,
+    "grabs": 2300,
+    "indexerId": 1,
+    "indexer": "BitSearch",
+    "title": "She-Hulk.Attorney.at.Law.S01E01.Un.normale.livello.di.rabbia.ITA.ENG.1080p.DSNP.WEB-DL.DDP5.1.H.264-MeM.GP.mkv",
+    "approved": false,
+    "imdbId": 0,
+    "publishDate": "2022-08-17T23:00:00Z",
+    "downloadUrl": "https://jditej.at7.in/1/download?apikey=531ae118e5fe4b67ade8f1c862a047dd&link=SEVIL0tHRkFYUzR0WGN3NTZodkQ1SUFUeEc3b2V1TkZ1d08yVVAyaUx6L0F0am8zaEY4clJUOWJ4UTlabnllK3B2M3RjbXdzaXAvSHAxRTVsdllyUlV4Qnh1OGxjb1U2N3VSMUc1L2tDNlpxTGJGTkZtblh5OHN3M1JPbVBGcFd5MVJMaXJSVXVtRmQvdFZQRGdTNTJaR3pxQm9uOW1IV3ZjK3pBNFlpNTVHMW5EOHNYOVRGYXB3Y1M1TFhlSHRsdlpvTjQyZnlFOE9IaitGcG9weE5mN0trRmhpL3E0ajlDY3JWZkM3bDZBMzBZNEpZU1IwSHZGL2M5MFhuaWk4VmtVZ1M2QSsrRi9tRTFVSlBPcXZ5K3VsWWdZcGFwMlVKdEdkYURYRGFIZzJiYWNIZEh5MTdobTRVdS9CVVhNcW4&file=She-Hulk.Attorney.at.Law.S01E01.Un.normale.livello.di.rabbia.ITA.ENG.1080p.DSNP.WEB-DL.DDP5.1.H.264-MeM.GP.mkv",
+    "infoUrl": "https://bitsearch.to/torrents/she-hulk-attorney-at-law-s01e01-un-normale-livello-df993/62fe1c08e93c06b6d4ead2c4/",
+    "indexerFlags": [
+      "freeleech"
+    ],
+    "categories": [
+      {
+        "id": 5000,
+        "name": "TV",
+        "subCategories": [
+          {
+            "id": 5010,
+            "name": "TV/WEB-DL",
+            "subCategories": []
+          },
+          {
+            "id": 5020,
+            "name": "TV/Foreign",
+            "subCategories": []
+          },
+          {
+            "id": 5030,
+            "name": "TV/SD",
+            "subCategories": []
+          },
+          {
+            "id": 5040,
+            "name": "TV/HD",
+            "subCategories": []
+          },
+          {
+            "id": 5045,
+            "name": "TV/UHD",
+            "subCategories": []
+          },
+          {
+            "id": 5050,
+            "name": "TV/Other",
+            "subCategories": []
+          },
+          {
+            "id": 5060,
+            "name": "TV/Sport",
+            "subCategories": []
+          },
+          {
+            "id": 5070,
+            "name": "TV/Anime",
+            "subCategories": []
+          },
+          {
+            "id": 5080,
+            "name": "TV/Documentary",
+            "subCategories": []
+          }
+        ]
+      }
+    ],
+    "magnetUrl": "https://jditej.at7.in/1/download?apikey=531ae118e5fe4b67ade8f1c862a047dd&link=a3Bib05SWXFJM3ZsSG9WNEY3MWUvM0ZFZk13cm9naStJUkhaTkNTRTdTQkE3UmZoMjBwU3NWZE5iVitXTmxuSHlDcGpxRnViVm9WNVJubzRIaHFlOTY5WDF1akJaQ1ViNkVoaVF1ejEyaFpaTThxSE42VnBXRkVneGhZZ3BuTjBRcUpnNjh1TlpseFBDa3pCSTVyNTNrc05MR3lKdVVoQ1VtWGExZzVvZjhTejNVNHFHS0Nlcks1MFpPMkIycExaazVmSGtTZXlpaXBUejJYQnZ1SXBKUnFWTUFuTjdsRzF1cThmbWlBYTVKNXV2Wit0Z3FuTzNMTURWTGk1V1VTWkUrRXEvK2IwajV2RFBhOFkrRmVsNWJBQVE2T3JrSFQ2UXlPZ1g2blRyVTg0bks0bDZ2MTd6T3hTK2pJNG9NSVV6YTNBeVcyTmFjTGV0VU1wTGhKL1pYMWc4bjNjR2xlSGd3Zk9pcFlPMVdONGxxd2NyV3Rwc1RFT2JwZUtaQTZNM21xakhER1U0Mk1QUXFFL2xZNnkwYjZFN01SRjdkSUVsaEVVRW16WmF5eXcvVHNiTy9RVW91RHRtTFkydnJpOTYvSnRMdzdkWmdGYmtPZ3VCSFhSd2VUUEE1TVFYYzlOOWJ1WVJXTWlubkVGVVpzZlNnTEhjRFVFMkZ6NU5hZGtMLzlDNlR4eTlia1RVV3pBUXhFNXNtcVA3aXhuY1lIcmtvQnVTK01MaFQvR3JTbURES0JsbkVraFlYWlpxY3E4a1FwN3cwcDlIZ2tnWHg5Z3BIS0dlTzNHWlp0R240NmE2SE5lMmxEdnNaa21PaXhZQXdoWURDYWd5d3EzamVLRXk4eGVSN0VKQ3R4emxaQmdNS1N0QTFsWlZLdFkrcnBZT1FROEZjckttWEpoR1NqajZjOUQ1d2RiMFduUHlCNkppMDM2akFESEtRKzcybitqT2lOL3VMSW10Vmc4dGNWQTZ3WU9OdGI1WGxhSnhJNDNzbU1pU2tCcTVRYTJDOUxMM1dVNDZoWG56cFdtU3dldzhCUWh5ZGRoSXFqbmN1OUJyRWFreWh1TExPK2RoQi95SGZ3OTR2eFNKOWJwcldxcjF4RlVYTUdSclRaZkFFWnR5QWxoc2I5eXNoUUdjTURycDdKdEk5YmZEOVFPSHhqTUpSRml2c3ZuejZ5YXB3L2F1TnhRZEw0eDIyMENnVnpxT3lYZmloampzRHNjVUZidkQ4QzBoS3pKN3UxWmRjK0ZFeG1YRmlGZ0JXdG9FdXcyM3hkYmdXbkd0V1o5MGxTSE16QmN4K3NPbGQwYlZzaHFNYWhFREE5NERoY1djdlBpV0Z4bkIvaFFDM25PS2ZtZG9GUGJXbkdyRFhHTURsT3lFZDhLSUNucURmOUkycTc3S2krTXZiNEIrZzk3bGxSMThkUmpCQkZEVzJQUnV5dE56d3FJRFUrWjd0RmlrRms1aHdIUkxCRitEOEoybzFrRlFuWHNqNUZ2Q2ttMWk1RFNpdEdnbFZBRDNaQzJBYVJJN1MySCt4WlhuS1Ewc3NSNXptcldlNHBCZWIvT3hpQUJuNW5oSExOSzhqcGJua3NLWWxPeFFjeEVLb0szeFRJanZFU0FLamNTUTJjV3ZjM254aStORU8xdWFCdXFXNU56cExDSUxkTFpGajZaaXBoai9pZE0vZ1NJTW04SmJzS2JPb2U0UnZiR3ljaEEvaHlqN3QwUERRNU9ZMUxSMWFSSWNzWEQ2czZTenJVYS9HMlJtT0hzS1E1b3VSNzd1WTF6c3NTTmxLRzNwSXpIUjFZMXNqajBQcmF3Q2tZZlR6YThTUEFLekl6d3ZLZ0psMXVZbGVoNWdIZFdDTTIxc0lYaFQxWEEvYkRhNmRrVzZkUmk3KzNPUjA2aFhhcHZndm9RdXU3YlBxUXBUTytMMjVsbUpReDJaL2dwWGVBT01KZUlBNk9MeGN3YzdjalVYV0xMcnN5c1VWSTlLVC9nMmx6UWRYWHlqbC91VEVlMkoybzNsNmc3MW1iaW1qNTFiWWhmQnMwOG1pajhyMUUwL3MraGVyejJWM2ZaRDNBbzhJejYrTlc4UkpzT2ZQc1lVV0sxS1FsaEd1R0xtbWcxeGNBOG1WMG5WNmc2alpNR2VtbWhyMlVHN0E9PQ&file=She-Hulk.Attorney.at.Law.S01E01.Un.normale.livello.di.rabbia.ITA.ENG.1080p.DSNP.WEB-DL.DDP5.1.H.264-MeM.GP.mkv",
+    "infoHash": "CCA188E5F64549415A96A3C000B370BA1659E9E1",
+    "seeders": 236,
+    "leechers": 288,
+    "protocol": "torrent"
+  },
+  {
+    "guid": "https://itorrents.org/torrent/FD0A0CB03C17381FF30B2EB8173298E82881F70F.torrent?title=[Bitsearch.to]She-Hulk.Attorney.at.Law.S01E01.480p.x264-mSD[eztv.re].mkv",
+    "age": 0,
+    "ageHours": 12.402371006944444,
+    "ageMinutes": 744.1422604183333,
+    "size": 335544320,
+    "grabs": 4200,
+    "indexerId": 1,
+    "indexer": "BitSearch",
+    "title": "She-Hulk.Attorney.at.Law.S01E01.480p.x264-mSD[eztv.re].mkv",
+    "approved": false,
+    "imdbId": 0,
+    "publishDate": "2022-08-17T23:00:00Z",
+    "downloadUrl": "https://jditej.at7.in/1/download?apikey=531ae118e5fe4b67ade8f1c862a047dd&link=NVAzelNwTE9NVkltOWZSQVo5N0dtNU5oYXNTZXdTU2k4d3FGQTVicUJFZFJkRTFWQzgycDNqRzZKemxCMXhaUVhOWDlBa3lCaGdWcFBNWjVjb21XTytmZEJXMUlxVUNwLzBnYWdpTEZDelB4S2I3Y2h2Q3ZFWDhtdzRRdktpNjMrSDgvN3E3TFVTTWJ4RnlwQ0tZN1hzdnpHN0xhaUhLMjlNYzRxMjBGSHVpMThlYnJyZWlMdkNBeGJFbXU2UGwzNTU2MDVLS01TQ0ZjUWpFQ3BsRm5lcVd5dXFTL3BmN3NHeEJFcWNINDFKcz0&file=She-Hulk.Attorney.at.Law.S01E01.480p.x264-mSD%5Beztv.re%5D.mkv",
+    "infoUrl": "https://bitsearch.to/torrents/she-hulk-attorney-at-law-s01e01-480p-x264-msd-eztv-89825/62fe1b4e1bee6cb228758d78/",
+    "indexerFlags": [
+      "freeleech"
+    ],
+    "categories": [
+      {
+        "id": 5000,
+        "name": "TV",
+        "subCategories": [
+          {
+            "id": 5010,
+            "name": "TV/WEB-DL",
+            "subCategories": []
+          },
+          {
+            "id": 5020,
+            "name": "TV/Foreign",
+            "subCategories": []
+          },
+          {
+            "id": 5030,
+            "name": "TV/SD",
+            "subCategories": []
+          },
+          {
+            "id": 5040,
+            "name": "TV/HD",
+            "subCategories": []
+          },
+          {
+            "id": 5045,
+            "name": "TV/UHD",
+            "subCategories": []
+          },
+          {
+            "id": 5050,
+            "name": "TV/Other",
+            "subCategories": []
+          },
+          {
+            "id": 5060,
+            "name": "TV/Sport",
+            "subCategories": []
+          },
+          {
+            "id": 5070,
+            "name": "TV/Anime",
+            "subCategories": []
+          },
+          {
+            "id": 5080,
+            "name": "TV/Documentary",
+            "subCategories": []
+          }
+        ]
+      }
+    ],
+    "magnetUrl": "https://jditej.at7.in/1/download?apikey=531ae118e5fe4b67ade8f1c862a047dd&link=Q1FPRjdyMjJNL3Z1SGxob2xXR3c4ODRjTXAwZTVZYWhPSTZ1aEtDcEVVWk9pRCtyakpFemxtSmljcTB2ZXpHcG1tUWhHeGxTZkVITXZDU1pVUkdGVXR3dHBHWHYyVFNkOGIydUlkbGVKcXNmR0JQa1Q2MElRRU04ZFRkQ2hvVmhhb0VrYW9mT3hpbVV6eFNDWndzbGFJQlBpTUlvTXVjQ1p2WmN3Y1ZOdHJzN2MrZU5ua2ZtNktYSVMrdnY4NUVvMnJ5MlhwNk90SGtHK1ZXWUd0QlpodkFxdk5GdFJIMkdINldlQ3NLNDhUTmdFeU54Y3Bhem5aQXRWYkRzQndJL3RlTUJyemJySE5QMk4wdDdveXVRNWZsRDJZMnAxUHdJdk1kTUtocWRvK3VSMXBNeG4rMGU1L1pFdFlubHJFaDVPMDRpNEE5RHFMM2RQc2s5OXdvSlJQb2hScWhzVytRQjJkalVSQmVQeTh3YXp3NmxSU3ZOL29RRGpyVUV1eTZpU0p0RUVKd1JwMHVSRXJjVkJiQ1FTRXh2S0Q4aFJIZWlvdHVRN3J3bTNMQU1lSlFoMlFnMEc2QmQwTGtZUGZ1NjF0MnovQ2ZNTndrTVNCUmtEaS8yK2JBK2MwdUJPaVJrTVlUV3ordnVVbk8xaUV4d254MERDcVI5VGRwa3cvV29GeFBqVGRuUWZUbEtnSHpZR0VFM1pBR3hjZXJ4MVZWWGJ6L25nNHJyUWZneHgvaWdzYnFxSlUyMFlNWTVpVDdtNVZNQWdnWHkyR1MxNXhBUVFkUUJaTG5vOGJiRGhYc3dXNzZzTkRLVzkvb0hwRCtGWTVyM01Ec3I1eDdyZmF1UmlLM3NHZGdvdmhyQ1ZRUlNxUk0yMlFwa0t2Z3I3YnRBako0SGEySTE1NWRqbGNuWUhKaDRtYzZtRXd6RlF4enk0ZU13Y2ZkaTY3MHFYM05XcFhaRlRRWlFZeUx5MnFNYXpOZmpGelhpQndjelA3TGRmSXdCRUlVeXUwS1pEb3FFSnVNRjEveUFJWXZlWXlzYkg3NE8rclpkcUliT0tFc3p3OTNTdmt4M0JtOElxZERqSGs1M09nVWZab3dvT1cwQ0hQQWczclFTRTNJeWpic093Z1o4RWFORGxHYklYenVTZk81TTdaSEw1RmlJejNkSXRJdmUrUjF6bzQxYVlFeVlMU0xHWEdPYlNDcWhvMWhEZ3hHQy9wekVLVk9aRUErRUluUlRvK1RJUUtjaHVVNVN6alpPQnVJTUhqNXlCdmtEaWxmeGdTaWIwTGNhK0l0TmRzREZTN00wMm8wdkxCckc1b3hBYUFpa2llOVRCKzliTm1tSGpDQ2taNnRtVFhVUExtcEZ6N1RiVnJ6dTJkZ0YzT1U3RGxVcGpEdyszaGVBeWJHUjZpVC8rUHU3L1lOemRtZzVwRUxtalRiY2dNYzlsTjgxYmpjcFRnSXgvSkJYQ2NGVnJ2eFBlMVVuaVVHUjlPY05ZMlkvYVhoRndEQmtkVkFmcDVVaTVSMi8yLzI2YWlZMnJmTEdOQWpGSjJzcU0xTGM4SGpuSzdXVG80UGxGQUlZQUMrQk9PQmYyeGFMak1hVmZpR3JJaGhnbWF0ZVI3UXF2ai9vNjJDUFhWVXZ0dGpMVHg0N0pVRWhaRjQzVmFUbGdQWkJaN2pNT3E1Q1FxNEZIQ1ZpY2xMQXhielFoaGJQdEhNTlhmR0s4Q1RVUmJaNkxGRVlrY1ZON1pqZFhpM3Y0T0VKVm1PeUZMd2pWTUl1b20wSmdVNmFlREV6Z1JCWGt2d0I3WmQ4YURxWEkxU1JzNTJ6SUUyVlZ3TEsraTRXZ0xnZ2ZGK1p0aUhMQ2x4Ylo2enlLOU5ZcFllQ0RmNVZpNG1Ya3hoZmxVK1RIS1drQm9BM0xYWHdFQWxFalp5VUpFSGsxekVOWVMzYmxRTUlWUFJVUmdMTCtKYTJSeC95MStvUTZIWjdrclkrbkVUanY3RHp0Y1FRZzg3S3RCN0VtNWpMbE82aVJBWlYzY3YvY0QrWkpvQjdZOWx5MFhEMVpVRGIzWFRPeWphTjhOUk94QT09&file=She-Hulk.Attorney.at.Law.S01E01.480p.x264-mSD%5Beztv.re%5D.mkv",
+    "infoHash": "FD0A0CB03C17381FF30B2EB8173298E82881F70F",
+    "seeders": 351,
+    "leechers": 896,
+    "protocol": "torrent"
+  },
+  {
+    "guid": "https://itorrents.org/torrent/8C322074C51D812870722027ACEE755966065330.torrent?title=[Bitsearch.to]She-Hulk.Attorney.at.Law.S01E01.WEBRip.x264-ION10",
+    "age": 0,
+    "ageHours": 12.40237104688889,
+    "ageMinutes": 744.1422628133333,
+    "size": 360710144,
+    "grabs": 10600,
+    "indexerId": 1,
+    "indexer": "BitSearch",
+    "title": "She-Hulk.Attorney.at.Law.S01E01.WEBRip.x264-ION10",
+    "approved": false,
+    "imdbId": 0,
+    "publishDate": "2022-08-17T23:00:00Z",
+    "downloadUrl": "https://jditej.at7.in/1/download?apikey=531ae118e5fe4b67ade8f1c862a047dd&link=eHRlNWVnY2hZNC9lQzR3ZWFLTWI2eFBQajgrR1pWQ3V0empWR0k3Z2UwdEwxMDhGOFJPakxvRmJvQzdiSEFGUjhwc2d2WE0vZzAvREFNN0VGZXpDVWFwM1paeW5mK1hyRWNGKy84YkgxMHAyczJ6anpGZi9GMWorYXNnZjc4UXN4dW1QcWRxM21IU2ZBQlNxdWNSQmpCQmJkdVFMWVpOVzJwbENsd3FMcFNybGNGRVlQQjFLMTJpZ0paemdyMlVRZjJ4c21FczY5U0xleTc3KzEvdDVXL3ZBSnRHcEhlcUNaTzl6N1RVdG1Hdz0&file=She-Hulk.Attorney.at.Law.S01E01.WEBRip.x264-ION10",
+    "infoUrl": "https://bitsearch.to/torrents/she-hulk-attorney-at-law-s01e01-webrip-x264-ion10-546e8/62fe10a31bee6cb228754add/",
+    "indexerFlags": [
+      "freeleech"
+    ],
+    "categories": [
+      {
+        "id": 5000,
+        "name": "TV",
+        "subCategories": [
+          {
+            "id": 5010,
+            "name": "TV/WEB-DL",
+            "subCategories": []
+          },
+          {
+            "id": 5020,
+            "name": "TV/Foreign",
+            "subCategories": []
+          },
+          {
+            "id": 5030,
+            "name": "TV/SD",
+            "subCategories": []
+          },
+          {
+            "id": 5040,
+            "name": "TV/HD",
+            "subCategories": []
+          },
+          {
+            "id": 5045,
+            "name": "TV/UHD",
+            "subCategories": []
+          },
+          {
+            "id": 5050,
+            "name": "TV/Other",
+            "subCategories": []
+          },
+          {
+            "id": 5060,
+            "name": "TV/Sport",
+            "subCategories": []
+          },
+          {
+            "id": 5070,
+            "name": "TV/Anime",
+            "subCategories": []
+          },
+          {
+            "id": 5080,
+            "name": "TV/Documentary",
+            "subCategories": []
+          }
+        ]
+      }
+    ],
+    "magnetUrl": "https://jditej.at7.in/1/download?apikey=531ae118e5fe4b67ade8f1c862a047dd&link=K2VRendGSG40ZmhDemtieWZMZ0NKTHZxTTc5NTdwWW53T0l5NE1tMkpRN3ZmQUxKS3B4ekZiSW5nc2t4M0dvM3kvUGJMd1VUWUZwRGFyYVF1bGJQSGV0N1dmaEUyaEJneVZYd1BBZXYwdWpiSWlXQnBwVUJwYUs3NUFLQU82b1oycS91RndHaUJEeWZlVFB0YU52OHMrSnFsbG4zNUdFSDQyK2FDdDg1TFNVN1RMS3dCMTlrMlFlQ0V1dkJlQ0pQbDByUVE4ODB6SVNGOXYvbXR4TGxwYzBrYlJqUHROV3FXWERRdkJSc0ZWYzgxYkFGc3J4S3ZLaGswdFIwQlNxOU1tNDM4Uk1JOTlvQytWbjhGOEt0SklRQ0dJTmRnRGlwbDIzdFF1Z043OFVDYlVlOGFFU0lVMldURXFkaW16aExRakZLdEpyMjBHTjRMN2pueFpDTjZpTTgxRTE3Z2xuTDQ3cnMvSmRTbHFkbFdMS1BLTmJ0SEh4UkhBWTB4bWNFR3VzeVJ0ZGdjYlV4ajhXOHJDeldmeGk4Nm9zbFJFMnBtWEF5MzJ4RkhKVGt2cXJmNC9Pc3JDVnFlKzF3bTc4Qm5TUlc0ZHppZDNBemlUKzhFZTZzNS9IVDlURWpxWmdxNjcwTjdMT2p5cUo4d2F3SUx2U05yNDZzU3AySW9KUVpYbTVueG1WTnhZbElRS3dvYUZYMERIRVcwcFVMZDVuVDBsNnNJU0wxMVlZTDVZUG15QmpYTkc2eTBKY3ppbE00L1NocG1aQnRnbGpaczVZcllXNWhLcWVFdFhSQ2UxaHkwY2h4RWVlL1lNSHRDVHE2RE8xWWVRWmhmNFV0S1RTYTlEcit0OGZSZ2lGWlo4bGVzSGI5Y21PUXRxaDRsY1o3SXVITjZXeERWNFp0OTFUcXptYkhEYXFjR01US3JaMThoQVMvQU5mbHA3M2p3OUlPUDh2aGxOM2Y1aStkQi9oenJUWTdXNWpIWDJvcmRLaElteVNseWN1Vm1nR2VjWmFRQUVzZEkzUHdBeHo5eHdjb3puTUJaWGRjMU5GS09JTG9qTHV1Nm4wcmxEa1M3VTBEUkUyZ0R5MW44dFVaV3ZYN2pFYlN1cGNEZlAxcFRpZjl6d2JDci9kUkxwRTBxSXdBbzhBRzBkVVl2enFtTWZ1bTI5dDNNQ2pGUHEwSXJFeHhhMVhTVEEvaHQwTjlWOWcyMW5RS1pNWHdzQlk5WjR5QnFYMTk2TjJ5T3dwbGR2ekhSZ3dUK1FNdVB4NXdZUm9zTExqSFdXR1JmaVVoYkppb0RDU2lZZ1FFMEhIeHRib3JKcVlYY1VOekVjTkR0b2VsNjdjRmtvYlp6L2NsWkZQc3ozVysvbE1TVW9tV09hN2hrNUgxODVhMHdwdjlibHNhZG4wZzJ6WE1nSm53RkVTdWhYcjkyQ0JTNEVQWGVuUC9SZnV6MndPNjJRT1prNnZYVytSTW1GU0g1eUFHcGpPVlo2Tm5KcktpbkpFZk5lVUN1bURTSEhrTkpTVUtZK2dLWHlBbElWV3ZTVk5KYjMrcXBBOEd3dlZaaHRXZVdGUEM0eVpQNGpmaGsrandiSVhBSmpnSmszaWlqdldzR3ZkUXlGVXV1RytCbEJzQVZNTmdFVTJWREw0Tm56cnFnWlVmVWY2cHlPek5zOXFyc3ZLam51alcxUDhGYjVDdkwzTmhKQXMrMFJqQVBXa0t1ajVXalZJRWNNcUQvU0k5bDFlRGdKb2JaY3R2Ni9LZ3M1bEk2Q3VBT3kxU2gxWXFOcEZmWFJLaEJsQjh3ZnpEZHdZWVc1ZUE2N2J3ZDN3UmlVTmNxWXcvenZIL2VZUVZiK2pwWVRyanl3dWNWd1MrYWw3Z2pYczcxUHIrVkFBeGd2WXR0b1NhNHliQlJ6Y2lJY1p5QVltWXR6ZGU2bGo1U1hRQ3lVVG5zQ1ZRZU5Ld0dSSE9OeXo3dFo1eUNhZHVkZ0xscUxlOGswNmh3dGhETUp0SDMrM0I0VUhTZWxCQUowaHF4enhaOWZQc1FLTnFHczNLY2Z1aUErMUNOWjF5Ri9zdmN2MHRhUT09&file=She-Hulk.Attorney.at.Law.S01E01.WEBRip.x264-ION10",
+    "infoHash": "8C322074C51D812870722027ACEE755966065330",
+    "seeders": 1200,
+    "leechers": 1300,
+    "protocol": "torrent"
+  },
+  {
+    "guid": "https://itorrents.org/torrent/3D4B5062C2845CC727817A3CDBE2E79ED7874B91.torrent?title=[Bitsearch.to]She-Hulk.Attorney.at.Law.S01E01.720p.10bit.DSNP.WEB-DL.DDP5.1.H.265-MGHW",
+    "age": 0,
+    "ageHours": 12.402371080166667,
+    "ageMinutes": 744.1422648116667,
+    "size": 704643072,
+    "grabs": 247,
+    "indexerId": 1,
+    "indexer": "BitSearch",
+    "title": "She-Hulk.Attorney.at.Law.S01E01.720p.10bit.DSNP.WEB-DL.DDP5.1.H.265-MGHW",
+    "approved": false,
+    "imdbId": 0,
+    "publishDate": "2022-08-17T23:00:00Z",
+    "downloadUrl": "https://jditej.at7.in/1/download?apikey=531ae118e5fe4b67ade8f1c862a047dd&link=eGJ6VUNVU1UvQ1FJaE40NlgvWldjb2Y0MGJjcGJmVmNIaHRCRlBFaW50NnFKVjBTelFSYmVqMUhLeGlEVDh0aXAyTWxNa1krZ1ZZQUhmcUp3NXpJUDdqbFEweHIrc0xiSVpZNGd6UkNTZ2xRWGZDcXBUL29aOWFrN1hIV1dPcko2U1hUdVd5djhpSSt3akV6Q0hhZDREdmRuam1xbmNnclUySHRCWGxCK2lGbEFYL2NGWGJacmJ1TmFWUGpJcGVzOWJ5WXdVS055Qko1RW51bDFzWUUyOTZDc3VYQUNYSFhjSFA1djZGOEhqbU5ZeHI0WHdXdzV3VjM2RGFDOENrcg&file=She-Hulk.Attorney.at.Law.S01E01.720p.10bit.DSNP.WEB-DL.DDP5.1.H.265-MGHW",
+    "infoUrl": "https://bitsearch.to/torrents/she-hulk-attorney-at-law-s01e01-720p-10bit-dsnp-we-274ef/62fe0f1d1bee6cb2287512e8/",
+    "indexerFlags": [
+      "freeleech"
+    ],
+    "categories": [
+      {
+        "id": 5000,
+        "name": "TV",
+        "subCategories": [
+          {
+            "id": 5010,
+            "name": "TV/WEB-DL",
+            "subCategories": []
+          },
+          {
+            "id": 5020,
+            "name": "TV/Foreign",
+            "subCategories": []
+          },
+          {
+            "id": 5030,
+            "name": "TV/SD",
+            "subCategories": []
+          },
+          {
+            "id": 5040,
+            "name": "TV/HD",
+            "subCategories": []
+          },
+          {
+            "id": 5045,
+            "name": "TV/UHD",
+            "subCategories": []
+          },
+          {
+            "id": 5050,
+            "name": "TV/Other",
+            "subCategories": []
+          },
+          {
+            "id": 5060,
+            "name": "TV/Sport",
+            "subCategories": []
+          },
+          {
+            "id": 5070,
+            "name": "TV/Anime",
+            "subCategories": []
+          },
+          {
+            "id": 5080,
+            "name": "TV/Documentary",
+            "subCategories": []
+          }
+        ]
+      }
+    ],
+    "magnetUrl": "https://jditej.at7.in/1/download?apikey=531ae118e5fe4b67ade8f1c862a047dd&link=bHlkckRGZks3NGxEUjRoR0VUNkNvbnZ6UU9CVkVoWXR0eDAxa0xIamV1Z040OXI3TWgvT2U3bDBXbzB5blhsejdyQlFQbHdzT24rcENobFlYdHBYdU02UEw3M0tlVmZWeUpzaThTK2NVNFQ2RWNnYjR2Z2ZHVG5HWjVkenBQNGVwNUZYQ0VxOWluNmtIa2ZXckl0eEp6aWo2MGVnMXVSaU4yY3VNK0kwRm5aTnB5Rms0Uy9sYXFDeFJOMFNQYUNrYitWUmxWLzU3UlpmK2JQUTExR3cvL3lBRUpDcTRvUHlLaVAwOG5keEFTZy9TZHQzSWVLZUx2dDFjbllGTmZCMWdYSjFqZjhYZk1xUnhNdWdBdlVlbDRnNmptN0xLWHdJclQ1WG1HRHp5Y0t4akZqeEo1Nkw3Y2NLZGRKSWpLc0xWbmp1NGNWN1FhSnhzTDRQZWFSaEdJY3pPWncwUkVudUNFUStWaGlXYkQzaUJqemtYL3pleC9CaURKSkd2dkNGb013U3VJbU1mUGVUNGhpZFVKbTRyZCtodnE0Yk9RUXk2QlduL2hhTHZMbHRIMGJLelVkVlM0UEw1UzZ1VGNKbHkzYzl3YjVRS3BxN3l3VlUra0dpL3NyR2loR3BBcVlzSkUxOTVKdGVpVnFoZTgzZWNJOEZ5bDNWR3BJam9wYzFHVTFldTBjNzFZQitTVTNKR25NbExnM2NLK2hXK1E2WjV0YUdKNlNoMHNtbmMxbTllWjNqRUZvMDJoSVg4Y0YzZ2Zjc2pYL2prSkl0eFFOQ0VRcVZ4bVJ2OGowK081OU5KQ0VaSkZuNVVXOUhiWU5STnpvc3ljWE1kdGI0ZTlvY2RNYjcrOWZpNHV5N2Vuc3EwaHdKVlNXMjErRXUzT2dRTjlXY3BMTldDL1lnaWpqdGpMWVN3cGIwK1crMlJnL0NlRzVTMUhtRGhVcWdHd3JjM2dYUk5tamg1NE1DVDlWeXo2VGxpd3NZOEh6Y1RpZkIyd0hrL01LeExQOW1lN0p5ejFUajE5RXk0aTNpWVBHaGVmb1pUYlhTRHdyYW9SSGpiTWxDR3Btd0pUVGdmUDBRTTBYUFNzdzlEZER4d2RURVg4bThuWTZiRktuOS92ZG1rRTBjL2c5UVY5MnAvaktsdFFHa1FMY1BuQ2Uzc2RMN0wxcmY4VGJsK3B4blU2Z0NDWWx5MmR5UDZpRFY3czA4QWxqeEtxSVBiTm1kQ1c5ZjFlZ2NSNFQ2T0NsUWYzcnBnN3lRL1V1dmdNTWNXLzdHSkFnam92WHNmbjNSWmhaRjFCOFJGT29EYmxpRkd4TU9JcFZXa0hIL0FZb1lDa1N3Tm5pckJHclVsU3Z4c091b3FBOC9pSURjWVB4OThWL0J0cEJyNU5MZVFNK1ZQTS9jM0VWSytmYzBHS0pVdklVanVYRFIxeGJ3alhlWU44dGxoNlFMT2ZvaFhDdEFMdDAzZlRPMzNPWTRkdERRRjRJaHBIMW5wQS9qSnB1bmNSR3JwU21hSSsvczlQMnRWK1FSSzZMRzdQdmZRY2hNRTR3cHVhSEpoWjAxUE8vRFRObHpSWGJ4RmVZbGMwaUlkRTE0NHh6c3JCelg3UGVNc2RkM1AxN1V5SXp3ZGVXanUxUU1SeUU1TXNQS1h6Z052d0FLYUNGaEpTZDBtQlBNeTlTQmRnZUtjQzRTaUhjOTlFR2ZCdWNsMDhaNHZTTHp6MkVsbVpYTmY4RFdIaGIwVFVmblRlanNmZldIckEzemhFSnBrclBSZnJ4Qmtzc2EydkE1a3kza2VpNHdBL3UvRFd0YU53dTNJN3IwOFBzZ29MMFlJZXNQa3p5ZC9aWC9zdkhCcHFISDcvSmkvbkdDUU5Id0lnVzhuUTRjOUZFS3dWWE5kZEFGUUd6T2ZTcU5PUG10aGI4dGY0bkZodTRybTdEYmkxbkdsR2cybW5nK0RXZnM0MUZHbXhSRDN6ZDQ2TUtqWWNPTno1UGR6RXBGdmNwRW5zNmY5VU5tU1AvN3VsV1VPNnNYcHA1ZXdvVzJIc2pVK2NOY3ZjTFRtVDFvWTR6Q2pJNkNCOGw2dEF5RE5KVzZPZmEyc2FZWHVQcz0&file=She-Hulk.Attorney.at.Law.S01E01.720p.10bit.DSNP.WEB-DL.DDP5.1.H.265-MGHW",
+    "infoHash": "3D4B5062C2845CC727817A3CDBE2E79ED7874B91",
+    "seeders": 8,
+    "leechers": 27,
+    "protocol": "torrent"
+  },
+  {
+    "guid": "https://itorrents.org/torrent/2FFF4691F62C684A24BDC8D50A9C54B99F491E74.torrent?title=[Bitsearch.to]www.scenetime.com%20%20%20-%20%20%20%20She-Hulk%20Attorney%20at%20Law%20S01E01%20XviD-AFG",
+    "age": 0,
+    "ageHours": 12.402371113694445,
+    "ageMinutes": 744.1422668233333,
+    "size": 447741952,
+    "grabs": 340,
+    "indexerId": 1,
+    "indexer": "BitSearch",
+    "title": "www.scenetime.com - She-Hulk Attorney at Law S01E01 XviD-AFG",
+    "approved": false,
+    "imdbId": 0,
+    "publishDate": "2022-08-17T23:00:00Z",
+    "downloadUrl": "https://jditej.at7.in/1/download?apikey=531ae118e5fe4b67ade8f1c862a047dd&link=WWNpc3hVZVdpb29xdno1azVKR2IxVUVXd2RLNlNlc1BiTzFkQXRzQlQyUE1TWEhyTVpqT3AxTWFVaFhWejJsR3EvZnk1V2p3Rnd6cGFES1NPQ2xER3U4bkE3ZDQ4NjFVN2s4RnlCODBVVHUyRWtmN1BkM1pqa2FzQThrNVJHbWVvbklrRThTcnY0Y21kanZLZUwrL3NseEY3aER0NDl5K3JrUnRFc0xpWkF0c081dHpOQ0ZacmxCc1huVGx4eGZnaVcwVDF3UmVkOUFxRHJ4MVBMTk5ieFJ1NWg4OVh6dHlyN3hRd01YbUVOMzdubWcyYWs4OU9MckUwdWJ6QnBXSA&file=www.scenetime.com+-+She-Hulk+Attorney+at+Law+S01E01+XviD-AFG",
+    "infoUrl": "https://bitsearch.to/torrents/www-scenetime-com-she-hulk-attorney-at-law-s01e01--46b7b/62fe0da0d22afbac7286cc57/",
+    "indexerFlags": [
+      "freeleech"
+    ],
+    "categories": [
+      {
+        "id": 5000,
+        "name": "TV",
+        "subCategories": [
+          {
+            "id": 5010,
+            "name": "TV/WEB-DL",
+            "subCategories": []
+          },
+          {
+            "id": 5020,
+            "name": "TV/Foreign",
+            "subCategories": []
+          },
+          {
+            "id": 5030,
+            "name": "TV/SD",
+            "subCategories": []
+          },
+          {
+            "id": 5040,
+            "name": "TV/HD",
+            "subCategories": []
+          },
+          {
+            "id": 5045,
+            "name": "TV/UHD",
+            "subCategories": []
+          },
+          {
+            "id": 5050,
+            "name": "TV/Other",
+            "subCategories": []
+          },
+          {
+            "id": 5060,
+            "name": "TV/Sport",
+            "subCategories": []
+          },
+          {
+            "id": 5070,
+            "name": "TV/Anime",
+            "subCategories": []
+          },
+          {
+            "id": 5080,
+            "name": "TV/Documentary",
+            "subCategories": []
+          }
+        ]
+      }
+    ],
+    "magnetUrl": "https://jditej.at7.in/1/download?apikey=531ae118e5fe4b67ade8f1c862a047dd&link=ekNzbFBaekRVak8zZGVyU3dyTzV4WEYzdE9obzVZdlBiTGZuYzc4NGVxSUkwUkl1NE0rbFIyQUhaR2dOWDVBUis4aVE0eVVUc29Wb1RwWjEvczhoZ0JZRkZqcUJESitFUG9tcXRKVVJWd0JkTDFZdFV1c2xqcXVMU0NnY1VuQ0dCOUJ2OVpWMlFlWThwWEFzV1dnbFRTb29FazQvZ3FHOGF0czFodDRlYXpPdW10VjJraU9icmQ0M2ZsdHZoUTl5MkVjNlZmOStCZzBmby94amQ1Z3VwdlJaUXlUbTJlNEZtY3hPbnlveE9MZk1sSDdpQkZzVXdiWVpPSmxUWnFON1VPWlQyT29DSStmNDB0TGdaTHNLam5sdHVrY2JpRDVWYU8vNUJJUjNnVUR5V1RiTy8xRm8zSUo5OCt5TEJzdVZYL0NKWS9QTk1XMGJXNUNlMWpBV1h6T2NRc1VqVVpnbXozeHNZNHhFamRsR1JnZTROOUtseHBzZnZDNVBOZ2JpbGcxOENKT28wT1d0dnh3QzVKU1RRMHZqdHV4VEVmeG5CV0dnUHZFbEpPOWRWcWVDQ09FQ2RzYmNmK09hR2tIcTFKaW9JTTJoZUtLTVF1LzlpZlFpSnE5U3psc0dXYWFOTFY5MitMaDM2MjlCSnlRRVFlcHE0UXZ2NDg0ZlllZ3o0eUFyUUJ2OGVLSUlGdUFCU094ZkljMTNUWnp4VzU2OFh5NVlwc2c5Q01jUXF3OTdCQis0SzJEa0ZJcWdtODN2b3dVTWNHazZzd1cvVVp2SjlzcGlScXBFL0VxWFppN0lKTG5mR01IVVh3VjRUQ1VuSHNzTFlib1Jxc1RtSUtJQ2FNdG1hb1l5K3NWYzllZE5TREpxU2pOSG5ZVW81dHJHZm9ydGhMdVlEWndzZzJaMDduNFN4RWUyc2RoYjI4eVVvY2h4VDJkcVFjMkFYaHhpL3pzTXJrQVl4d291eStYTUEyeFJUbndIdmVoUlNsQitqbTlydWJWdUZrdlkwZDhDdm5jWHUxdVo0ZjM1SUZlc3JSbkNUYUZVeWd6WjFFNlBxcnR4MXFMNVI0eWM1VW1SNmlKMGlERWNaa2ZrRlZKVldHMmNRVzN1N25MQVRRRGFERDBBOWx3MHNrZ0kzZEFvVGRHSkRPSFk4U0RUQzFBMlJRQUN1MFFScDkyU0NtcVB0d2hmNXhkeTVpTHNKNUNXZC9IeWxVelIrc29ZLzdMUkNpakpGRTZwMzdQb1dFZElHYmVxYTV1NFNOQVJrR2JMTWtROXJXRWFqUDNHT0lNMFRUZ0ZPamFHMmJJMFZTdlhiRWxsZy8vR0VLcmlId2Z3cHRucTVYalh5NkF2WXloZUkybEJ2akJvMHVIcXpra3VZU2xmZjBqaDEvdUNOU0doM2xGQlpkV1JGUnlGVzhUMUtpY2lFdjFKcFBiMjdKdmNRN2FJNW9Qdm9YaC9XcTdHc3h5SUlDTG1mTVlLN1REVjhkWmt6cFpGWXFqeS9zeWROZW1lVm5abXpmWFE4SFlpMkp3QnlwSFF6L1R1a2p5TEpVL205aXZGS3dqWERTbHhCaDBIdk02TlJHam9uM3NYTGdzMGFuOHlQbUdyVEpKb2lQRXNzNnZSaWo2eUxNdUxRTnNZSmtTRFQySUdRblVCVVhpUnBzVzR5TnRWdEtEK3drZ2VsVzd0L3BTUzY4bXZUNy9aR1Bid0NlSlJ2V00vSit4eldKM0FLWldhNCtHdFRmSDdRa2FtZEt3TVVCTHJUUjhuR1c2TmlCWXQ5NUkzR1h6Z2NIVWJmdE14Y2Y0OEsyR3RUSk1OUzd4cVRYdlExSkk0NE52RmVVbzRldzNTMHdHREdjbHlDYXJLQzFpUmlaNnZyYndpM2d1NVZSNmNmRjRYZmU3R2krUEZhMlc5QzhpUGJoNzN4Rmh5OUhkUUZpT0kzRHB1YzJPRzlFTzNodkFsdVIvSWdWVkdRcEYxR0xORDU2VmIwUkZVam5FaitsU0gzZG9FZmhUVmlvNTJpTEwwZEp2K2FxL2pHSEk1OThOY2VZMHRZUm1acStGLzlSS0lYZz09&file=www.scenetime.com+-+She-Hulk+Attorney+at+Law+S01E01+XviD-AFG",
+    "infoHash": "2FFF4691F62C684A24BDC8D50A9C54B99F491E74",
+    "seeders": 24,
+    "leechers": 39,
+    "protocol": "torrent"
+  },
+  {
+    "guid": "https://itorrents.org/torrent/C364CD720A470207A2B704FA048D3D3BAA11CD0F.torrent?title=[Bitsearch.to]She-Hulk.Attorney.at.Law.S01E01.1080p.HEVC.x265-MeGusta[TGx]",
+    "age": 0,
+    "ageHours": 12.402371155555555,
+    "ageMinutes": 744.1422693333334,
+    "size": 545259520,
+    "grabs": 3200,
+    "indexerId": 1,
+    "indexer": "BitSearch",
+    "title": "She-Hulk.Attorney.at.Law.S01E01.1080p.HEVC.x265-MeGusta[TGx]",
+    "approved": false,
+    "imdbId": 0,
+    "publishDate": "2022-08-17T23:00:00Z",
+    "downloadUrl": "https://jditej.at7.in/1/download?apikey=531ae118e5fe4b67ade8f1c862a047dd&link=WmJhcXdDN3lMYzh0anBmRG1VaUc2Rk9vZ3NOc2xqREtpR0tNZzRlVFoxalpSMnpLRWNVVzVVTk9jcGR1NjdPUXhjSlFITXd0ZTA0bnd6RVZFYjJpZGlJN2ZsSnhBMDNkMDhGbnljWDFuRGZRMXpaeER4SklZbGovdGhicWJ0V2hXMVZtRENNdEJoWXkxQlNUUW5qalkwMnRhV2NyaWZFSnlSNE0zdERSb2N6ZnBhM3daN2MyUmVvK1NOMlBDeEwwRllZMlh4bjBWZFI1R0J2VTRZeGkxdnFVQ29kUjFVZ3h6akg2TDF2U0JhRT0&file=She-Hulk.Attorney.at.Law.S01E01.1080p.HEVC.x265-MeGusta%5BTGx%5D",
+    "infoUrl": "https://bitsearch.to/torrents/she-hulk-attorney-at-law-s01e01-1080p-hevc-x265-me-c3f79/62fe0b08d22afbac7286a527/",
+    "indexerFlags": [
+      "freeleech"
+    ],
+    "categories": [
+      {
+        "id": 5000,
+        "name": "TV",
+        "subCategories": [
+          {
+            "id": 5010,
+            "name": "TV/WEB-DL",
+            "subCategories": []
+          },
+          {
+            "id": 5020,
+            "name": "TV/Foreign",
+            "subCategories": []
+          },
+          {
+            "id": 5030,
+            "name": "TV/SD",
+            "subCategories": []
+          },
+          {
+            "id": 5040,
+            "name": "TV/HD",
+            "subCategories": []
+          },
+          {
+            "id": 5045,
+            "name": "TV/UHD",
+            "subCategories": []
+          },
+          {
+            "id": 5050,
+            "name": "TV/Other",
+            "subCategories": []
+          },
+          {
+            "id": 5060,
+            "name": "TV/Sport",
+            "subCategories": []
+          },
+          {
+            "id": 5070,
+            "name": "TV/Anime",
+            "subCategories": []
+          },
+          {
+            "id": 5080,
+            "name": "TV/Documentary",
+            "subCategories": []
+          }
+        ]
+      }
+    ],
+    "magnetUrl": "https://jditej.at7.in/1/download?apikey=531ae118e5fe4b67ade8f1c862a047dd&link=MkRwZTdwdUZEUlZoVmJncXkwVXlKSmpBaXF6eVJtODNpM1k5RzNib3VUWVZwNWlicm5GVmFNZE1vYzJkUEc4bndjSVVHMWZ1KzFhaGNwUXhoUTRiRVZwSnAydG52VzVqSHdJTDJFcW9GaUFSZHhucU04cXhzTDVQOGtZT3NSY2pQN05xR1dlbkIrMTZwU3V4VTN2NnBnejlnUDZDTEpOTThJNXFKKzRlcW96WTBqbitBZGx3dFZOMGp6UUF0TWM3cEJidWRJSUcwSzFnN2oyUlJ5WWVlc2JLd1VySFFLbGFrWFE2QU5meFN2ZHRBdUtaYmFSRmswN3V6UFUvTllaNVg2N1NoUk4xMjcwbXhPSWd4SWpxdE1SenV4OHdtelFwd0NSWEhyeWprOHRNOExnYzZJMHNFY3RxclVyVWFVcnVvTkRQcElLMXl3bTVzRmhNWk5hOHZlWEErbzZRRUJ6N25qdnhrd3RiWjBpeTMxWTRwWFlwRzNFR0RnSzZRYmdGNUNJSk5IcytIa1QxS0l4ZDVnVWwxa0xLZElQQnVCR0xZVitGdHFBZnR5M2ErbFhlV0psTUg2WFl5dG9CZEtKdFUzY2RVYmRVVFdLMmZRV0hDMDNEb0p4ZGpTdWZyajJlYStmL2xJVVgzMFBWSURvWlhqeWFpMzllN2pYUkk4M1NaajBxdzNJMmMxN1RmTmpBOUZLRFlNT3pXL1E3dVh4OVhPcEFTV0FDbXRaV1F5SDZicnJ6M25Md1VKZnFXamtYK285cEk5dStZV3oxWWNHNmN3UjdZM2k4dThJZmFRdmJqQlpubGRTRDBSYk4yMmNIMXpWc0hnbUt1S2hSTzBNWnE3RWNwTE5QRVZHNWdvdWRKR3dnSFFQTDZvT0JsUmVoeGU3RzBDQkkrUkVyUlB3ZmQwaG9tN1FrbEhFWlg2N3B3YkhoSzJZcjNRSVZaNWQ2bEFXa0R0S2FxTTMyZnRKcW16eFBPaFhxMFJaM3oxNURSd2Q3YlZySFc3eHlmT0FZNGVqZEtJWDVoUWtPclBEbjArQ1VybHUvZkkrcWdnVnoxdXpxSExhRmhPODF4akNiYkN3VThkeVQ1Z3EyQUhySjlkMUdWWER2a0laNmo4ZEp3NVhTSEFHWFRsVEZYUXhtUEIrQkxyb1VKL2VEV1NBZkhpVFlWcFhvTmFnYlRhVkZHMGdNODJLcVAwOHhrTnFFNC8wbnUxcFJ4U1E1TnFCQTlKTW4rekpyQUxyOGpYbVlXYWQ3c3E4OG5lQzU0Y3JEdmkrajh4R0lDQ2N2cVM1R1o2ZlgxQTgyME9ydkVGQXU0NTBhL1VHZDZDMU8xOWVBQkxpb1A0U1dtblZGbllYK2s0aXZRWVpiUTYvRnhKUEtIeVM5dFZLcEJMNFhaYmwrTnFRbzBsVVRhblMrSElqUEp3TVhIb3BhY01PekpOWVVmYTgxRWhhSWVEdUVuTDl5anJLMDQ2d1pBU01MNFFheVJSb1NDUSs2blY5c2Z2ZUlBbTVWODlRdGRKYzdxNTZRZVRTWHRGckM3UjM4WUwvTjBqdFBFY285NERqbkZDMlZUS0RuOWtXWEZuVUJhNldwa2xmWTRQWlZKQnR0ejM0ckVvek8zZ0lJRTJYZi9adHJzTFd4VjNDZjlVcUFGbHJSR2RaS3p5bVN3RWo1QnhhSjdQZi83OUszQ1VCL0gwSmc0NmZzMm9DbXJlRVFuQk1OWW42ajU3NnJGb1FYOWR6SXFwZjE2M2s2VU91TG1HZFRQTmlKTG0yS0pEV0prT1c2ZDJNTExJRit3a2tnaUVuT1FvYXgwOXMyU1Ixa0N0aUlSRDFlcDZwbkpyYmlTa2R6QlNnb2ZzNGhKNWNkL1FXUzN4ZzQvUHhDd1ZQaXZEN2RZa3YzYzBzYzhQSm84dlV0eDdIRHN6TXUyYlo3M096OVQ4aHpxQTRwR3NqamV0V0xLWXpBN0pYM1lkdVNGQnF3dWFjVEwyakFlZ0duck5heGk2alJVV0hQWWRVVTErbGZpVzFoT1hFaFlVdzR0YkFUQ3BrRWwyeDBJTUZOMVB5M3Iram4va095a3Z6aHRSb3Z3V0lKLzVjalJFMD0&file=She-Hulk.Attorney.at.Law.S01E01.1080p.HEVC.x265-MeGusta%5BTGx%5D",
+    "infoHash": "C364CD720A470207A2B704FA048D3D3BAA11CD0F",
+    "seeders": 171,
+    "leechers": 347,
+    "protocol": "torrent"
+  },
+  {
+    "guid": "https://itorrents.org/torrent/42E215C3131C37E89B4384ED990D32F31CAA21A6.torrent?title=[Bitsearch.to]She-Hulk.Attorney.at.Law.S01E01.1080p.WEB.h264-KOGi[eztv.re].mkv",
+    "age": 0,
+    "ageHours": 12.40237119036111,
+    "ageMinutes": 744.1422714233333,
+    "size": 1986422400,
+    "grabs": 5200,
+    "indexerId": 1,
+    "indexer": "BitSearch",
+    "title": "She-Hulk.Attorney.at.Law.S01E01.1080p.WEB.h264-KOGi[eztv.re].mkv",
+    "approved": false,
+    "imdbId": 0,
+    "publishDate": "2022-08-17T23:00:00Z",
+    "downloadUrl": "https://jditej.at7.in/1/download?apikey=531ae118e5fe4b67ade8f1c862a047dd&link=UjF6bUs5MnEwSi9pUWVDVXA2L3UwODUyU3NqL0liYm9nUkYvTTd4Y1pCbEFoeTk3c21HZ1FnOUJ6RllRZUJzNTNTVWpubEEzeUxDbzNKK0l1MVRtQXRubW94UmFhNTBna0ZoY3V3TE5ZeFptRnlyWHM3aXFjOFhiMWZrbEVodzZBQ3I1eTZ0dkdnTHZkUU9iVTVES1FWYlVEaDR4VllrMkNGdGtFKzRJNnpKN2ZnMDJ2WDk1M1lsVW1SMGt6TG84S0Z6TmIrL21KZFhxOTNkQlo1b2taRi9JejAvUTM5aDhIM3dXME4xKzlJRWt3eXhmNUhTM3FFZkVsanhxaEZzUA&file=She-Hulk.Attorney.at.Law.S01E01.1080p.WEB.h264-KOGi%5Beztv.re%5D.mkv",
+    "infoUrl": "https://bitsearch.to/torrents/she-hulk-attorney-at-law-s01e01-1080p-web-h264-kog-b5797/62fe03bfd22afbac72866879/",
+    "indexerFlags": [
+      "freeleech"
+    ],
+    "categories": [
+      {
+        "id": 5000,
+        "name": "TV",
+        "subCategories": [
+          {
+            "id": 5010,
+            "name": "TV/WEB-DL",
+            "subCategories": []
+          },
+          {
+            "id": 5020,
+            "name": "TV/Foreign",
+            "subCategories": []
+          },
+          {
+            "id": 5030,
+            "name": "TV/SD",
+            "subCategories": []
+          },
+          {
+            "id": 5040,
+            "name": "TV/HD",
+            "subCategories": []
+          },
+          {
+            "id": 5045,
+            "name": "TV/UHD",
+            "subCategories": []
+          },
+          {
+            "id": 5050,
+            "name": "TV/Other",
+            "subCategories": []
+          },
+          {
+            "id": 5060,
+            "name": "TV/Sport",
+            "subCategories": []
+          },
+          {
+            "id": 5070,
+            "name": "TV/Anime",
+            "subCategories": []
+          },
+          {
+            "id": 5080,
+            "name": "TV/Documentary",
+            "subCategories": []
+          }
+        ]
+      }
+    ],
+    "magnetUrl": "https://jditej.at7.in/1/download?apikey=531ae118e5fe4b67ade8f1c862a047dd&link=c1FVcjFHZ2JSQUVrZFMyTldWTnhicHZkU1dVVE1VYkRkT3ZBWEptNTArTzE0ZkVqYk1HY29vNEQrcGJnWC9sMEFDT01oUTdjRnZmNmUrNCtXVlJyQXUzeHFqV1hBVGo5MkcxVE1LaWd3MGV6YXNLemNiVk1sTmJ6M3BRYnhRMjhZR3B0a3VtQ2lJbkRQNkdKVElnbHFoUkE3S0FJcVNYL29Za1pLczduem1DZzBPOWxMVTNFUllZOGRHRFM4OERjTnVtOFpORmhIRHQzektLTnk3bWIrdng4d0huMG1tbmRWNHMzR1RwYUNNeDVtRktMaHl1S2xXeUdFb3dXT0N2ZFVvR0FJRWlQNkVmYVpBV2ZzNStJaUhBSGxMZGtGbDJTUUVqNUttMEZiOUwzRkxGSVYvQTArM3lMcW5WaXpWTFhzMGc2RmEvajNFMytTbkpUaWdIckI1WEE0WHlwSGh1S3d6QWlqN3FXc0swSWRpSEhxRzNqUGs0ZjFldnowaU1PeW5sL1V1blBqdHUyZDJ1aitqYjdzeHFBd21rdGFkYlRJS2RLc3lOSzVXQTd6dWMzcE5xZkRSV3FJZ3M4M0h2SkhrVW15YmsxeE5MTTl0ckdXNi9Wc3A3alhGTUkwSFo4QWlta3pONzFVY0RaQjBjZXBZRko5VjdEK0FoRUo5QzNxWjMrYm4vdU5XS291TzRmNWRYNGxXMlcrZXppV2RGL0p6eHM2eHdNQTE2c1VwenplTG9jMU9RNjZINmIyMjFGK2N5V2VOL29LWDVQeGZEQ0pxSWNRR1NZVU5mWGhJMXZ4bnhoUU12VG5BYXlLK0NSdWwzNS9sLzFyNFlyMGIyMVpiYzNJcFB0Y1ZUSVdoWkJVcDdOcHlSc3VhRUJHdWZNbC9ORnlFazNUTXlRUW1idWxVcDVBeGxPdE1IR0FiZ3NCMUcxbmdJRHRMUHZwUStBR2NDalN0NUMrL3JnVUZPRmVWejlHczQ4MktRQmttVUE0aFU4b2Z1NWNBSWt4V0N4LzdTMFlFemJ2c3V3cVpBenU1NXBvOTE2T21ucSt5dUNVc0tsejVoVkExZGlTZlRiV1drWnhVdGpqSzRmbWYrZm9iTVJ1NUthS2lZUVVoRzZlMVdVMk91RFFFQWZkT1BWMzFuaTJkUmhtQ2ZUbFd1a09YMW4xZitJbkkvdjEzNHJPWkUxQ1FsaVEyODh4dm9WU3VQangvWXgxdE5VamRmaEUxcDhoVUlJQzNjWVA0L1J5K0xlUGZleEhvS1JBSm5kNmplSGQwVlhXaEpTdHkrSCtTdjZzUFZZTWt3a1RYMzU2a0Uzb0t0UXlYVXFDQVp2Y2tlYmF4V2crbzVBeTY0VVgwVXNSZU5qdlVvQ0c3a0IrN1crb0E2WnV4eUtIMGpyWXRKaG1ab1ZmTVhQNEdHcjFha29NMUQzc3RSYXVqWDN5K3VsNTdzUnBselNMWENEZ29kWGRsSHZodC9DOFF5U0ViMWxaclk3WjExRXhFZk5KV3lXbEh4Q1BiMGgwR0hiRSt4TlZqdzNSb25xcThOZTNYdWtFL1ZDNWYrRmloMWZqaUxpZUd1SnNkbjRyQUJlVHl0SFI2VDA5WTI4bS9Dc1RzaytJUFJQanh3Z2tIWHY4dXNsb1RrZUlRWjRKcmNOcDAzVmc2QkxjU1g1TTVVcDk2RTQ2cEJoN3c2Ry9DRG50d2NIZ0JHMEtSdktUOGNicjhpd2hSdklNQkxSRlgrakFvQ1JheFliNHVrUWRWWGZtU240ZVVjSGw1OXJoOHk2UTQ4TXhZVUlIZkdRaHlJbmpyQmRTR2FiNWZ4YXNPWmFoeER1S0lUQ1RvelZZcnRTc0pXT2NYWEl1OXZYYnROM1JzU1BDaGlxRzVFNElWb21oVW9RSHFWS1ROMlNLU3FFOWZaU2s0UXdSd2lKOTFZMGZWbVg2KzNvWFU0eVV4MDc1WUx6dVJOV0lqY25jK2xvOEN6aW9USytJVlhINHdDYkJoK29RV0tXYy9QbENFZE9XcUhHUGlteExUL2piK2tIK0p0WHlmaDhTWEFvVlJCL0UrSEw4c1ZxcUpwVVJXUnRHdGx2dXg3cTk3RT0&file=She-Hulk.Attorney.at.Law.S01E01.1080p.WEB.h264-KOGi%5Beztv.re%5D.mkv",
+    "infoHash": "42E215C3131C37E89B4384ED990D32F31CAA21A6",
+    "seeders": 766,
+    "leechers": 577,
+    "protocol": "torrent"
+  },
+  {
+    "guid": "https://itorrents.org/torrent/CFD433868BFD21ECAE25C7C18A1F67747DCD7086.torrent?title=[Bitsearch.to]She-Hulk.Attorney.at.Law.S01E01.720p.DSNP.WEB-DL.DDP5.1.H.264-MGHW",
+    "age": 0,
+    "ageHours": 12.402371224222222,
+    "ageMinutes": 744.1422734533334,
+    "size": 936378368,
+    "grabs": 881,
+    "indexerId": 1,
+    "indexer": "BitSearch",
+    "title": "She-Hulk.Attorney.at.Law.S01E01.720p.DSNP.WEB-DL.DDP5.1.H.264-MGHW",
+    "approved": false,
+    "imdbId": 0,
+    "publishDate": "2022-08-17T23:00:00Z",
+    "downloadUrl": "https://jditej.at7.in/1/download?apikey=531ae118e5fe4b67ade8f1c862a047dd&link=cU1UUXplYVVDcVZ5a1oyVW9MTDdSV2JvS24vVUtNUEZjK3dzMFFMenZWOWpMT3pYVU51dVlLWlViNXkrUWdSV0NMYWxrRkljT1VJZ2loSmc2akplbWRBaDRGaEhTQ2dXdktFcUhyTUZOd1g3Z2ZTYVF6RlNSS00vSitoSTZacTY5Q2p0NDRMTHFPYzg4ZG9lRXhyOTBxNlYwLzUzK1FDb250VFFHWktOME1YWG5UVXNNNDhPMzUxVjJ4VUErek1GRCtuRFB5Q2gyRlgxWDhkVWd4SW9zeXlNTmh2Lyt1dTdyamgxUkFyZHA5bGlHSlc5WHoxMkVFTzIzTGo0cHlBcw&file=She-Hulk.Attorney.at.Law.S01E01.720p.DSNP.WEB-DL.DDP5.1.H.264-MGHW",
+    "infoUrl": "https://bitsearch.to/torrents/she-hulk-attorney-at-law-s01e01-720p-dsnp-web-dl-d-01d0e/62fdfea4c59cdba22e92b61b/",
+    "indexerFlags": [
+      "freeleech"
+    ],
+    "categories": [
+      {
+        "id": 5000,
+        "name": "TV",
+        "subCategories": [
+          {
+            "id": 5010,
+            "name": "TV/WEB-DL",
+            "subCategories": []
+          },
+          {
+            "id": 5020,
+            "name": "TV/Foreign",
+            "subCategories": []
+          },
+          {
+            "id": 5030,
+            "name": "TV/SD",
+            "subCategories": []
+          },
+          {
+            "id": 5040,
+            "name": "TV/HD",
+            "subCategories": []
+          },
+          {
+            "id": 5045,
+            "name": "TV/UHD",
+            "subCategories": []
+          },
+          {
+            "id": 5050,
+            "name": "TV/Other",
+            "subCategories": []
+          },
+          {
+            "id": 5060,
+            "name": "TV/Sport",
+            "subCategories": []
+          },
+          {
+            "id": 5070,
+            "name": "TV/Anime",
+            "subCategories": []
+          },
+          {
+            "id": 5080,
+            "name": "TV/Documentary",
+            "subCategories": []
+          }
+        ]
+      }
+    ],
+    "magnetUrl": "https://jditej.at7.in/1/download?apikey=531ae118e5fe4b67ade8f1c862a047dd&link=V0pkVVNEWUNWUjlqczNJSEVrTnJIK2l2WFY5eFdyZW1HNGZaZGZuRlY2dFBQWStrRGNtM3kxNnhheWlCUlRrMk1FMDhFYW52TytuK3hjakQvSkJ1WmxGTlo4SCtaT0pma1VQY1hHUXY3OFhhT0o5WkQ3MDl6dGlVSzArcndFTWUwTmI0U2x4NzlPdGhuaWtjaEovbjByNHJIeURQdk5PSFZJYjZ6Wm5xUzU3QUVpYmZyNStrUlRxVkI3TG04eFlzdTRlVGh1Nk1vZ3Fic1gyMEhzUE5BNElBbEZSUEZRQlhRT1FOaG9kdGhNa0sxWUUxbzRWdFAwS0tVY3ZIUjcxOFVTZTY3U2RDQ21xRDhUL3RDTzdyTXkvTWZ2M3NndHJsWWROTDF2MWRYL1dHSktTSzFJWHJtUEtFOEF5cUF5TWJVMlJrRWRZSitIeklRMDRSRStaWVdld2FwZU5GY2EvMlVqZkFoVSttV1h5Yy9aMlZ6ZWxjZGVGTGlWOUNZcXExTmQreEozbVVMUU5hMm1TbGhzL3RibEwzdGNDQi9BY010RElSZXdDR1ZUdkJnZmVlcS9XdFppMUJkTVJyRHNqanJZN1VrWFYzVEUzemZZZHF6VEtaVXlncjcvOVhNeitxS2dzODRqOERtWGZyb01qejlSb1lNUFdEcXpBOVhOdnloQnA3VTVkYzFhNnBPU1lGeCtCYnZjazQxTnVGdE05c05rZlJManZOOENSUzVBTXkxLzY5MjBURlY1SERFbEx1eDFyOS9qQWJpVkc2Y1lZdUMvNW5oZ1U4NGZHaHRVTzNvbGJQQWFHSnlmRml4UENVZHppaDhJcWxPOGFMWTdUcHpSZkRpV0FGOFVlUS9OQm1FdG52YXpDWnVHbnB1TGxZWWhnK2l2cXV4UGhBR0N1R0pYSUVIVG5Rajg2d1Q5Z1I5ak9DMmpqcFNidmROREU2SHlvZysyZmd3SlVjZ3dXWWhqQzRTUGR1OFJhS2M5NlhDeUdGSUxvN2JsVkw5Y2pCdzFsTUcycjl2b1lVRjZTVUxLdGYzYXdBSWtqbGRJei9tSXVJbDZsWGhnMjg2UjYwM2FOa1pPNGx3RGI3SUx0Y0ZWdzQ0Z1czRkM3TmVFUU1vRjZTRXh1R005bEc5RUwwYWxNVUxseHk1ZnJHZS9CdHY5dTlHOXlDM1N5cUxTd1FTZUl4RHIrY1l2YmI0TW9HaG1JWU9PcHl5b2t3UmptM2x2WUNsV1V2VVNSNXFWNTNCdjF5S1MrekZ2QnlYM1Vxb2ZDdEZHbURrcTR0SnJuNkZuVXlndHNxRktGWldBOXpzcWlxa2E4ZUExcURYY1NybWtKZkNNU0d4UXBKNFFWS3RTMjNvUTU0b1J6Z1Q2eFBrNkl4aGlmZXV3RWhTc2VLOHVvbUdnYmsyeFBIeHpyOGh0WGFDQkFMcWFxWWdiS0Z6NkNqeWg5cjZ1RkJ2N0N6S1R5dm8vaFJ1cXJYSDh6Sjh0b3RVLzk1a1NnaW9WeFVKRkRtNnE5UzgxNkt0QllESWNVUmJkOHhSZERWc1dkeDlqczVLMGU3Y2Nta3pra0RJYnplVmJHMDNWS1hIMEg3VVRxWmw2STh0dDZZdXRwbEg0d2U5ZlAvcjBYeFNieldzYjBYcVd2SG1XZThqL1FyZlhIN1pNTlF6UjBIekR3c1Z6UmVjbVJZZkVBZWMvNHdWbEtDSkhpdk11MmpnUWtiV1Q2YTVUeEhmQUVJd0wyYmhwK2FaMjh1cEdNVW9aTzNZUFlvWHdYUExCbmpVNDl5TjJEaDZZU2NxRktUR25QaGNFYkZQYis1NllKWmQ1ME13bVlycGhkUlB1OEpGdTVDZFZrSGxVNm85UGtoYmpaL1ZTQnhFdlhEMkNMZXd3bjJmdUhzUld4b3paYkNjbGs4OFpqc2JJTDYyQTQ1SkVLTXhMbUtiN09LeHUzbUozNGF5empZN3cwWFU0MnVvOVB1OTNWeHVVNUNieHNIUko4UXlZemhGZWFkd3E1L0xaSjhZOU9pdzZZQ254M0RmdGRIVDk4VzFJVFNYQ3N6QzJXU1MrWVFGS2pIZHE1bmZmTjNVdzAwdjZGcDFWST0&file=She-Hulk.Attorney.at.Law.S01E01.720p.DSNP.WEB-DL.DDP5.1.H.264-MGHW",
+    "infoHash": "CFD433868BFD21ECAE25C7C18A1F67747DCD7086",
+    "seeders": 44,
+    "leechers": 65,
+    "protocol": "torrent"
+  },
+  {
+    "guid": "https://itorrents.org/torrent/820DDF09827A4633D4834FF6B7BE9C5EF933F9CE.torrent?title=[Bitsearch.to]She-Hulk.Attorney.at.Law.S01E01.HDR.2160p.WEB.h265-KOGi[rarbg]",
+    "age": 0,
+    "ageHours": 12.40237125686111,
+    "ageMinutes": 744.1422754116667,
+    "size": 3919157760,
+    "grabs": 4300,
+    "indexerId": 1,
+    "indexer": "BitSearch",
+    "title": "She-Hulk.Attorney.at.Law.S01E01.HDR.2160p.WEB.h265-KOGi[rarbg]",
+    "approved": false,
+    "imdbId": 0,
+    "publishDate": "2022-08-17T23:00:00Z",
+    "downloadUrl": "https://jditej.at7.in/1/download?apikey=531ae118e5fe4b67ade8f1c862a047dd&link=TllwWDhPdVNza3VjKytudkh3a2orNXRnajNpZ1g1YXJtWlB1RlRUSCtvK25HTUwwYVVjd25nY0VwNnlhYlZZdjNOeGgrQ3hzd3hETkloc01rcnFSbGtsTFZhV3Q1U1dYZ0V4WGFqUzdPSzFkcXFURm1rSktXakhvMlBESWFCVVZzSURrYkp4MUtnWFlyM1ZGdUNJUi96TjUwWnUwOEw3VnRUWHg5OXBYZGdwaEVQa3Q0QzdlbCt2cUR3dXNuQTJzUnBWODhWMUIyQ1V5RmNaNmRCYjdSd2NnUVd1SFNSd0NNa0RJWFVMVG9jNEpvTU5OZnUzdDgwNUtzcUpFZEFwMA&file=She-Hulk.Attorney.at.Law.S01E01.HDR.2160p.WEB.h265-KOGi%5Brarbg%5D",
+    "infoUrl": "https://bitsearch.to/torrents/she-hulk-attorney-at-law-s01e01-hdr-2160p-web-h265-0ffe4/62fdfd35c59cdba22e92ab27/",
+    "indexerFlags": [
+      "freeleech"
+    ],
+    "categories": [
+      {
+        "id": 5000,
+        "name": "TV",
+        "subCategories": [
+          {
+            "id": 5010,
+            "name": "TV/WEB-DL",
+            "subCategories": []
+          },
+          {
+            "id": 5020,
+            "name": "TV/Foreign",
+            "subCategories": []
+          },
+          {
+            "id": 5030,
+            "name": "TV/SD",
+            "subCategories": []
+          },
+          {
+            "id": 5040,
+            "name": "TV/HD",
+            "subCategories": []
+          },
+          {
+            "id": 5045,
+            "name": "TV/UHD",
+            "subCategories": []
+          },
+          {
+            "id": 5050,
+            "name": "TV/Other",
+            "subCategories": []
+          },
+          {
+            "id": 5060,
+            "name": "TV/Sport",
+            "subCategories": []
+          },
+          {
+            "id": 5070,
+            "name": "TV/Anime",
+            "subCategories": []
+          },
+          {
+            "id": 5080,
+            "name": "TV/Documentary",
+            "subCategories": []
+          }
+        ]
+      }
+    ],
+    "magnetUrl": "https://jditej.at7.in/1/download?apikey=531ae118e5fe4b67ade8f1c862a047dd&link=ZERQUjlhRlBIYVp1TlVGOVNkRnMzdjhaQ0w1OVZqNDdYTXFPakhPTVN3a0JkdXR2SVpQc2RtMUlSM1NPUXpLZStDQXdYbWVKOUt4UFdEOXk1cTZzazZ2bmJ0bGNZRnlCRElPNU4zVlJRSWZyb3Y1eXpmV3o1Qmt4Skk3eFIvYnVNb1FYbzV6eGZCZmlxN2sxQ0RKb014cGJwOHRUN3FKVVlRY1VDRm91bHdNeWU1cFoyWFVjMGsvQkxwZVpCZEtNbHZUSjVqSk1RSFhnY2cyZDNFQkhSYXZ4Nm1BSzVxQ1JYeXZYY1Zzc3luN3piRFV3cXNjeEtzMkVOY095RUZ2RjhmUXNvNU9pZGUwMjUzdmsrRnF2NDRNNHdEN1dxUngycFh4cGtuS0pGZFlxMWQ5cXE3WitrdkVHZjgwaVc3cGErUlJ0WUdqM2t5ejFORktlU0NNQmRtZjVFS01DZFFHbnBKR2xxTzE1Z1FLOFpGSEhQYTAveEVHTDJQcWZKMU0wYm96eXE4endycVFYSEI3R09PTVZMa21DWEhXK1hPditaWXpGUk80bVhiQldtdWdaMGZsWjhhQ2RhaUR6dXBWbEhTS3NHVFFXSFpDTUNYMVROQUFIUlB4aENpcjNIU1lsNE5hY3BXQnVzbFhiakgyUjNCaVg2WTZKWXc4cXlaYkhzVy91RVI5WHIybmVNVW5jNWhaTmhtY1NvS01ic2FTQU9SQUorbG5LaTVuVTZCYnFYM2twRmExNjFjRDJRblVsQ09WUlBvcjRCSG0wRVpPVGF4R3dTUjBEVjRzSmtNcDBLVGFBL25FeUhCMmJkRTkrTTU1V1M1UVBIekJUdFl4SDFMNHhKY3U1QkhyeWpvNXR2Z3ZpcGtyVGViQ1EwRHVsTDhXd2xUdmcvNUNxbm44dzh1Y3FyNDhTbmJRM1N4QVkrWkp4WFQ3L25JcXpYdDRXOGhZMWp3Q2J0SExsNjl6SmtrQ2RRT0tEY1NENHpJQkRYUEV0N2h2Ry9LTFE3TE5ML0JKemdRT0E1QVF6akRaUjBrRmhLLzJEeU5HaXprYWZhRXFlQndueWFZOVRBOTVOTjJsTjJ0eDFtaU9qK3BCQXVJMjZVQjliREZaN3ppTzNOUjJuYjExZHlvUmNqaHplQS9qRUxmYXFJZ3dZYkFrQ3ZOd1ZxWVBGUzdnaUg2WVhpUGQ4d3hZcWIxVzZ0WXZleXhtYVl2QzlDeHo1MTNyOU9HVGlTUWNvcGduQlgwRXpVbE5BTGxNVnVrUjF6WFFkK05ISW83S0NlODRkdkxrNDBkNVhVeUFyMEtYcm1TTTNwNGs0cTdwMm11d1hDanZYNFNyQ2V2Y1JwK2phR2FBUXhsazErUXVBVVN6U3dnNUtFWHJMdjNybnE1b1pWaFI5Q0l2L1dOd3VpWi9IcTErNFdCQlRjWEpTU0hucllHR3p0cHZ5dlI2aEVjRFNXZ2UyTnlVYVU4MDF3SEFhRENaMXV3ZFViQ1dvVVU4TUNJdjVuakZzV2VRQ0phZERFRWR1RUVzOXZlRmI3cjdLSmduODlkeWtUOEd5Q3N0Um1Hdk9UU3lTUVozODk1Yy83a1BuU3ZEc09NRTVXVEtpOVVFWGtoMWZibXpLUTMrdGszeGV2UTFSeWFJcTR6M1hvWmk3K0JTUnRVbEJ6dkZIZWhHTldBYW1CU3BRbVRrL1F6djhrbTdZZTlJdXhZQlFQOHFRWHZjL1ZmTnlmdlcwYlpQUlVVTlhsekFRYVY3WHB0YnJMSFRINjNyalFLU3AvVFlSZmV3S24rZTJ0eU9ka0VLejNBeVBEZUtBODlreUp0YnZHS1NHVWRveUZwbDFuTk94bGdMSFNXdkgrRUNyQ2h3aUxhdmRrTTkzdHZZVU9rYWJYdGd2VDUvdkhYZFlBWkI0a3JjQ1VQOVhNamdDRGRLdUJqdE1JcW9GblJUQzR6UFhkYUZoTDdmYThiblFDOExJbFFCbWVJN2ZvcDZod2ozTmR2azljS25vNmhmN091QVpmK3JHM3I5THhESkRaZ0ZOTXk3UEhRSzBiY3R0ZXhuMTV4UG8vTTcvR0x5bC9hNmU2SVNHODMzY0Ewaz0&file=She-Hulk.Attorney.at.Law.S01E01.HDR.2160p.WEB.h265-KOGi%5Brarbg%5D",
+    "infoHash": "820DDF09827A4633D4834FF6B7BE9C5EF933F9CE",
+    "seeders": 216,
+    "leechers": 592,
+    "protocol": "torrent"
+  },
+  {
+    "guid": "https://itorrents.org/torrent/020ADD4BF21EAEF62A2FD31B16DF2080DA18C14A.torrent?title=[Bitsearch.to]She.Hulk.Attorney.at.Law.S01E01.1080p.x264.Hindi.English.Esubs.MoviezVerse.in.mkv",
+    "age": 0,
+    "ageHours": 12.40237129736111,
+    "ageMinutes": 744.1422778433333,
+    "size": 1005584384,
+    "grabs": 241,
+    "indexerId": 1,
+    "indexer": "BitSearch",
+    "title": "She.Hulk.Attorney.at.Law.S01E01.1080p.x264.Hindi.English.Esubs.MoviezVerse.in.mkv",
+    "approved": false,
+    "imdbId": 0,
+    "publishDate": "2022-08-17T23:00:00Z",
+    "downloadUrl": "https://jditej.at7.in/1/download?apikey=531ae118e5fe4b67ade8f1c862a047dd&link=NW15ZFpTZUlLenpJZVNTRTF6bTZHc3cwVm9vNDVhYnR3Z3hqNyt3ZnF4TVZGVHVDZEIwbjB5ZVdmSkt5ajZnZitvRTVRa2I1eHVWT0pZQm9sT0NqQWdRa3I0VWh0WmtENG9zOEtaajBWUVM5aURyZGJ0NWtUT2tHcjhZU1NWaEpzcUlYSTRCSXp2a3AvU0ZUcjl2WlQ0aXBGd2xidEdOVlpBSXBmVnY2bHRMcXpySXVBZGRhWklpN2RKbHAxbVJITGxlZS8zTVNaT0Nyb1BwVHhTS3RCMzMyNzRVa3dMeXF2QnhKeTVERWEzQ0hsUXRoV2dTVHB3ZGRPbkRNajJqQUgxSURzYVhzdmNtekpxVTQ5Y25lSnc9PQ&file=She.Hulk.Attorney.at.Law.S01E01.1080p.x264.Hindi.English.Esubs.MoviezVerse.in.mkv",
+    "infoUrl": "https://bitsearch.to/torrents/she-hulk-attorney-at-law-s01e01-1080p-x264-hindi-e-b1ab3/62fdfcd6c59cdba22e92a89a/",
+    "indexerFlags": [
+      "freeleech"
+    ],
+    "categories": [
+      {
+        "id": 5000,
+        "name": "TV",
+        "subCategories": [
+          {
+            "id": 5010,
+            "name": "TV/WEB-DL",
+            "subCategories": []
+          },
+          {
+            "id": 5020,
+            "name": "TV/Foreign",
+            "subCategories": []
+          },
+          {
+            "id": 5030,
+            "name": "TV/SD",
+            "subCategories": []
+          },
+          {
+            "id": 5040,
+            "name": "TV/HD",
+            "subCategories": []
+          },
+          {
+            "id": 5045,
+            "name": "TV/UHD",
+            "subCategories": []
+          },
+          {
+            "id": 5050,
+            "name": "TV/Other",
+            "subCategories": []
+          },
+          {
+            "id": 5060,
+            "name": "TV/Sport",
+            "subCategories": []
+          },
+          {
+            "id": 5070,
+            "name": "TV/Anime",
+            "subCategories": []
+          },
+          {
+            "id": 5080,
+            "name": "TV/Documentary",
+            "subCategories": []
+          }
+        ]
+      }
+    ],
+    "magnetUrl": "https://jditej.at7.in/1/download?apikey=531ae118e5fe4b67ade8f1c862a047dd&link=aG1tQ3Z6eTFTdlYzTmxUMy9LZFJlaDAydkgwQVpVd3p4WmdJaDhuNWZGVHo0V3dOdEZ5bllmY2RxWExETUt0eCs0bUVrS1U3WCt1R3JqaW05bHVHSkREUlpRV3dNb3MvVDNyOE1yZVJ4WWNpcVRNdGJUdkJaQUxNSEZlS3g4cTZkTFlqYVVXR1NScFZGZU1GU29RVVdndU5JTERtZUlEVHN6eEcyNFZGN0g0ckZ2WHF6Vk5BWjY3MnRnbHB4N0R6SXY4bUlSUnV5U3NpdDROY0NiS2QyOEFKMnlwV1JkNENUWVBjZFNnV00wYXN5SUVrRlFzVEpEUDY4RlYzR1hkMWJhRGo0ejBBcnRCQk9XSGZBM1FpVVo5QTJyUmxPTmhaTmZzeGFzcW1uZnVmQ1hKZzVpSTNJOEJwekJvSXEzc0NVOVhyRmlBR0Fpc2YvVUk2RGM2SDdNUWd5Y0NoaUtHYStTcTNaMm1VcVB5VUppWEQ5bGRwdXg4NW5RdVdsMUcxVDVoQ0Z1QXF5WlhVTzJrVGdac2Z0ZldBRmY0WmFSQWdmb2NoSkNnRTJMeitFaHVOLzdCUWhndHVCT2tXeWlZQnpGc3AwckxsSmNnSURqelErMVM3TjVTdGUxVVg1Y05waXprazI4NmlUelpENDNmMWw2VmIwM2ZIU21vY2pDUEtFaDRKUUJSYkswbWRXZlZ0WnhkOStCNWVMWnZ0MjVIQmRqYnVmMlNkSkFGbk00dk5wVUI5UHVoMUMwcXlyVG1WcU1sZGFlNTFXUnhSY0c1WjlPYzhlS1Vud3pTSXBBOEZiSG91QzZqNWQ1Sm5hUGpEZVk0M25SUHpVTHozNHRKQVdlVGJJcEFwNHREYVFRaFN6dTYyUEJ5Z3F3N2thcDZpSENCTmVHMnVFQWREU0x2citLUk9ZbDJueVljV3EwLzlHa0xjNktSSmJsVU80eFZIQ0FieE02REZSY3JkSEVlMk1HU2h0TldWeTBTdlNJNTFndTBMUENHcExEUVpqWWkxUUUzNVNQVlpaUmJ2a0FydjVFdzZrb1hZSzB6cW9wb1RTVStTN0J1bjZUdUJMVlUwTGpFMWl4aTExMjJPSi9PRWhEamNGejNYSzBOUTlpdWtHalZsMGYxb1VYQmRieDZZcEx6YUZsdUF4MTBpUlkzWGNlV3RqMTNQM0RuUkN0RHZqajdxZ2d4RmVGT2NMU0tEREFkczBFUXQ5d1FZeXA4NWpQd0FHWkMvNEhjTSt5TUUwS08zekZ3Q013cDcwYTNQVFhmNTg5TGtqdm1uUHdCMVZLWFNZT29zZUt3bVpoVWlzV1E2ZlZSbFdVRmJSM2Yrd0lBUU05TWFFaFBpcmd0ZnpZVVJLYWlZR2VYOGFsNFpCZFlpcnQ2VitBdkp5Smt6dFg5V2hhWHQ2Z1RYWXJOZU0wYXV1SmZudER0aklQSi9aeXlvMjMvZkt2L3kzNUNrUjBsZHpwZ0tpVW44TVBBbktJQmFBSjBDdzhrb3diR05nVXFJM2ZvWE5mdGpDOVlOS3N0d3lSR0p5aGFBaVFNY3YzS3pBamU2M2JmcUg0bUtsbSt4elZBcEpoenRCVWxhNk5oSXF4bzBWY1VKUlRrK05vT284L29rTkEwQmZKcmxUUVhpWXN0bnVDam9hR1Q0S1hUOTB5d0grSmZWM2cxNWRXL200TkJIREVMVTN6QVZxUktISFl0dVlabk5iY2RQbGFrSmpHV0pJVDRQMWRRTjVzc0p4YVhaK1NJck82S2lUR05UUjRJMHFxMzdLVkRFVWRQWUVvNUUvQkk1UksxSm9LRG1CeFNacm9PcUFwRGdMUUdnV09zNW5VVjcvWEJITHUzTEt3QlpRd3R5L0JhUzlZekxkUHU1MktYb0hWRnJmd0Y3NXpjNnpIZ0xTcVhsQllMaHh0b2RrTk9BNHB5bEx5UUlSbTVQTHlZQmNlNEhhV0ppVGFvd3dnTjkzb21EbTAyREwvOC9SczFCNUVsSlcxdWdRejlNVjlEWGVhSnViVWJFRjBYRGExUlR5blA5YnhqNXFSQTRvaDM5V0l4Q2pXS1gxbktmVTcyRUZJOU9XcU5leEJTN1o0dkJNVnNyajJkN29zR0VOM09obmR6TQ&file=She.Hulk.Attorney.at.Law.S01E01.1080p.x264.Hindi.English.Esubs.MoviezVerse.in.mkv",
+    "infoHash": "020ADD4BF21EAEF62A2FD31B16DF2080DA18C14A",
+    "seeders": 4,
+    "leechers": 37,
+    "protocol": "torrent"
+  },
+  {
+    "guid": "https://itorrents.org/torrent/3E0F53AF99AE1C68395B91E23E3AAC55047EA2A6.torrent?title=[Bitsearch.to]www.TamilBlasters.cloud%20-%20She-Hulk%20Attorney%20at%20Law%20(2022)%20S01E01%20[720p%20HD%20AVC%20-%20[Tamil%20+%20Telugu%20+%20Hindi%20+%20Mal%20+%20Eng]%20-%20DDP5.1%20(192%20Kbps)%20-%20550MB%20-%20MSubs].mkv",
+    "age": 0,
+    "ageHours": 12.402371336916667,
+    "ageMinutes": 744.142280215,
+    "size": 622854144,
+    "grabs": 1500,
+    "indexerId": 1,
+    "indexer": "BitSearch",
+    "title": "www.TamilBlasters.cloud - She-Hulk Attorney at Law (2022) S01E01 [720p HD AVC - [Tamil + Telugu + Hindi + Mal + Eng] - DDP5.1 (192 Kbps) - 550MB - MSubs].mkv",
+    "approved": false,
+    "imdbId": 0,
+    "publishDate": "2022-08-17T23:00:00Z",
+    "downloadUrl": "https://jditej.at7.in/1/download?apikey=531ae118e5fe4b67ade8f1c862a047dd&link=MGs2V0ZETGxOUkpHcFhseit6OXFiL1IzRmdIWlAzVnJlNEMvQTVUcUJkSnFKcDVjc1c4RDNsTUJDRFdBcDFiREdIb2lWd1p1SFhzRmRxT0V6aWVIQWJDcEpwdGJ0SlF1V05NSEdFQ3M3THVkT3RZTWd5ZmNvY3l5TndkTGRlT2ExM2VZcENsV0dkcmV2dzNZcVZ0eSt0ZVY3VnduQWRORGsvanVGWFJJMHRVa0xrMHExZDI2N3pwcmg4bENrZkF1Nmo0eDBjYWlOU0NwMjd5Z09mZDFGSHJ0T0o3ZXI3OGxUYWU2Zkp0YXFpZDVBRzVHSXZMck5GQnRjRWVFWlcwSWFKWXNwZmRodm9rVExFd0Y4NmF5ZVMvMEN5eHVSRXZXYlRnNjR5RDZET1k3dURUeVFQN09zK3JKdmpaUC9KWTR2QmM3UjVjeGtVY0ZnMmJGUFVDemJCcGlTUXpVby8wa3J2TU5KY010SlRKQWNMSE5wY0dnZ2g3REF0UlZnYk1w&file=www.TamilBlasters.cloud+-+She-Hulk+Attorney+at+Law+(2022)+S01E01+%5B720p+HD+AVC+-+%5BTamil+%2B+Telugu+%2B+Hindi+%2B+Mal+%2B+Eng%5D+-+DDP5.1+(192+Kbps)+-+550MB+-+MSubs%5D.mkv",
+    "infoUrl": "https://bitsearch.to/torrents/www-tamilblasters-cloud-she-hulk-attorney-at-law-2-193f1/62fdfa01c59cdba22e929194/",
+    "indexerFlags": [
+      "freeleech"
+    ],
+    "categories": [
+      {
+        "id": 5000,
+        "name": "TV",
+        "subCategories": [
+          {
+            "id": 5010,
+            "name": "TV/WEB-DL",
+            "subCategories": []
+          },
+          {
+            "id": 5020,
+            "name": "TV/Foreign",
+            "subCategories": []
+          },
+          {
+            "id": 5030,
+            "name": "TV/SD",
+            "subCategories": []
+          },
+          {
+            "id": 5040,
+            "name": "TV/HD",
+            "subCategories": []
+          },
+          {
+            "id": 5045,
+            "name": "TV/UHD",
+            "subCategories": []
+          },
+          {
+            "id": 5050,
+            "name": "TV/Other",
+            "subCategories": []
+          },
+          {
+            "id": 5060,
+            "name": "TV/Sport",
+            "subCategories": []
+          },
+          {
+            "id": 5070,
+            "name": "TV/Anime",
+            "subCategories": []
+          },
+          {
+            "id": 5080,
+            "name": "TV/Documentary",
+            "subCategories": []
+          }
+        ]
+      }
+    ],
+    "magnetUrl": "https://jditej.at7.in/1/download?apikey=531ae118e5fe4b67ade8f1c862a047dd&link=bGx1OUdHRmlYT1VTaEJYbjdxRkZIcHZYUUJYODlVUXpuZVQyRTY0cWZ1T0pkQTNWRlY1RDdNM1BmNmZSbmJTbitQVndnMytuWW51ZVI1ek1GYVQ3ejR5aG5seTFpM0VQdXZwcnNjbTNDZHpJVlFtcHRheVo3MGV3NC9KUzR5RTd0Vkhrb3RmTUNNYnRSNXR4cWRtMlpnUE9EVi9xZHJIdmZjMkt0akVBUm9icDZnOTdJZ1JLNHRXMGcxd3NUOEVxZ0Q0a1FYZ2Jwa3lVMnpSejVRK25oQ3hkeDNOejRyNmNyQWlBUHg0T1dQU0JUSyt2OUN6M2RqMkM4ZHBpdjR4UzJrbGN5WklhNHZBWEp1VDNhdW5tRTY3Q21BYUlkMStLMGFRYjl0cWtRa095dDBrSVo5MG1CL2VVOEoxblh4YVFnSSttaGd3Ty8wMnQ1bXR6dWZ5RmEyakV5RVVVYSt1bHYrOElBR3JiZ2ZOTElHZ3ZuQjNrMmk0UmsvMXl3V1dEU0MzdkJDL2EvOEpYK1l2ZTIyOWJOdFlpT2IrZ3Z3cW9IaG1MZzZGK3NLK3pFdjNhWE9vVWxtV0NOYjBiKzZjY05zd25oSjk3bDhKSzR3R2JHaGhRM3hyV0xhOGQ1eGExMG8wWjFmVE90VS9ZbGpvQXdaL1hCdFRTb09Vd1lLTVhXWFJMeDNxMExRSjRPa2ZtNXNlWnpzN0dsaWhOazU2RjNCRzUveUV0YndNcjVJL2kyWUtkNE02dEhrb1RoOGlwaHFkdk9xWkFBOEtkakxXTGpwck9tdjQyOWhrdjJza0l1Z3o4cEh1d2J4bkdDb0pWd01RQXQ5UG5ITTU0SSs4R1VEV290elIyWHBSYnRYcFUyRGRuNWs2VkVocDRIZ0VVU3BTTzNaZGkxRlpIRjhMYlpLSU1lQ2dyeVQvdG9EZ0VWdXBqUnJNSGhFWnRkM2MzdjF3NGdHNjlZcWIwZ2M5UVEzRThGNXhRNXdZVWxIamY4bEhONTFZUWVpeHUxczJ3VStGMjFkdFBVTXY2cFZiaTJTZGRIVzh2endSTmU0VWtqaTAwVjUrVHBscFI5MzRmb0N3anZDbjRXd0g0aWtCZGZ0a055YWIvNXp6QTBrbUF4aUJIQzgwSjVyRGpJNlEvRDlJMDJKU0UxSE1jcHp3Y1U0cHdyL2lvemNUTk5jOWxJYlg0bzNaT2lhbGlucTd1azcwcXdxRTlCR3FrQWx2YmU5V3ZTWldkWU5QSlZlc1RhRXY0MHFCakZYYWhtZUtYZ0Fmak9abkFVOVVncDNUNm1VZXBpczZmNjRTUmFsQThrOFZ4NDM2NHBMR1Z1VkE5WEJLclN6ZDI2ZkZQbGdxNXltY1paUHQ5aUpvK2p6NHIvRzIwb1UzUnBpc3FIQkdoNFdUcXZXZ3ZDSHhVNGNNSkhLWGVxbzFpMTIrbVd3VVI3ZmlXNC81bERkeVpJR01NTDJJcmQzMjBoN3ljbEp3MUlEL1E0UUJ2dktrTzlLbDZTV0l5c2h4THFsbm1nc0dGaFVuanpvVC9Uc2x6cmMraWVWUlN3NkNYUWQyNUEwaEpkWGppallXMlF6REk4NExKOExpeFJGM3NOSnptank0clNYTHdKOVRYWGNJQ1ZRa3hBZm52aGc4L3pyK0lpc2FKZVJtWCtiOHkxSHdxMUVPYjQzUHZ0M2Zwc25CcmpsN05scC82RnByNlFHaHJrZ2wvTXVsNFRPL2JBb1BIaDU3WjYvRWlKei9RZVFIMTkzRkx2RG9qaGhlQjdORGI2ajkxYWVlK2YyckJLQjFDTlRnTWw2aEEzV3A0aXhDK2gwK201NXRhby96VWdoNXV5dEtqQUV6ajNqTTZDaHVTcU45bUwrTmdFOFg5cHlXKzBmN1F3MkxpcHFGa2xuWjZ4emxtZTlTMlA3K0pUaGdGT3Arc1E3RmdWY3BJWGRQR0hPdkVKQStaaldTSTE4dkU5TkpQVGxSRnZ3T0JIMXUxZjhVZ0I0dWg0c05yYTBYQXRHaklOdk5lQmN3Skg0aTNaZWFHUjE1L3pTbmplWEc0M0R5S2FOTFU5S0dQdmIwd1hyQ1ArWldpT0o0MWhpMDhZcVlReHptOXhKSG0zRWkvNHBySUtmYkxPallVV1hFRWZaczd1MkRuTk05aC9qU1J0ZGhWQktHanpjS2ZTdU83TXhrenBHOHArYWU2bGxROVZBNzhPVHkxR2JmSWRZWmh3TFBkZjROZ1NPT3drV01ONFpma0RVMW9CcXc1c29FPQ&file=www.TamilBlasters.cloud+-+She-Hulk+Attorney+at+Law+(2022)+S01E01+%5B720p+HD+AVC+-+%5BTamil+%2B+Telugu+%2B+Hindi+%2B+Mal+%2B+Eng%5D+-+DDP5.1+(192+Kbps)+-+550MB+-+MSubs%5D.mkv",
+    "infoHash": "3E0F53AF99AE1C68395B91E23E3AAC55047EA2A6",
+    "seeders": 32,
+    "leechers": 359,
+    "protocol": "torrent"
+  },
+  {
+    "guid": "https://itorrents.org/torrent/2AC2C4098ED8758E7CBB757E43DFE6A957CBEB7A.torrent?title=[Bitsearch.to]She-Hulk.Attorney.at.Law.S01E01.WEB.x264-TORRENTGALAXY[TGx]",
+    "age": 0,
+    "ageHours": 12.402371378944444,
+    "ageMinutes": 744.1422827383333,
+    "size": 275775488,
+    "grabs": 7300,
+    "indexerId": 1,
+    "indexer": "BitSearch",
+    "title": "She-Hulk.Attorney.at.Law.S01E01.WEB.x264-TORRENTGALAXY[TGx]",
+    "approved": false,
+    "imdbId": 0,
+    "publishDate": "2022-08-17T23:00:00Z",
+    "downloadUrl": "https://jditej.at7.in/1/download?apikey=531ae118e5fe4b67ade8f1c862a047dd&link=ZnRvc3pnZWVJWGNKM0gvNVgyT1Y1MngvbVBxcDQ4WG1Ya0VOYzdXclpEVXhqQi8vaWdIUGFucHFSRVU4eVl6ZzN2U1lOMXV4SjYwbWpYNTloS3NpZ1NXVFhHcnc5NDAwZjBnL1FEMXZZTFhnd2dFanJxY2ZYVUs2SFdBN2lpM0VrNzhzb3dCeXFlQ09hd0pwRzg0TXg2V292N3NjVmtCaHpFeUVmNXNoZUVrY2ZvWHdjdnZpUUx4WlAvcTZjcnBuSFFINlVTWS80c3U1a05BUVRVbUFvTi9CVTJMbXA5bGhPcGNncFR1ZFNmVT0&file=She-Hulk.Attorney.at.Law.S01E01.WEB.x264-TORRENTGALAXY%5BTGx%5D",
+    "infoUrl": "https://bitsearch.to/torrents/she-hulk-attorney-at-law-s01e01-web-x264-torrentga-55f7b/62fdf7bac59cdba22e927293/",
+    "indexerFlags": [
+      "freeleech"
+    ],
+    "categories": [
+      {
+        "id": 5000,
+        "name": "TV",
+        "subCategories": [
+          {
+            "id": 5010,
+            "name": "TV/WEB-DL",
+            "subCategories": []
+          },
+          {
+            "id": 5020,
+            "name": "TV/Foreign",
+            "subCategories": []
+          },
+          {
+            "id": 5030,
+            "name": "TV/SD",
+            "subCategories": []
+          },
+          {
+            "id": 5040,
+            "name": "TV/HD",
+            "subCategories": []
+          },
+          {
+            "id": 5045,
+            "name": "TV/UHD",
+            "subCategories": []
+          },
+          {
+            "id": 5050,
+            "name": "TV/Other",
+            "subCategories": []
+          },
+          {
+            "id": 5060,
+            "name": "TV/Sport",
+            "subCategories": []
+          },
+          {
+            "id": 5070,
+            "name": "TV/Anime",
+            "subCategories": []
+          },
+          {
+            "id": 5080,
+            "name": "TV/Documentary",
+            "subCategories": []
+          }
+        ]
+      }
+    ],
+    "magnetUrl": "https://jditej.at7.in/1/download?apikey=531ae118e5fe4b67ade8f1c862a047dd&link=QnBoQ3NiM2dzTUJDcTVnMG9wTUc0Q1JzbTBBVVArTmdZd2MrMmlTNVJnYlBzbUgzaU9Pa1FobDcxTm80TCtHYjFTUVoyMzQ0U0hWYUlsTVFSNUJsdXMza1JwV1FjV29qa1h2cXBqT2xiVEFxd2ttdkx3S296SEp5N3hQNG00T1A4QStTQzAxeXBhQjRKOEc5VER3QkpMck1oVDNZZDh4V2k5NzA0aitPenI1UGpsYTh6Y1NuNUZ4Y2ZjZEh3YmtOaTRDazFweGxmL3dBMGFZdWpFQWNNRGpVZUdMaHJhdFExMkhzNTU3bmNLb1l1Tkx3OGdSZFRZUGZkUVBlVTExclczZWdrTjMycDMrRUJtRkFyRWs5azhCN3EwVFdvT3VpdUJJQ2x3NVVTTzR6dlcwNWFwUE5mWitOUU1FYmhzSnBmemhJN2dQMWRuajQvUDQwOFpnNXpoT3dXTWdPdlZtaEdRb2JOdTRiS3hEck53c1pHeHYwSkJRZDNVTkFFbEdCWFhlaVlHbTZncnl3eDFCbTQyZlFsaHd6Z1lWdGZyVGtoVE9UYUhKVmNZTGUrOTVjOEFpRllZQU4zT0lKOE11Q2hhYWs3ak4rY0JGMjhHOTV3SERyZkZ4V2t1Y25oRzFzR0VNYi80Nk5KQTNNajg1Qy91bW9uOGR0WllqdDgxeGFaOUFiYVRmR2VhZWV1Qk56SnVnMFFpd3pDTmkxTHY5M2U5YXpOUWJESk5XVmxWRlpnQi9JbE5RbEhFeXZXbHFSamtTdlFWTm1mU0JyUnN5ZkNWeXBwa2VmS1AwVW9HWERjMHk1OXR6K3JtZGVOTlBjdkFuWW42NWdHdW5NeHJOb2JoWUFGQzdvdEc1OUVNRGRzNVN4L3g2N3ZGQ0lKODdOcjc1MjJpRTlxN1hyUndHcGxjdkVYOVhMQlp2QVZIZjhjUjduZkg4TTFnUmxHMFdocm9qcFU5WndNUmZ0SXA3RE5qWUhqWGJCRHhwVmw2Tm5mOVR4bDJ3MjFiWDNFVGE5S0krOThzcHZiUldTNEtubXlxdWJ0MDVCalhxN21lRDFKYjNySERPSWtMQjlWZUw0V2RqQTdRRkNabFRHM1ZkL3p6UXd5MnFITzN2Vi9qaFRLTEE3NndSM0VmcHlLc3gycGpWbnVtYXpFUTl2cHV3eDF0L1pVd1U0VWxUaC9hMzRyUHJuSTJWZE1GWCtFamYzNDYzV1ZmWlhMTFRNeklpVVFmS0VsTk5LTlB2UGxzcjZ0Q1ZhbEhJU3NEUy9LWFR0MDh5d2N2ZnB0SnBPR3NMa0VmQ2E1UWpVWHQ1OU80L1AvSStGSjVwcXpRNWwxOGc5VmxZeTErdzIrQjJBUXF0K2VzUjZDTExWRnpLUWUxU1FOWHdCUE4yRVZOc0p5cnh0bzFEeXkvZVcyeEk1eldXeDdQc21BOTdCcjI4bEJLVUhMOHhhN0dGWmVsNitXdHlnam1jQm1XTWtyTCtVc2RxWG5LL1lob3pLWmlpcjl3ZCtpSGhycmZ4VlhDdGNnYmNoSGVIK3hMaWkwNkZ0V2FYRDVibDk2NGlyZGxKTjYvNGNWYSs0Z3F2K3MvSVA2MkQ5WEsveDlIUG5pNWgvVGFpdkdvV3IvbnBOUHUrY3hJdlpJQlRlVWxHZzR3MytMc2dLWVBuRnR1dExMY1FYamVBSUg1N3VXWHlyUkx5RnJYZWg1NytVM1haell0MVEyMEdzZ3YrMSs2cU0xc2JPWFh0Ly9FNXRrbHFTbndFMmxzZVg3UWVhN1BjeGRPVFgyMUN6TDNZR2txWDF3dlZnZk80Tk8wR0QwSDlKT3hlZFFlYml0TEt5MDVmZ05IMm5CNzBNZzk4ZXZEV1ByUFhHeVk4c2plYzI3WkhHdmhVMk95OWF6ZEpGYnFmWWwrRWxFWWJ5NkRTTVlMUWRJSDI1NnRlMy9ZeUtHSU1OK2lmWUNlNUpnbWtpK085TDNDd3JNczlldEc0SGVFM2FhR3owWVdoL3NtN1JFZTVkc0hWSkpMdDB2alhKaGRvbzFCWldnL2NPdUE2RDM0NzJiaTBoV2F2TDBxMXBvZz09&file=She-Hulk.Attorney.at.Law.S01E01.WEB.x264-TORRENTGALAXY%5BTGx%5D",
+    "infoHash": "2AC2C4098ED8758E7CBB757E43DFE6A957CBEB7A",
+    "seeders": 504,
+    "leechers": 829,
+    "protocol": "torrent"
+  },
+  {
+    "guid": "https://itorrents.org/torrent/18217EE4E792E08B3F9A55558F766F7034085408.torrent?title=[Bitsearch.to]She-Hulk.Attorney.at.Law.S01E01.1080p.WEB.h264-KOGi[TGx]",
+    "age": 0,
+    "ageHours": 12.402371412888888,
+    "ageMinutes": 744.142284775,
+    "size": 2061584256,
+    "grabs": 1600,
+    "indexerId": 1,
+    "indexer": "BitSearch",
+    "title": "She-Hulk.Attorney.at.Law.S01E01.1080p.WEB.h264-KOGi[TGx]",
+    "approved": false,
+    "imdbId": 0,
+    "publishDate": "2022-08-17T23:00:00Z",
+    "downloadUrl": "https://jditej.at7.in/1/download?apikey=531ae118e5fe4b67ade8f1c862a047dd&link=dk10N0JSM2ZGRUIwSUpQRU0zVEFaaEdzdlBGOTlGVlBmOEd2cVNsZU5VUXl2WjFzUU5hL0Jyak1wdmtsR3lTT0lHQTJGcW5RRldROUR5bjk4Wnh5V1UyeUF2T2N3d2RPNlE2TXI1T1drcDJRSmNqOENJTzlTc25EZ0tPQlZBQ0grMFluRjlSdzBMb1BRNWRzdmkyU2pvc1ErdDIxT1VtZnVSOVMyRXgvY1NmTGNWbWM2ZFNNQWdSWGJXM0JKY3k2UWo1aTZ3R3NRUXFJd0NtWE80eGZkWlFUYkNPdldrT3dpamJiNDlLYW1vbz0&file=She-Hulk.Attorney.at.Law.S01E01.1080p.WEB.h264-KOGi%5BTGx%5D",
+    "infoUrl": "https://bitsearch.to/torrents/she-hulk-attorney-at-law-s01e01-1080p-web-h264-kog-1a26f/62fdebd4c59cdba22e921e52/",
+    "indexerFlags": [
+      "freeleech"
+    ],
+    "categories": [
+      {
+        "id": 5000,
+        "name": "TV",
+        "subCategories": [
+          {
+            "id": 5010,
+            "name": "TV/WEB-DL",
+            "subCategories": []
+          },
+          {
+            "id": 5020,
+            "name": "TV/Foreign",
+            "subCategories": []
+          },
+          {
+            "id": 5030,
+            "name": "TV/SD",
+            "subCategories": []
+          },
+          {
+            "id": 5040,
+            "name": "TV/HD",
+            "subCategories": []
+          },
+          {
+            "id": 5045,
+            "name": "TV/UHD",
+            "subCategories": []
+          },
+          {
+            "id": 5050,
+            "name": "TV/Other",
+            "subCategories": []
+          },
+          {
+            "id": 5060,
+            "name": "TV/Sport",
+            "subCategories": []
+          },
+          {
+            "id": 5070,
+            "name": "TV/Anime",
+            "subCategories": []
+          },
+          {
+            "id": 5080,
+            "name": "TV/Documentary",
+            "subCategories": []
+          }
+        ]
+      }
+    ],
+    "magnetUrl": "https://jditej.at7.in/1/download?apikey=531ae118e5fe4b67ade8f1c862a047dd&link=dUJmSnhyWndnYnBtTTY3dEtkWHpKcEs5bmU4Z1V5UERkN0IxOWpLMERpampFTldHWGRnY3c5MXJDcks5dkpyNWlHWW9tZGxEdWdDY3JwRWtYcm4raDdqYkdUanB6aHdrejI1YXBSbHIwWDNpdGpsK0kxWTZwUkR3ckF1OUtnZWNpczFBUHc3MGxvN0tGSm1WQkFLdm45WjJJajZwWTNRTHRSZjJwT1VSM2JaRWhrY0swa3NHMU10dW1jb1U5NTVMK2JLRGZwbUhBSXB5RUdqaUg5UkdOekJuNkQwV0dvanBEbjhKS2JFaFZvWVFzMnRyY09XVGYrVjA2UCthMDVhZjJTWWVCb0J4YTAvd3Z3bVoxbUx1Z0gyREczbkkvUkd4MlZwUmVjeFR4RVBwSEpIRWM5L1dTREZXdU5ydVNvNElyeEZpampmbDRaQVY0YXlIWlNxOWZZYlI0TnVtV2JyUnMwaUQ3UTZJc3BTUHByZk9JMnc1dzRUcXV0TnMrYllheHdnWWhPSERPQVJRMURUbTFoZForblZlc2ZtbmxoRFRpZlEvemRhRDByUWN3WGs2Q2ZKY2ZidkhUY0oyV25ZeWhyZjJMY0lmbG1za2ZKSWVqaHRQYlJaajE4bjVCa05lemJHMW90VjFRczZvZkUvc0NZbFZOVEMzVCtUTTZQRm1sZ1psZTA0cUpQZFVvRkJGSFpOejkxTlR3TmEra3pBYkFHVldacG9COERNVE55NGVNWGNlVnc4ZldBL2xhUElDYkN2R1BrbDQvRFFTSFJSb2k0U2NQS0VuVHErWXdzUXdrOEhwVHJISG5kTHVTU0E4blFXSWxhV3hLS3I1eDB4UFN4emxqZUZuTzZFRXZFYzY2ejl4dlJCUm14aHE4MkZnem1ueTMyeW5VdjRKZEp1bGpmR0N2ZUllenNiMzg5WklseVFUeGhDZk4vZklxOFdLZmNyaE40MVdWcXAwSnJrUDNjUHBXMTVYQUNrb0M0Z2h5Zlg5bG9mOXZSbDVhVDBGTG5ueGRJQUxjN1RBSENReGpidXA0cnQ3Y2MrY3NFczF3ZFFWMCt0Z3o5a2hxR1VqS1ZQTCtRcFFqN0JGUjBucUFBRG5sRXAzOGptRVdtakZ2RW5YditPcnFLMUdXWVB4RFZkRlhYYlFjTGN5MzFvRGFJcGJNcWhEdy9KbFNaODZseG1xMElJb2s3dlFtQTlzQVp4TmxaMHU2b1lEb3NGQ1NGOXdUSGtZVG5TdDl3WFk5YWNkalRzNjFFNTlaSSs1SFE1ZVpGMU5jSXM2QnhPaW5UZlczcFZoZkpXaXdDTWEzNjJDYmhDdXBnN2ZPbFdyd2o3WFhWS3ZRbE1seFlla0NpMTNYelRxQktiTVgyR2tlQ0FBWEVBRExUTDhxNUVEb3RmeVQvK3lwVFNTbmFpNVEvcjV4U0Fvd3VZbmZtNG9OTGZjZUdBVzJoZFEvNCtXd0Q2RGhxZjBPUXhFS2EyWXRlc0IxSDkxVFM0MXFscFQ0OUNHZGxOVTNOOCswbk1yOUsrTEZBV2pPamNTcjhqNzUxNStnZEtEWER6ckRhWGVaOHdjdmpPd1hoaXNNTE5ySzI4VXE4bm14UGtEdm1WeVFlMGw3MllqcU1yK2R1dzl0VU5NYnp3NktmWGJuMXVMbkhabmtqQzU5TnkvclB2VkxvdHpabEdQTVJXYm5UTXhLT3NlbnI2OGlaOVRoOE9wSjNEK3NCS3VscjdOSHNkMXlEWjBuUmxsaksvblZ1bncrUXZDUmpBajBCM25rdzRQbXQ2c3Y2ZmxkM0p2U1ViQzBzQ01mekdvZ3c3dTRoeEY0UDlPQmtyV3Erd3lIMUtDOC9qTk5uVWsydzZUTGNMMXdnMFN3NjJiWjZxelJjc1VHQ2IvRVA0UlE3blJrTVExUGVTNUwzZmJxQkw5NEMxYVV3TGJORWxyeUNONTk5c1VtdnhvZHEybzJvWVpZQVNxekdpQ3lMRVR5T2dqYW03c0JJZElYSjBGMXJrNDMyLzF6NGZHdzByc1pNazFrMnJEV0k3Z0hIdEJ1Z3ZqZThDV05EZFk5UT09&file=She-Hulk.Attorney.at.Law.S01E01.1080p.WEB.h264-KOGi%5BTGx%5D",
+    "infoHash": "18217EE4E792E08B3F9A55558F766F7034085408",
+    "seeders": 89,
+    "leechers": 558,
+    "protocol": "torrent"
+  },
+  {
+    "guid": "https://itorrents.org/torrent/69268A627019F2E82060CCC6D59E0AAD12272E35.torrent?title=[Bitsearch.to]She-Hulk.Attorney.at.Law.S01E01.720p.HEVC.x265-MeGusta[eztv.re].mkv",
+    "age": 0,
+    "ageHours": 12.402371446305555,
+    "ageMinutes": 744.14228678,
+    "size": 439353344,
+    "grabs": 1400,
+    "indexerId": 1,
+    "indexer": "BitSearch",
+    "title": "She-Hulk.Attorney.at.Law.S01E01.720p.HEVC.x265-MeGusta[eztv.re].mkv",
+    "approved": false,
+    "imdbId": 0,
+    "publishDate": "2022-08-17T23:00:00Z",
+    "downloadUrl": "https://jditej.at7.in/1/download?apikey=531ae118e5fe4b67ade8f1c862a047dd&link=SGhuZHdGQkJtSzZwalMxallXaVlRZFplT1loVGdYYnFSNWtUUllTNm9venlkSng4eEFwMGVReGFoY0xNY1JDdnhvQlM3akZwOXczUGdKU1RnWWQ5dUxIMkJkVzhoTjBEZEZBSEFkb21BK1pXZmdlUFBvSlpxQ2FQczN6c2ZBOStxYVVldUMzbzRZNVpZOEExUDh3UDAzemhHWC9Na3AvVzVDeGc0V3IxM0F0WUJRSmxHWEQrZ0tmV2ZKdkJHMEx4cEdmWDZNOWE5eGFCZ3Vxa0pQNnJHdmx5M1dnYzFhakp2ZVQ2bTZIbHgvci9UWEs0OFphZW9VSjZieUFOb3czaw&file=She-Hulk.Attorney.at.Law.S01E01.720p.HEVC.x265-MeGusta%5Beztv.re%5D.mkv",
+    "infoUrl": "https://bitsearch.to/torrents/she-hulk-attorney-at-law-s01e01-720p-hevc-x265-meg-d4e50/62fdeae9c59cdba22e9219ef/",
+    "indexerFlags": [
+      "freeleech"
+    ],
+    "categories": [
+      {
+        "id": 5000,
+        "name": "TV",
+        "subCategories": [
+          {
+            "id": 5010,
+            "name": "TV/WEB-DL",
+            "subCategories": []
+          },
+          {
+            "id": 5020,
+            "name": "TV/Foreign",
+            "subCategories": []
+          },
+          {
+            "id": 5030,
+            "name": "TV/SD",
+            "subCategories": []
+          },
+          {
+            "id": 5040,
+            "name": "TV/HD",
+            "subCategories": []
+          },
+          {
+            "id": 5045,
+            "name": "TV/UHD",
+            "subCategories": []
+          },
+          {
+            "id": 5050,
+            "name": "TV/Other",
+            "subCategories": []
+          },
+          {
+            "id": 5060,
+            "name": "TV/Sport",
+            "subCategories": []
+          },
+          {
+            "id": 5070,
+            "name": "TV/Anime",
+            "subCategories": []
+          },
+          {
+            "id": 5080,
+            "name": "TV/Documentary",
+            "subCategories": []
+          }
+        ]
+      }
+    ],
+    "magnetUrl": "https://jditej.at7.in/1/download?apikey=531ae118e5fe4b67ade8f1c862a047dd&link=N0dQOC9jSzE0MVRQOU85SGZMQlN4VWZVeVpQOUhFdm5wYk5neXk1a1pSaVB6SFhhZGdSK0dHWHZqZnkyTzNRdC9tcmZYc2dBTkNDSzRWRFBDV2VSZXJXdlhRK0tCNDUrc2NoZkFRczJQTGtCbjMvTVVsdUVWcjIwVDduVmR3SmJzWFVYclBYdWpVdWl0V2d3S0s1aEJzMHJtNExhQjNIZ09QNTBOZmk4TG15Wnd4cCtBNG40ZzQwazR1d2gxRXFhcFd5VGZJNzJIYURsL2NOUW0wdlh5UzZ1ZUl4aDNTWlVtYnBEUVNqMkFsWndHa3FuQ2hNUjcrOG1GanhoZTlNL0U4RUFnK2QwbFZKVmNGeHpadzVtV05hS3Z1ekZQWU1GbU03SWZkcGJTamxYSFh5VWNOR0tQSnhXSmlBTFo1cWhqTVFLMU44Tlh4dk42QVM1R0N3V2dFRVNXazRhVElBWVZ5SDNwemFESkxSL016WXJmd1dnSVJlNzkxSmdxNU1nQW9sZkN4eG9NV2ExclJhRWhsSDMwbThGUGpmc3RrQWtyWVZscXl1ekNRRE9OVmlJcWVNQVVwcXdYdlZlYk9Gazc1NXpoekcrcU9FV0NRRnlSRk8wS1hDREoranBSVGllMmhyZmpNbEhzRWJZY2Q0VERZVnMrT2xjTklUTUZRWE9FV2VnMGloamVmYkk3TndhZC9wcmVzUEhkeGorSmxpM1doRjcrRDdPT2NwWFhLTzFaWlI5am91ZXZwRWFnTFVLSmwyUk1NNFFDbFJnekRvcjBRMlZDM1VXNTNiSjA4SG5reDlHVndLTjZtV0pUOU56VVN0OXlQNzZIZDY4TGxGQU5kcFA5VElWcCtKRlBlWkw0ZGo2WDN6K2paWDhvT01LTzZwMXAzZy9MUUQ1aThYM3RLeDAveFBZcVBaZ3pxdzk4eHNxNlZkYVhaZUR3TEZxeVhSQ3gvd0dWTmVYd29XclZiQlFtWUsxd1JRQkk3TVVHeUduejQ5TlRXWVpCbVRYOHJCQkp4ZmNkYjlkS1p5OXlBM2VYM1hHajRGMlhRNTFJUlF2cGl3aS90c2ZZVk1JTDM3V3hnR2hidmxMbWYvWmsxRVRYZGlLeUpSOFpLZHJ1Z3lNMHkwTXpzeUw2VW9QSkltdGRCMnFMdWdpN2RXWTV5M25qTWljT0pCb0dJYVZwQmVleVNmSjh1L3ZpcEhJRFdtNnR3Q0RJQXoyNTduT1hzSm84cFBRc2Z2L0JxRGwwQkQxS2RnTit3N1FnUERQMTZWSW56SXA3MmtvZ1dqSmxvYUVvejNNM2QrSGYwNzR3aXgwRlE0VnNJMFlJeEtCangxR3Z1Qm1MdktVOVp0Qy9ZTC9FMkx3MVQ3dWlGUzIvK2NNalZGR25QTk03azJxbTJjTG1zbXcyUzdHT0RRYmVnMlhOY3ExNjFKeExBbitkV3VlZUJzeWZVR1llZmovWG9qbHVWSTJObzdVdXRFVktvUDRJR2l6U3EzNmxPTlNxMkNiNDVXdjZVd2xKTytKb1BtQ01KYjc0TWJ2K252SU5xcnZIdndiNzZLdGF1d0NEZ2U1cHZlT2FjMkx6TS9MdG1KV1FoYm9NMzA2d3B1U3RKTE5MTndZM0xyZUtJcmwybmlOcDNDNEQ0UHc2Qlp1aU5PV1F4SzVvZHBOR3ByVXJVczZwRkhKaFNjQ0RWbmZUVUdWSE5jcnpKaFRNVTNPRnhqNG1LR0I1d0xsdCt3bDdpeDRYVy9wUGVEZlRUek0rS3Zic2JnajBSMDZmNFVTZWpkU3dDS1R0dWdBU2o1RWh2ZmNRY2d1NnRFT1IyRWh6V3dySVJJYlJBL2tDSHZhcDBha01tZVNYRm9va2RSdmxlL0JVRk45SklRblkrY0E5Z2pKOHlaT2R6dzhUVEN6ZEV2T3RITkZ2UDZHWkM4Y0psVnp3MmFLNFJWNUpzcENTdE1kKzg1QmdkMEhPUmJTZUJUYktaODRsbUk3M1lOUXQ2Rm5vTGNONFpmekw5OTZlamlGOWFDYUM2UDBMU3lnWDVVS2FicDduM000SHV6ZHBzeU1MeVVPc0FIbzZ2Y0NqMWdTS0s5QlBPMD0&file=She-Hulk.Attorney.at.Law.S01E01.720p.HEVC.x265-MeGusta%5Beztv.re%5D.mkv",
+    "infoHash": "69268A627019F2E82060CCC6D59E0AAD12272E35",
+    "seeders": 131,
+    "leechers": 386,
+    "protocol": "torrent"
+  },
+  {
+    "guid": "https://itorrents.org/torrent/DE2F1220E1102D0165D986A4FBCE96D167A74210.torrent?title=[Bitsearch.to]She-Hulk.Attorney.at.Law.S01E01.720p.WEB.h264-KOGi[TGx]",
+    "age": 0,
+    "ageHours": 12.402371480305556,
+    "ageMinutes": 744.14228882,
+    "size": 1105954048,
+    "grabs": 1700,
+    "indexerId": 1,
+    "indexer": "BitSearch",
+    "title": "She-Hulk.Attorney.at.Law.S01E01.720p.WEB.h264-KOGi[TGx]",
+    "approved": false,
+    "imdbId": 0,
+    "publishDate": "2022-08-17T23:00:00Z",
+    "downloadUrl": "https://jditej.at7.in/1/download?apikey=531ae118e5fe4b67ade8f1c862a047dd&link=eEt0MUZVY3dCVUdWTk5VTkpNUzUwZjZJWVNLbW5jZGJXZ1NISkZqRzk1UkQ4OTJZREk3emprNVRib1NINmpEMnJCRmlMTFlwb2lSang0QndOYWhvM2dkYVhkaTB2bXRoNlNYSU9nSkwvbTlDRnQ2dUhYT2ZhWjZpT29McTM4RkZlcHY5SXgzNDF6QWN2REdxVFVVejI4M2VLdVZBRTlURERWcG02WXUzVXc1QVNzVjJaNXdyRXFMUVBEN0RWT016eHJuVDVoc05ZUTh2cG1JdmtOT3pxQU1wL2JOa0pJbWVMVG0rRnladTB0Yz0&file=She-Hulk.Attorney.at.Law.S01E01.720p.WEB.h264-KOGi%5BTGx%5D",
+    "infoUrl": "https://bitsearch.to/torrents/she-hulk-attorney-at-law-s01e01-720p-web-h264-kogi-097e7/62fde803c59cdba22e920c71/",
+    "indexerFlags": [
+      "freeleech"
+    ],
+    "categories": [
+      {
+        "id": 5000,
+        "name": "TV",
+        "subCategories": [
+          {
+            "id": 5010,
+            "name": "TV/WEB-DL",
+            "subCategories": []
+          },
+          {
+            "id": 5020,
+            "name": "TV/Foreign",
+            "subCategories": []
+          },
+          {
+            "id": 5030,
+            "name": "TV/SD",
+            "subCategories": []
+          },
+          {
+            "id": 5040,
+            "name": "TV/HD",
+            "subCategories": []
+          },
+          {
+            "id": 5045,
+            "name": "TV/UHD",
+            "subCategories": []
+          },
+          {
+            "id": 5050,
+            "name": "TV/Other",
+            "subCategories": []
+          },
+          {
+            "id": 5060,
+            "name": "TV/Sport",
+            "subCategories": []
+          },
+          {
+            "id": 5070,
+            "name": "TV/Anime",
+            "subCategories": []
+          },
+          {
+            "id": 5080,
+            "name": "TV/Documentary",
+            "subCategories": []
+          }
+        ]
+      }
+    ],
+    "magnetUrl": "https://jditej.at7.in/1/download?apikey=531ae118e5fe4b67ade8f1c862a047dd&link=NlZYS1hNOW9qTldyRnFQcmE0TTFCemtVeFI2SXByTGpHVGRlMm9jbjV6aExtQTRkRU8xcGo3OTVCc1NKRW5pM2diM1FLeTczd3Rwdi9va1BYc2xWbFhMODlDcWR2TlQ2N3J5aWs0aTlFOHR4eitQYUZyWVJ5VHdTdGlYVU96dmNIQXo4SHU5K2tTRGY4KzZmVFNpSzVFb0tvUmsrNXhEYllvTHBUN25EQjkvNGdvSFdPUCtEQlhXam9KUkRRU2V5bUdseGhtazZ0elNsVVE2VHVOR3crb2E0Mm5rYytscHlNVElnRFN4Q2Fac1ZWSTJhelM3RGUvSis1Ri9kWWpNVXYya2I1UExwZTRVVHQ3aG5aS3EvaXl2KzhRV0lkWHJnQXdsTnVhRVpOQ3k4R29aZi8vSzRBZGJydjUwd1BSVHBpbEQrbEJyY0hJSFFMUzVzWVloa1VoNWV2VVkrR1hJWVpkZU0veGZYMHl0Qjd0UmxpeWp4ZmQ3azMzL0pLMFF1TzJPVTBVRW1ucjRGZWEreDZTUXBVQWlMTWd2eFhjWFJKaStvV2R5RDhMSFpnRGVrUWVqUUxma0tpM1JjWnRuYmZtN1cwZmpvZ1lPNmxOYXlBVW5CMWxZQzc3VHVweE9mWXRZTE41NWhTM2FySGVScHF1NXZLVzdSTng2cU5iQVEzT1E2QTQweGYrb2ovL3ZIMHlCY0lxeUJrc1A5U3grZ0hTZHA2TnAwa2JyN2M2S1AxRnhVRmhrNm5waWQzL1ZkVVR3NmtwL3VDL2Y5OE8yTi9LRUp3ZE4xYXNBTE5Bb2xQajBlZkRzY0ZtM2ZEd2hzWXN0VWErYWhEdSs4bWJLRVYzbTRTRXBPM3JnWEVXWFBaRVY1QVNnMGpQUFB1bHBVcUpoOG16RmQ0bFM2d25UbEVRM3llb0pjRHpCa09CczU0RWxvU2FuMmxKUU9TTEliVUtrdFhWV1QyTldQSmVWQ2VPTFRlZVZ0OForSkdxdlVpaS9LSUxON3BSaSt6MHZOY09lOTBxVnczRUovMnMveFQzMFIyb01IRWh0NVJyVjhSQ3ppVGF5dXErcjZhZlBZT1JwZHRnN3pQMEhZRlBRbGhabG80UkRxUXA2K0xpYi94SmFqbTdCeFd2bnVGSkU5UVJJWlRTR2tFV2FGM1NNY0JqY09hNXRtUVhkZFBybmY2R1daM01iY0c2am9kZTFUWVdTcURpQlA2bDdlNVdnelYxNU1pSnVrNFZHYnBJanZRUllkMzBYTmEzTkw2VXBYenVDZzc0UjJwL1V3SytuSkUxd3pLMWtoWnhBRmp2SEZiRXVreFVOaXRGbmtNSDlLYnZ3K3h0RTZXTjVhNXZYeWZIWUsrcjRKT0hNNEdhdk5yaXNjVG95bEdpT1h4OURHaGtOYWp0Z1EvdGxrMXpGNzVON0hzOVR3cDV1TDM5N2ZmcFZRTnRBTEZyYzVlcTJNWkM4RndpY01qdTY3NEJ2MlNpbTNYNmtwWnpicTh2U3krY05nam0vV1VSSUI1ekN3Y2g1SU1pQUY1K1pUOFR0bGFyZm5CbFZKZHBWZW1ocXduMHA3eGo3QVRvU2IvbitvVUpSKzYzamplZzdLR2VJaW54WVdhNnhTYTljWnFpNDFERzZaOFU0YUIzL2JaSUxRS3ZJZ01yQlZlTWxVejlXalRLK1V3eXBlbmdSR2ZjL2d0b1NiQ0R0OXNOYml1NTZZeEh5Y2c3VlNzQ0JYQmxtN3dUMUtwTUZqdTJjbVcyd3ZvQVRrVWQyTk55YUVRdHdMOE9rRy9hajIyeFlodXgvbnNMVkJ0U2dQdUx4QXJxNDZCd05TNFRZci9wbk1FL094NWlMWlNVeEMyZzFGYndKcWpGcTI3bVpJc3JuZjdWWVRkVU14OEVDNE9sR1FvSGx1WkpxQ1V6TjNYS215aFlmL0JmRUtNdE1NSnpBZWJOU2NrRVJHVi9KdTd1SWpETU04N3luclUyWVJwREwvaHlER2piSEt6Y1BMU3pxUU5FcGVaMndRU1diRmNWSlhCUTQwcVc5c2VzQnBVYU15NEhDZnp6TnpKdz09&file=She-Hulk.Attorney.at.Law.S01E01.720p.WEB.h264-KOGi%5BTGx%5D",
+    "infoHash": "DE2F1220E1102D0165D986A4FBCE96D167A74210",
+    "seeders": 78,
+    "leechers": 394,
+    "protocol": "torrent"
+  },
+  {
+    "guid": "https://itorrents.org/torrent/EE1CF8A5B9D74771175A63321D96263F90EAC2FD.torrent?title=[Bitsearch.to]she-hulk-rip-720p",
+    "age": 1,
+    "ageHours": 36.40237151536111,
+    "ageMinutes": 2184.1422909216667,
+    "size": 31876710,
+    "grabs": 10,
+    "indexerId": 1,
+    "indexer": "BitSearch",
+    "title": "she-hulk-rip-720p",
+    "approved": false,
+    "imdbId": 0,
+    "publishDate": "2022-08-16T23:00:00Z",
+    "downloadUrl": "https://jditej.at7.in/1/download?apikey=531ae118e5fe4b67ade8f1c862a047dd&link=VE9BbTdTeHNIV3QwWnVqbS9OVm0xS09nUVhjQWZ2YmZRVElKOVB6OHFhdElXNjdZVllSdkI3cTlaQUxscmtzcXpoY3E4MmI4RnpLbWZveDB1SDllZFlVQzlrTnVQdE1kQTFaY2dZVnpTd2M3dC9ySzVPcVN5cVYvWmhZcUc4cHVybHF4d1BMY0JDVHkxY3A0UVRhOGkvZi9LUFBDNXI4OXpNMFhHaURGSkc1ZTRINzQraW5ib3JVcEY0WWVVR3VW&file=she-hulk-rip-720p",
+    "infoUrl": "https://bitsearch.to/torrents/she-hulk-rip-720p-dc868/62fd5a8edd79cf6f530e5535/",
+    "indexerFlags": [
+      "freeleech"
+    ],
+    "categories": [
+      {
+        "id": 5000,
+        "name": "TV",
+        "subCategories": [
+          {
+            "id": 5010,
+            "name": "TV/WEB-DL",
+            "subCategories": []
+          },
+          {
+            "id": 5020,
+            "name": "TV/Foreign",
+            "subCategories": []
+          },
+          {
+            "id": 5030,
+            "name": "TV/SD",
+            "subCategories": []
+          },
+          {
+            "id": 5040,
+            "name": "TV/HD",
+            "subCategories": []
+          },
+          {
+            "id": 5045,
+            "name": "TV/UHD",
+            "subCategories": []
+          },
+          {
+            "id": 5050,
+            "name": "TV/Other",
+            "subCategories": []
+          },
+          {
+            "id": 5060,
+            "name": "TV/Sport",
+            "subCategories": []
+          },
+          {
+            "id": 5070,
+            "name": "TV/Anime",
+            "subCategories": []
+          },
+          {
+            "id": 5080,
+            "name": "TV/Documentary",
+            "subCategories": []
+          }
+        ]
+      }
+    ],
+    "magnetUrl": "https://jditej.at7.in/1/download?apikey=531ae118e5fe4b67ade8f1c862a047dd&link=ZlpIMTFxdWx5Sk9LMmNMVDZndHVEQmcvZkRSbVZoZU8raHBhenJBMFBxR0dRdUJpdHRXSFBFcUNHTXMxOWlkb004VzVHSUI0alBGWW4wc0ZsNVc1ZjkxNUZwVUI5RndzcW5Uc1N3UHBzZTNPbmdna0pvRXhINi8rSkw4TFlyd2I3M2RNZEJqL1hRSldXRmNhbHJCWTZGVCtxaFRSajMwQzdwMC8xTkFFc1l4c0x0UkhSL0Q2Z0I1TGZEeVAzdDJhUEYwRGhyUDB3T1o4bW5aemNLNU5ZcVVkN3lVa1BVNmsvRkNhMlN5c3YwcHFFWmpna3Q1MjlpU1dQSXpWdm9yUGltRlZGNzJSR1dJQnJzOGJyL2YvSEFXUjd0YkRHZm40aXRudzl2aXVBSjRGSGw3ZDNJRlZOTGZjNVZzZlg0M1ZteXY3dHZ6Z2Zmd0FleTZ3cU5DNUZUZ2RBTkR3ays0NEx3azEycWtnQ3ZSVzhrRjA4U3VXdmNDVzE2RnFuT0N6UGFNR3BhU0grUWplbURKNkNjMFNZMXpWLzFaWmF4aGdwZng5RTJLQmdXSEdvNkc2MVJ4OGcrK0tqdFIxWU9zeTFOR0pvOUJ1SkVJNnhsUHQ3QkZmV2duaGlicTRyUXF2NTh3SEdjaEhpODRlSTJJa2x0VnFISGsxSnEyaXlLSTVMbjRodFhic3VqeE1VL0dyd0orVHRodm1tZi9KYlVJa28vMXhKUmx3Q1ArZjIyWHdEQ3QySXRiNjlXODZUODRZSEQrUHM4TElkOEVzc3hERHkzdGNWUzBzR2FETFFlbWtTYmtIdFM3RDVZZVRHcnltYUlGdG9Day90MGliTWt1WEZtaVpvaWZmUWk0VGFlRWNtbm10enI4VHZzTkw3RkY5ZDZRcTRJb1Z0UXMyMWNOUmFFZDFVNTNSOHhzWmg4RkhNcUN6enhuRk5VWEQyOHVYWkxUZk9IRDRPdUtQZ2RLV2dtYkg3ZGNlWVFKSDN5blRSYjZob1JhQ3N0QWJZNmFwQ0lMMGNmYTJENjg1NHJPY0ZIS05YS0FBWStXbjQ0WVR4SnhOa3B0dkp0ZU8zTjBDNW5KV2ZQaHJrNUxCUEdzVjlJaVlObU9XMytkNTVWYkpBK1l3T09SNmhIRk54NmFzWEdZdytGVHB3c1N4NHovcnlFNkVmZkhiTERlQzU3VWZxbXQ5TFZyUTY2Z1pCeE9kckVIanMrYTJ2TFpSL2VvODlVVldWTzY0ajhwQnpVUHNRS09WT1I0dUNWVVNsUXJtWjhTOXZUR28xMzZYN0xoeWJUdnNoWW5hQlFnTmFVK2FqSmFTVXA3WUpIVFlSMkpVTml5eHdLVXV6bkxRL1RVQUhlYXl2amN4K2h6cC90WlcxMGx2RVNPOE0zNVVYeURkaVQ0OTNrWGsrUzVsSEpaMjdtQ0p3M3NPVzZIWnhIUDNTK1JFYWJ1VGRvdzhUMmFwUE9JQWxyaXljc0UyRm5SMnY3SXFUeWMxVVJQZ2NDNWR4VDJVQ3U4amFZSmF6ZTVIQnhZYU9IOTNTN2VqcjRQLzQ5aEMxVjM4MTM2VklwcHU0WHBWM0wyQml0ekF5Q290TXZLZjQwMXVQQ0ZPSGNsK2RVSWJNc0RqaGZUcEFJUkQra3ZSa1ZZUHowTFdkVlV4L3BmZ2t2YUJsOGRsUTBja2NvSC8zcG9MdU5qeTk4eWE2aEVaOURXQytDSzZYSktGTHE1VzFWQ2loOGk3OUFNVVJsZ3lRSmxGYnVvKzBRUk9jMnFJdzNTRDNxdWJlSlBZbC9mWnhyQlI4YVdhNjUwVER1RkxkY2xLWDd4cEhwdHFRSDBXbEFFYmVtRVViMlpGNGIraUF5L01odit0bW1ibzhPek0xZGN6dXNMZ0pXdHlTR0cyNnZnQWRpcjN3dXp5Ym0xZUNkU0ZkTXFhVU5XS3A4c2NrQ1lmRTRqVjRaV1hkcUNhdGI4dWVuUE9Jc2ZxNDVCR2t5Qy83RS82TmRKVEFRQWhGY3g3VzRNPQ&file=she-hulk-rip-720p",
+    "infoHash": "EE1CF8A5B9D74771175A63321D96263F90EAC2FD",
+    "seeders": 2,
+    "leechers": 1,
+    "protocol": "torrent"
+  },
+  {
+    "guid": "https://itorrents.org/torrent/ECACE2646FAD1AF235D13E9C32CA0DE22AF876CF.torrent?title=[Bitsearch.to][Cyberboi]%20She%20Hulk%20(Marvel).zip",
+    "age": 18,
+    "ageHours": 444.4023715479167,
+    "ageMinutes": 26664.142292876666,
+    "size": 64487424,
+    "grabs": 49,
+    "indexerId": 1,
+    "indexer": "BitSearch",
+    "title": "[Cyberboi] She Hulk (Marvel).zip",
+    "approved": false,
+    "imdbId": 0,
+    "publishDate": "2022-07-30T23:00:00Z",
+    "downloadUrl": "https://jditej.at7.in/1/download?apikey=531ae118e5fe4b67ade8f1c862a047dd&link=eHdEVVB3dzhsaVVyYVZMblpWRHBpNXM3TjBJWlBxYmpsLys5YlNYZXRRcWVhZWlVeFNab01YMHBJWVlvV25HWE1USDBsYnY0cFhXcndTMmw5ejJWUHM2Zm5Vd2FJL1laL2VzOWN3alQ2N1BoSm9rd2ZsTzRZU0ZBVWJaNVBWMVh6T2w4cHJHS1k1OU9IU0tSRUZLbFlwNnh4WkFLdjNnRTJqVWFVNXRkY3JUS3dxQ3F2YmRCWk84ZjBlcDFiOUY1bVBsUHAvWFNCWjlONWlTNmNubi9hUT09&file=%5BCyberboi%5D+She+Hulk+(Marvel).zip",
+    "infoUrl": "https://bitsearch.to/torrents/cyberboi-she-hulk-marvel-zip-e4532/62e6f89c6bd973c836bbb2cf/",
+    "indexerFlags": [
+      "freeleech"
+    ],
+    "categories": [
+      {
+        "id": 0,
+        "name": "Other",
+        "subCategories": [
+          {
+            "id": 10,
+            "name": "Other/Misc",
+            "subCategories": []
+          },
+          {
+            "id": 20,
+            "name": "Other/Hashed",
+            "subCategories": []
+          }
+        ]
+      }
+    ],
+    "magnetUrl": "https://jditej.at7.in/1/download?apikey=531ae118e5fe4b67ade8f1c862a047dd&link=andybjZteEh6NnRkQjE1cFV1TVpVc1FHUS9Eb2dtUTJRZDZMdkdDcXczTm5KMFlFK0hMa3VWUVhmeUozZ3pDbGNtVllqbkRtQUlyQWJEZDh2VEF0WGJJMitRbHFKRXdnWmZ1K1krQ0Rmd0htVkhYYjVHZmoxcHV0TU9mYkJXU01nR2taZVRGSEhvZXk3ZVZoZWEwUitmTVBvNCsyOEtWeTZGRDZoTzZXaXU2NGhpZUthYVJWU1Ivc1ZESGVQYXBsZ2hrbG9wOFRQTU5VNGhEMUJLSmM4Qys0bVhWTnNxMGV5ZE5DWUhTOXY0V1dYemhpMVY5aU1WOGJvdktaQlV1K3lDK29tWmFjWHNlSmtiemdobGNxTHJtZ2tISFZpYkxSZWRiMERKdjAvMmJRd3hJYWM0KzJ1Mzdld2YrN2RFc3pwSUp0SDQxbFV3bFRxQWhsMk1YaUR6SytINENzQ1h4STQ5dGtUOFhGRTJUcWVETHFvZlJBb01mclJuU2xtTytxazR5YnhIeGVOcXZIVUoxZ1QyUVV5VDk0eHFzS0hQTFRXZUNCUUowUURtQVZnTytQZFBzRFcrSXVocFZpanI3Mkh4VEo4UGdXLy9iSHpKMVZEb3k0Wlp4Y1JSeHhLWFZrSlQwaFEyK3FqK216bStyTHVGUU53bGtUaHdEVncxbTI1eTRZaVRnUndMdGJJMnRhSTJqZlZwU1UvL01xMDA5bEZLWjBtOThneU5HMWE0bWNUSkpWSm1UOU4wTTRNQ2FEWFBUSVhoWDh3OWVRZ0dORmhYUWozNm1teXQ4RW9DOTQxc1d3WmF5NFMrRU5OK0oyWmdqajdDOHRud2U4cVM5MmV1Q1JQS0l4VmhTZHN5eG9qNEtUbVJXTGRPdy9yenpXYzNlM1l2YzJLd1B0azdHdi93OWhXaUd6NWg4ajNIMjlxZWVuN1B4bTY1ODVlUE40aklseWtKd2JxbEN6a0FCWVk4SllldndqNzZTVVB1bEdBME9vVE5KRHdnTXRsK2tuT1h6ZU93MXhHbDlyTUlVMEZZVXZVSGhqYkMvT2NYcndXS05UNy9odWtjQzY4OGdkSy9Fc1RnWGNEREJNWkRzcmd5R0tYdExUc20yZHFKTjVJNE81bjdneHZjTXFLR1QySWZUMFV0QkFMNUpiOTI4RzN0QVVkcmN5aXpiMTFGQjBjWDZCWGFhdzEvbjluTXFGUjZqUXVEeXRWdWhMeXdxSHlwSGU0OTB4OGpGY0VzV1BuY0d5REo3Y2N1bkc0dVhtYURuNFdZK2RRc0pUQ29DQTZ1U2QrRGcxSzB2czE5eXRhUUtGdU9qWlhxdjhkUVEvTkpKc0Q1WDdnRWgyRnRPckpsVzg3RXEzS3FNa3hxMk9LNWFYM29TOWxKUWRnSHZmLzdDeVJKLzNZajFQYmlxc0FadFg1K1lPZmE2bGFoRkdERVpIb1FndVd2VEEwdWhPWFFIdTRGdDVCdldaV0ppQ3lQSFR5aEtWQlhELy9NVHZBaDNKUDczVkdtRmxCbldyWUROazZITHQ5eEVBenRHb1RUWHJvVEVtMjI4ZW52M0hiWmhTZk1qZDdMV0JWTXdycnN4OVBJdnNKNFhPRSsvRGtKM0pYMGZtWW83eXNSOFVNUXdjYnlDYkNIRkpRbVFianlSR2FuMW1rWXJWTExTZDMyVnllVmlBUC9JTnl4ZExMNHBKay9vMFhybTVDWnN6OUxMeTBwS3ZCMzA1cHFHVzFsWGd4c25vSzNoSTl4NFowZXYveUMrVjY4VFB6VXNDRUo4eDhta1hPZkFvcHlpNkJzcVd2T1k0Y1JJNXNRWTFKZlBUZ0diSXp1NDUxaTFEbVpFNFN5Z1dvTTR3MHRGejVXNExHNzVIV2lNa1pyTzRaangvbkRtZFFMMGJJRkNmWUxBVE9BZ2VESjE0YnVPMzhYanNTcDZQZkkySXkzSGFySmdtMC9vdG1NZ09RV0dtWW03aFFUcitQaElGVDZ1V2kzSjJQWmpxNnFhM2h3Smdwbnc1L2Z0bThYeUUyQVFT&file=%5BCyberboi%5D+She+Hulk+(Marvel).zip",
+    "infoHash": "ECACE2646FAD1AF235D13E9C32CA0DE22AF876CF",
+    "seeders": 2,
+    "leechers": 6,
+    "protocol": "torrent"
+  },
+  {
+    "guid": "https://itorrents.org/torrent/691BEC27CA92D82A567578D90B45C16346E527E7.torrent?title=[Bitsearch.to]She-Hulk%20003%20(2022)%20(Digital).pdf",
+    "age": 19,
+    "ageHours": 468.40237158108334,
+    "ageMinutes": 28104.142294865,
+    "size": 5756682,
+    "grabs": 852,
+    "indexerId": 1,
+    "indexer": "BitSearch",
+    "title": "She-Hulk 003 (2022) (Digital).pdf",
+    "approved": false,
+    "imdbId": 0,
+    "publishDate": "2022-07-29T23:00:00Z",
+    "downloadUrl": "https://jditej.at7.in/1/download?apikey=531ae118e5fe4b67ade8f1c862a047dd&link=a0huSEVadUxuNUpWc0VUSnM0RG9YYU5sSkc2bHZCVmxNd2JkWnZUeXRJYzVvL0hCVnloRVJXZVRyeHo0eFFSN0pWMlMzNUMyVWp3a2J4c01ZckU3d2pOYWl5d25aQTZTS0xheUhNUi9ubEwvZWlyUmxjUzh4ajFOUk80MHpGK3VVYjNmTFJLbzd6Q2ZEQitvSnR2WmVMVTBGY1Yxc2thcGpNZStMNVRlYU1QaGN6eXg0RHFTVXlmTWVibXJkUHZIRlZua2h6SVpvb2xDb3R3eVBjOTVuZz09&file=She-Hulk+003+(2022)+(Digital).pdf",
+    "infoUrl": "https://bitsearch.to/torrents/she-hulk-003-2022-digital-pdf-c7c91/62e5a4f56d6ce14756e29571/",
+    "indexerFlags": [
+      "freeleech"
+    ],
+    "categories": [
+      {
+        "id": 7030,
+        "name": "Books/Comics",
+        "subCategories": []
+      }
+    ],
+    "magnetUrl": "https://jditej.at7.in/1/download?apikey=531ae118e5fe4b67ade8f1c862a047dd&link=VDBXb1p0bmprN041VmlCencxNThKUmlRYlhsNEp3ZXZyNE9JV2xURTE5cXJiaFpYeUMrbWUyZDVVTnBmQTBLNWtSaEFLOTZVNmNidUR5S1VzTGVaSWh6YXBvVkJuWER2RGl0MkhVNXArVFpPbXMwTnRTN0tnN2xWVGpUSzh0NVNsc1NXa21IVEdiUm05MllLalo4dXorTEpMSXg5MStEb3B5T1EzbWpQeUhHcnFUTldtZXJIaTVJc1JzK3M2UmxjVEF4REVtTjFkQnIvcFo3azYxemJ0bktoVzlmZWJtU041L1QrTWlwdVBsdTNMZUEvS2hKSjhBVkU3ZCtsa3dvdnNON2M0MHNNTU9pQklyS1NtVVpjWmh6TXRVUytRdC9YOGpkTTR2QVp1L0xyY20xUGd3NTlIQnBub2pjT1ZZNGtWNEZzY1J4L09Zc2pvRkdzckZ6NkFWVlFQUFVXWVVIU0RPZnBnZnIxVmhKTnBMVUNMZDY2TTZvcGhZUCs5Rm5JZEQxa29CaUZJYjZ1UlA5QmhRcUFudkJ0TjR5d211d1ZVWmFTaVpKcWtya294aXcwRGR2UkR4WS9iTHlvMXpqR3JETlUyZzM3bGZiUk5YaXFBMjVjem5BOThDZVljNFR1aUZqNk92SUdkS1VqWlo3UXJhUnR4QVY5WFFOUE12QUNaVWFjZ2Rzc3lDaHJ1MzBTOFQ5NUp4RzNraUNQd3hUdm1PVUwzcUF6TTVvdlFNUWhpKzBONUJWSE54TFZvMTcyNWRWWHd5S1NEYk5NUXpPMG1ycWdJaWd1TTRwcXBwR1Nlbm9abVRjQUpWbStvM0krcFNEczk3c1ZyQU1yb1lHZ1dWdldrVUtiT2k1OWlUdDhiYU0xcnJqeFJSMTAzZGYvbVRyV0RCc1JXbUJjYnRtRmVBZXI1REF3YTVnZCtYbDFVMm9tK2J4aWlFOXZYYzNKUDlIWDNxc05GWVZhRXB2ZytvSndKMTh2MnNzVzRnMWVURDlYa3QxdFZram9xQmlmWi9VOURSeUhUOGtFS1M0OFFvdVFyYjVHNzBVRXZoYWI3MU9DamtjYjBZTzVOdVQrMDlxVURmVHZPdDFHNTYzSTlObGpsM05LdU5HYlJEbW1SRlhFQkNid1p4RnNDREVhV3g5SFF2MkFjajZGTlZ5d3NCLzRpZVhLUjBobzcrQjVTOU14OEtGS3lTQkpKUENJSWpIazFpQmFNMzU3akxnMzFZVVVaRldETkR5VjNnSy9DSFJhUjdrdnJIbVlPMFgzeXE0N0NQanhPaDIyUXlYNDlucW10LzVvRituemw3clladFJwalc4a3hkNWFMYmMwMzRSMXY4UW1ObGUxaXBMeE9iSlZCUitIYk1MK1JLelBaNmF0bUpVMTNMR2F6dExGSG1mT2M3SVdRUk5waXlnRzV2b25xU1E2VU5Qc1pTVFlmcUozanBMUVZiTnZlbUdsRWZNY0FoRmdYTW1iTTAvY2RJZTNiWDl4TzczSlFxdEdtQWs2N2dqVGlrSWVZZURxZHIzNFFTZjFsUkRMTG4wQWFXb3lGOThyakl0SHJBMTE4bVcwbXVIZW11YTZHZmEwcUpWUURIdENLeC9NQzJpTmR5M1pWOTdqTG5RZnRka1hqWjBxUDFsZWlWVUxrZmV2bTFjRkdLMlhUUEZ3Y0FOQkQvdWRGZ1FqZSt2SVdPK1BhU2VGLzJYSzROR0xMQnc0VDV6YjlHUmswODlEV2ZLb1BuWDM3OFdOUkY1TWxuTWdvWWdybU5WeVRNNXZSbkgyUUM3SHF1QnNoMWQxYnArOEJFNUMxL3dFOUJaL0tEK21IVC9mVFlqNCtlN3ExYm44YmVmVC9UYWJKZXMzOUdpbzVYVEpsK2txWkhJc25NbklnVWl2NkFRUGVTNzhtdnJLWkNtYXlpL0M4aklCM1JmS2x2ZzR6ZGhJRVM3a2o4S0ozaGdtVTlvVExzazZnYzljdS9xWnRZTFE2VUJUUjRrZWpJSGhKMVNVeXJHNjFnZGpCZ0ZLS1daZTNCcnVRWnpu&file=She-Hulk+003+(2022)+(Digital).pdf",
+    "infoHash": "691BEC27CA92D82A567578D90B45C16346E527E7",
+    "seeders": 12,
+    "leechers": 17,
+    "protocol": "torrent"
+  }
+]
