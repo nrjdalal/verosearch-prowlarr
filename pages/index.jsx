@@ -109,6 +109,11 @@ const Home = () => {
           value={search}
           onChange={(e) => setSearch(e.target.value)}
           placeholder="Type here!"
+          onKeyPress={(e) => {
+            if (e.key === 'Enter') {
+              Searcher()
+            }
+          }}
         />
 
         <button
