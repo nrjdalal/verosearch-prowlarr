@@ -6,7 +6,7 @@ const Home = () => {
   const [search, setSearch] = useState('')
   const [results, setResults] = useState([])
 
-  useEffect(() => {}, [results])
+  // useEffect(() => {}, [results])
 
   const Searcher = async () => {
     setResults([])
@@ -26,28 +26,32 @@ const Home = () => {
 
     json = json.rss.channel[0].item
 
-    json = json.map((element) => {
-      const torznab = {}
-
-      element['torznab:attr'].forEach((element) => {
-        torznab[`${element.$.name}`] = element.$.value
-      })
-
-      const info = {
-        title: element.title[0],
-        date: element.pubDate[0],
-        unix: new Date(element.pubDate[0]).getTime() / 1000,
-        size: element.size[0],
-        index: element.jackettindexer[0]._,
-        torznab,
-      }
-
-      return info
-    })
+    console.log(json)
 
     if (json !== undefined) {
-      setResults(json)
-      console.log(json[0])
+      json = json.map((element) => {
+        const torznab = {}
+
+        element['torznab:attr'].forEach((element) => {
+          torznab[`${element.$.name}`] = element.$.value
+        })
+
+        const info = {
+          title: element.title[0],
+          date: element.pubDate[0],
+          unix: new Date(element.pubDate[0]).getTime() / 1000,
+          size: element.size[0],
+          index: element.jackettindexer[0]._,
+          torznab,
+        }
+
+        return info
+      })
+
+      if (json !== undefined) {
+        setResults(json)
+        console.log(json[0])
+      }
     }
 
     setStatus(false)
@@ -64,10 +68,11 @@ const Home = () => {
         />
 
         <button
-          className={`ml-4 flex h-12 w-14 items-center justify-center rounded-lg bg-black text-xl text-white lg:w-1/4 ${
-            status ? 'animate-pulse' : ''
+          className={`ml-4 flex h-12 w-14 items-center justify-center rounded-lg text-xl text-white lg:w-1/4 ${
+            (status ? 'animate-pulse' : '', search ? 'bg-gray-900' : 'cursor-not-allowed bg-gray-300')
           }`}
           onClick={Searcher}
+          disabled={!search}
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -83,6 +88,9 @@ const Home = () => {
       </main>
 
       <div className="mt-4 mb-4 flex flex-col gap-y-4 font-mono">
+        <p className="text-center">
+          {status ? 'Searching...!' : `${results.length !== 0 ? `${results.length}` : 'No results! Search something!'}`}
+        </p>
         {results.map((element, key) => {
           return (
             <div className="relative flex flex-col rounded-lg bg-gray-200 p-4 " key={key}>
