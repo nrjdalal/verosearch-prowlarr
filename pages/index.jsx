@@ -88,8 +88,10 @@ const Home = () => {
       </main>
 
       <div className="mt-4 mb-4 flex flex-col gap-y-4 font-mono">
-        <p className="text-center">
-          {status ? 'Searching...!' : `${results.length !== 0 ? `${results.length}` : 'No results! Search something!'}`}
+        <p className={`text-center ${status ? 'mt-5 animate-bounce' : ''}`}>
+          {status
+            ? 'Searching...!'
+            : `${results.length !== 0 ? `${results.length} results found!` : 'No results! Search something!'}`}
         </p>
         {results.map((element, key) => {
           return (
