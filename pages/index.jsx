@@ -140,7 +140,7 @@ const Home = () => {
       {
         // ~ Search status and number of results
       }
-      <p className={`mt-8 text-center ${status ? 'animate-bounce' : ''}`}>
+      <p className={`mt-4 border-b-2 border-slate-200 pb-4 text-center font-medium ${status ? 'animate-bounce' : ''}`}>
         {status
           ? 'Searching...'
           : `${results.length !== 0 ? `${results.length} results found!` : 'No results! Search something!'}`}
@@ -149,7 +149,7 @@ const Home = () => {
       {
         // ~ Filters
       }
-      <div className="mt-8 flex gap-2">
+      <div className="mt-4 flex gap-2 font-medium">
         <button
           className={`w-1/3 rounded-lg py-2 ${date ? 'border-[1px] border-slate-300 bg-slate-200 text-slate-600' : ''}`}
           onClick={() => SwitchFilter('date')}
