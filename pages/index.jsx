@@ -68,37 +68,37 @@ const Home = () => {
       setStatus(false)
       console.log(results)
     }
+  }
 
-    const SwitchFilter = (filter) => {
-      if (filter === 'date') {
-        setFilter('date')
-        setDate(true)
-        setSeed(false)
-        setSize(false)
+  const SwitchFilter = (filter) => {
+    if (filter === 'date') {
+      setFilter('date')
+      setDate(true)
+      setSeed(false)
+      setSize(false)
 
-        const res = results.sort((a, b) => b.unix - a.unix)
-        setResults(res)
-      }
+      const res = results.sort((a, b) => b.unix - a.unix)
+      setResults(res)
+    }
 
-      if (filter === 'seed') {
-        setFilter('seed')
-        setDate(false)
-        setSeed(true)
-        setSize(false)
+    if (filter === 'seed') {
+      setFilter('seed')
+      setDate(false)
+      setSeed(true)
+      setSize(false)
 
-        const res = results.sort((a, b) => b.torznab.seeders - a.torznab.seeders)
-        setResults(res)
-      }
+      const res = results.sort((a, b) => b.torznab.seeders - a.torznab.seeders)
+      setResults(res)
+    }
 
-      if (filter === 'size') {
-        setFilter('size')
-        setDate(false)
-        setSeed(false)
-        setSize(true)
+    if (filter === 'size') {
+      setFilter('size')
+      setDate(false)
+      setSeed(false)
+      setSize(true)
 
-        const res = results.sort((a, b) => b.size - a.size)
-        setResults(res)
-      }
+      const res = results.sort((a, b) => b.size - a.size)
+      setResults(res)
     }
   }
 
