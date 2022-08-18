@@ -152,7 +152,7 @@ const Home = () => {
           : `${results.length !== 0 ? `${results.length} results found!` : 'No results! Search something!'}`}
       </p>
 
-      <div className="my-8 flex font-mono">
+      <div className="mt-8 flex font-mono">
         <button
           className={`w-1/3 rounded-lg py-2 ${date ? 'border-2 border-gray-300' : ''}`}
           onClick={() => SwitchFilter('date')}
