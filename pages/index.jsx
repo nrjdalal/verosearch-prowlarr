@@ -167,7 +167,7 @@ const Home = () => {
               }
               <p className="break-all font-medium text-black line-clamp-2">{element.title}</p>
 
-              <div className="mt-2 flex items-center justify-between">
+              <div className="mt-2 flex items-center justify-between text-slate-500">
                 <div className="flex items-center gap-2 text-xs md:text-sm">
                   {
                     // ~ Time
