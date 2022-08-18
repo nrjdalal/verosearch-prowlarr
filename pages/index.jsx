@@ -31,7 +31,7 @@ const Home = () => {
           date: element.publishDate,
           unix: new Date(element.publishDate).getTime() / 1000,
           size: element.size,
-          // index: element.prowlarrindexer[0]._,
+          indexer: element.indexer,
           link: element.magneturl,
           torznab: {
             seeders: element.seeders,
@@ -98,7 +98,7 @@ const Home = () => {
   }
 
   return (
-    <div className="mx-auto max-w-6xl p-4">
+    <div className="mx-auto max-w-6xl p-4 text-xs md:text-sm lg:text-base">
       <main className="mt-4 flex items-center justify-between">
         <input
           type="text"
@@ -161,7 +161,7 @@ const Home = () => {
               <p className="break-words  text-black line-clamp-2">{element.title}</p>
               <div className="mt-2 flex items-center justify-between">
                 <p>
-                  {time(element.unix)} / {element.torznab.seeders} / {hsize(element.size)}
+                  {time(element.unix)} / {element.torznab.seeders} / {hsize(element.size)} / {element.indexer}
                 </p>
 
                 <a href={element.link}>
