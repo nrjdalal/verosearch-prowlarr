@@ -101,18 +101,18 @@ const Home = () => {
   }
 
   return (
-    <div className="mx-auto max-w-6xl p-4 text-sm md:text-base">
+    <div className="mx-auto min-h-screen max-w-6xl bg-slate-100 p-4 text-sm md:text-base">
       <main className="mt-4 flex items-center justify-between">
         <input
           type="text"
-          className="h-12 w-full rounded-lg border-2 border-gray-300 text-lg md:text-xl lg:w-3/4"
+          className="h-12 w-full rounded-lg border-2 border-slate-300 text-lg md:text-xl lg:w-3/4"
           value={search}
           onChange={(e) => setSearch(e.target.value)}
         />
 
         <button
           className={`ml-4 flex h-12 w-1/6 items-center justify-center rounded-lg text-xl text-white lg:w-1/4 ${
-            search ? 'bg-gray-900' : 'cursor-not-allowed bg-gray-300'
+            search ? 'bg-slate-900' : 'cursor-not-allowed bg-slate-300'
           } ${status ? 'animate-pulse' : ''}`}
           onClick={Searcher}
           disabled={!search}
@@ -132,25 +132,25 @@ const Home = () => {
 
       <p className={`mt-8 text-center ${status ? 'animate-bounce' : ''}`}>
         {status
-          ? 'Searching...!'
+          ? 'Searching...'
           : `${results.length !== 0 ? `${results.length} results found!` : 'No results! Search something!'}`}
       </p>
 
       <div className="mt-8 flex font-mono">
         <button
-          className={`w-1/3 rounded-lg py-2 ${date ? 'border-2 border-gray-300' : ''}`}
+          className={`w-1/3 rounded-lg py-2 ${date ? 'border-2 border-slate-300' : ''}`}
           onClick={() => SwitchFilter('date')}
         >
           Date
         </button>
         <button
-          className={`w-1/3 rounded-lg py-2 ${seed ? 'border-2 border-gray-300' : ''}`}
+          className={`w-1/3 rounded-lg py-2 ${seed ? 'border-2 border-slate-300' : ''}`}
           onClick={() => SwitchFilter('seed')}
         >
           Seed
         </button>
         <button
-          className={`w-1/3 rounded-lg py-2 ${size ? 'border-2 border-gray-300' : ''}`}
+          className={`w-1/3 rounded-lg py-2 ${size ? 'border-2 border-slate-300' : ''}`}
           onClick={() => SwitchFilter('size')}
         >
           Size
@@ -160,12 +160,91 @@ const Home = () => {
       <div className="my-4 flex flex-col gap-y-4 font-mono">
         {results.map((element, key) => {
           return (
-            <div className="relative flex flex-col rounded-lg bg-gray-200 p-4 " key={key}>
+            <div className="relative flex flex-col rounded-lg bg-white p-4 shadow-md" key={key}>
               <p className="break-all text-black line-clamp-2">{element.title}</p>
               <div className="mt-2 flex items-center justify-between">
-                <p className="text-xs md:text-sm">
-                  {time(element.unix)} / {element.torznab.seeders} / {hsize(element.size)} / {element.indexer}
-                </p>
+                <div className="flex items-center gap-2 text-xs md:text-sm">
+                  {
+                    // ~ Time
+                  }
+                  <div className="flex items-center">
+                    <svg
+                      xmlns="http://www.w3.org/2000/svg"
+                      className="mr-1 h-4 w-4"
+                      fill="none"
+                      viewBox="0 0 24 24"
+                      stroke="currentColor"
+                      strokeWidth={2}
+                    >
+                      <path
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"
+                      />
+                    </svg>
+                    <p>{time(element.unix)}</p>
+                  </div>
+                  {
+                    // ~ Seed
+                  }
+                  <div className="flex items-center">
+                    <svg
+                      xmlns="http://www.w3.org/2000/svg"
+                      className="mr-1 h-4 w-4"
+                      fill="none"
+                      viewBox="0 0 24 24"
+                      stroke="currentColor"
+                      strokeWidth={2}
+                    >
+                      <path
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-8l-4-4m0 0L8 8m4-4v12"
+                      />
+                    </svg>
+                    <p className="text-green-600">{element.torznab.seeders}</p>
+                  </div>
+                  {
+                    // ~ Size
+                  }
+                  <div className="flex items-center">
+                    <svg
+                      xmlns="http://www.w3.org/2000/svg"
+                      className="mr-1 h-4 w-4"
+                      fill="none"
+                      viewBox="0 0 24 24"
+                      stroke="currentColor"
+                      strokeWidth={2}
+                    >
+                      <path
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        d="M4 7v10c0 2.21 3.582 4 8 4s8-1.79 8-4V7M4 7c0 2.21 3.582 4 8 4s8-1.79 8-4M4 7c0-2.21 3.582-4 8-4s8 1.79 8 4m0 5c0 2.21-3.582 4-8 4s-8-1.79-8-4"
+                      />
+                    </svg>
+                    <p>{hsize(element.size)}</p>
+                  </div>
+                  {
+                    // ~ Index
+                  }
+                  <div className="flex items-center">
+                    <svg
+                      xmlns="http://www.w3.org/2000/svg"
+                      className="h-3 w-3"
+                      fill="none"
+                      viewBox="0 0 24 24"
+                      stroke="currentColor"
+                      strokeWidth={2}
+                    >
+                      <path
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        d="M16 12a4 4 0 10-8 0 4 4 0 008 0zm0 0v1.5a2.5 2.5 0 005 0V12a9 9 0 10-9 9m4.5-1.206a8.959 8.959 0 01-4.5 1.207"
+                      />
+                    </svg>
+                    <p>{element.indexer}</p>
+                  </div>
+                </div>
 
                 <a href={element.link}>
                   <svg
