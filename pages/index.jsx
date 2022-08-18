@@ -25,7 +25,7 @@ const Home = () => {
     // )
 
     const res = await fetch(
-      `http://140.238.246.165//api/v1/indexer/1/newznab?t=search&q=${search}&apikey=531ae118e5fe4b67ade8f1c862a047dd`
+      `http://140.238.246.165//api/v1/indexer/1/newznab?t=search&q=${search}&query=${search}&apikey=531ae118e5fe4b67ade8f1c862a047dd`
     )
 
     const xml = await res.text()
