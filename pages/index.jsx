@@ -119,6 +119,12 @@ const Home = () => {
         </button>
       </main>
 
+      <p className={`mt-4 text-center ${status ? 'mt-5 animate-bounce' : ''}`}>
+        {status
+          ? 'Searching...!'
+          : `${results.length !== 0 ? `${results.length} results found!` : 'No results! Search something!'}`}
+      </p>
+
       <div className="my-8 flex font-mono">
         <button
           className={`w-1/3 rounded-lg py-2 ${date ? 'border-2 border-gray-300' : ''}`}
@@ -141,11 +147,6 @@ const Home = () => {
       </div>
 
       <div className="mt-4 mb-4 flex flex-col gap-y-4 font-mono">
-        <p className={`text-center ${status ? 'mt-1 animate-bounce' : ''}`}>
-          {status
-            ? 'Searching...!'
-            : `${results.length !== 0 ? `${results.length} results found!` : 'No results! Search something!'}`}
-        </p>
         {results.map((element, key) => {
           return (
             <div className="relative flex flex-col rounded-lg bg-gray-200 p-4 " key={key}>
