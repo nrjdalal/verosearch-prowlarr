@@ -160,7 +160,7 @@ const Home = () => {
             <div className="relative flex flex-col rounded-lg bg-gray-200 p-4 " key={key}>
               <p className="break-words  text-black line-clamp-2">{element.title}</p>
               <div className="mt-2 flex items-center justify-between">
-                <p classname="text-xs md:text-sm">
+                <p className="text-xs md:text-sm">
                   {time(element.unix)} / {element.torznab.seeders} / {hsize(element.size)} / {element.indexer}
                 </p>
 
