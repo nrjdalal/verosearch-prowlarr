@@ -50,6 +50,7 @@ const Home = () => {
           unix: new Date(element.pubDate[0]).getTime() / 1000,
           size: element.size[0],
           index: element.jackettindexer[0]._,
+          link: element.link[0],
           torznab,
         }
 
@@ -182,7 +183,7 @@ const Home = () => {
                   {time(element.unix)} / {element.torznab.seeders} / {hsize(element.size)}
                 </p>
 
-                <a href={element.torznab.magneturl}>
+                <a href={element.link}>
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     className="h-4 w-4"
