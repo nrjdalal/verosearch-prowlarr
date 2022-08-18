@@ -105,9 +105,10 @@ const Home = () => {
       <main className="mt-4 flex items-center justify-between">
         <input
           type="text"
-          className="h-12 w-full rounded-lg border-2 border-slate-300 text-lg md:text-xl lg:w-3/4"
+          className="h-12 w-full rounded-lg border-2 border-slate-400 text-lg md:text-xl lg:w-3/4"
           value={search}
           onChange={(e) => setSearch(e.target.value)}
+          placeholder="Type here!"
         />
 
         <button
@@ -136,7 +137,7 @@ const Home = () => {
           : `${results.length !== 0 ? `${results.length} results found!` : 'No results! Search something!'}`}
       </p>
 
-      <div className="mt-8 flex font-mono">
+      <div className="mt-8 flex gap-2">
         <button
           className={`w-1/3 rounded-lg py-2 ${date ? 'border-2 border-slate-300' : ''}`}
           onClick={() => SwitchFilter('date')}
