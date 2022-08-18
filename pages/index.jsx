@@ -6,7 +6,10 @@ const Home = () => {
   const [search, setSearch] = useState('')
   const [results, setResults] = useState([])
 
-  // useEffect(() => {}, [results])
+  // filtering
+  const [date, setDate] = useState(false)
+  const [seed, setSeed] = useState(true)
+  const [size, setSize] = useState(false)
 
   const Searcher = async () => {
     setResults([])
@@ -49,12 +52,41 @@ const Home = () => {
       })
 
       if (json !== undefined) {
-        setResults(json)
+        setResults(json.sort((a, b) => b.torznab.seeders - a.torznab.seeders))
         console.log(json[0])
       }
     }
 
     setStatus(false)
+  }
+
+  const SwitchFilter = (filter) => {
+    if (filter === 'date') {
+      setDate(true)
+      setSeed(false)
+      setSize(false)
+
+      const res = results.sort((a, b) => b.unix - a.unix)
+      setResults(res)
+    }
+
+    if (filter === 'seed') {
+      setDate(false)
+      setSeed(true)
+      setSize(false)
+
+      const res = results.sort((a, b) => b.torznab.seeders - a.torznab.seeders)
+      setResults(res)
+    }
+
+    if (filter === 'size') {
+      setDate(false)
+      setSeed(false)
+      setSize(true)
+
+      const res = results.sort((a, b) => b.size - a.size)
+      setResults(res)
+    }
   }
 
   return (
@@ -87,6 +119,27 @@ const Home = () => {
         </button>
       </main>
 
+      <div className="my-8 flex font-mono">
+        <button
+          className={`w-1/3 rounded-lg py-2 ${date ? 'border-2 border-gray-300' : ''}`}
+          onClick={() => SwitchFilter('date')}
+        >
+          Date
+        </button>
+        <button
+          className={`w-1/3 rounded-lg py-2 ${seed ? 'border-2 border-gray-300' : ''}`}
+          onClick={() => SwitchFilter('seed')}
+        >
+          Seed
+        </button>
+        <button
+          className={`w-1/3 rounded-lg py-2 ${size ? 'border-2 border-gray-300' : ''}`}
+          onClick={() => SwitchFilter('size')}
+        >
+          Size
+        </button>
+      </div>
+
       <div className="mt-4 mb-4 flex flex-col gap-y-4 font-mono">
         <p className={`text-center ${status ? 'mt-1 animate-bounce' : ''}`}>
           {status
@@ -99,7 +152,7 @@ const Home = () => {
               <p className="break-words  text-black line-clamp-2">{element.title}</p>
               <div className="mt-2 flex items-center justify-between">
                 <p>
-                  {time(element.unix)} / {element.torznab.seeders} / {size(element.size)}
+                  {time(element.unix)} / {element.torznab.seeders} / {hsize(element.size)}
                 </p>
 
                 <a href={element.torznab.magneturl}>
@@ -125,7 +178,7 @@ const Home = () => {
 
 export default Home
 
-const size = (bytes) => {
+const hsize = (bytes) => {
   if (bytes >= 1073741824) {
     bytes = (bytes / 1073741824).toFixed(1) + ' gb'
   } else if (bytes >= 1048576) {
