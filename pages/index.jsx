@@ -105,7 +105,7 @@ const Home = () => {
       <main className="mt-4 flex items-center justify-between">
         <input
           type="text"
-          className="h-12 w-full rounded-lg border-2 border-slate-400 text-lg md:text-xl lg:w-3/4"
+          className="h-12 w-full rounded-lg border-2 border-slate-400 text-center text-lg md:text-xl lg:w-3/4"
           value={search}
           onChange={(e) => setSearch(e.target.value)}
           placeholder="Type here!"
@@ -131,12 +131,18 @@ const Home = () => {
         </button>
       </main>
 
+      {
+        // ~ Search status and number of results
+      }
       <p className={`mt-8 text-center ${status ? 'animate-bounce' : ''}`}>
         {status
           ? 'Searching...'
           : `${results.length !== 0 ? `${results.length} results found!` : 'No results! Search something!'}`}
       </p>
 
+      {
+        // ~ Filters
+      }
       <div className="mt-8 flex gap-2">
         <button
           className={`w-1/3 rounded-lg py-2 ${date ? 'border-2 border-slate-300' : ''}`}
