@@ -13,43 +13,80 @@ const Home = () => {
   const [size, setSize] = useState(false)
 
   const Searcher = async () => {
-    setResults([])
-    setStatus(true)
+    if (search !== '') {
+      setResults([])
+      setStatus(true)
 
-    const res = await fetch(
-      `https://jditej.at7.in/api/v1/search?query=${search}&apikey=531ae118e5fe4b67ade8f1c862a047dd&type=search`
-    )
+      const res = await fetch(
+        `https://jditej.at7.in/api/v1/search?query=${search}&apikey=531ae118e5fe4b67ade8f1c862a047dd&type=search`
+      )
 
-    let json = await res.json()
+      let json = await res.json()
 
-    console.log(json[0])
+      console.log(json[0])
 
-    if (json !== undefined) {
-      json = json.map((element) => {
-        const torznab = {}
+      if (json !== undefined) {
+        json = json.map((element) => {
+          const torznab = {}
 
-        const info = {
-          title: element.title,
-          date: element.publishDate,
-          unix: new Date(element.publishDate).getTime() / 1000,
-          size: element.size,
-          indexer: element.indexer.replace(/ /g, ''),
-          link: element.downloadUrl || element.guid || element.magnetUrl,
-          torznab: {
-            seeders: element.seeders,
-          },
+          const info = {
+            title: element.title,
+            date: element.publishDate,
+            unix: new Date(element.publishDate).getTime() / 1000,
+            size: element.size,
+            indexer: element.indexer.replace(/ /g, ''),
+            link: element.downloadUrl || element.guid || element.magnetUrl,
+            torznab: {
+              seeders: element.seeders,
+            },
+          }
+
+          return info
+        })
+
+        if (filter === 'date') {
+          const res = json.sort((a, b) => b.unix - a.unix)
+          setResults(res)
         }
 
-        return info
-      })
+        if (filter === 'seed') {
+          const res = json.sort((a, b) => b.torznab.seeders - a.torznab.seeders)
+          setResults(res)
+        }
 
+        if (filter === 'size') {
+          setFilter('size')
+          setDate(false)
+          setSeed(false)
+          setSize(true)
+
+          const res = json.sort((a, b) => b.size - a.size)
+          setResults(res)
+        }
+      }
+
+      setStatus(false)
+      console.log(results)
+    }
+
+    const SwitchFilter = (filter) => {
       if (filter === 'date') {
-        const res = json.sort((a, b) => b.unix - a.unix)
+        setFilter('date')
+        setDate(true)
+        setSeed(false)
+        setSize(false)
+
+        const res = results.sort((a, b) => b.unix - a.unix)
         setResults(res)
       }
 
       if (filter === 'seed') {
-        const res = json.sort((a, b) => b.torznab.seeders - a.torznab.seeders)
+        setFilter('seed')
+        setDate(false)
+        setSeed(true)
+        setSize(false)
+
+        const res = results.sort((a, b) => b.torznab.seeders - a.torznab.seeders)
         setResults(res)
       }
 
@@ -59,44 +96,9 @@ const Home = () => {
         setSeed(false)
         setSize(true)
 
-        const res = json.sort((a, b) => b.size - a.size)
+        const res = results.sort((a, b) => b.size - a.size)
         setResults(res)
       }
-    }
-
-    setStatus(false)
-    console.log(results)
-  }
-
-  const SwitchFilter = (filter) => {
-    if (filter === 'date') {
-      setFilter('date')
-      setDate(true)
-      setSeed(false)
-      setSize(false)
-
-      const res = results.sort((a, b) => b.unix - a.unix)
-      setResults(res)
-    }
-
-    if (filter === 'seed') {
-      setFilter('seed')
-      setDate(false)
-      setSeed(true)
-      setSize(false)
-
-      const res = results.sort((a, b) => b.torznab.seeders - a.torznab.seeders)
-      setResults(res)
-    }
-
-    if (filter === 'size') {
-      setFilter('size')
-      setDate(false)
-      setSeed(false)
-      setSize(true)
-
-      const res = results.sort((a, b) => b.size - a.size)
-      setResults(res)
     }
   }
 
@@ -121,7 +123,6 @@ const Home = () => {
             search ? 'bg-slate-900' : 'cursor-not-allowed bg-slate-300'
           } ${status ? 'animate-pulse' : ''}`}
           onClick={Searcher}
-          disabled={!search}
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -150,19 +151,19 @@ const Home = () => {
       }
       <div className="mt-8 flex gap-2">
         <button
-          className={`w-1/3 rounded-lg py-2 ${date ? 'border-2 border-slate-300' : ''}`}
+          className={`w-1/3 rounded-lg py-2 ${date ? 'border-[1px] border-slate-300 bg-slate-200 text-slate-600' : ''}`}
           onClick={() => SwitchFilter('date')}
         >
           Date
         </button>
         <button
-          className={`w-1/3 rounded-lg py-2 ${seed ? 'border-2 border-slate-300' : ''}`}
+          className={`w-1/3 rounded-lg py-2 ${seed ? 'border-[1px] border-slate-300 bg-slate-200 text-slate-600' : ''}`}
           onClick={() => SwitchFilter('seed')}
         >
           Seed
         </button>
         <button
-          className={`w-1/3 rounded-lg py-2 ${size ? 'border-2 border-slate-300' : ''}`}
+          className={`w-1/3 rounded-lg py-2 ${size ? 'border-[1px] border-slate-300 bg-slate-200 text-slate-600' : ''}`}
           onClick={() => SwitchFilter('size')}
         >
           Size
