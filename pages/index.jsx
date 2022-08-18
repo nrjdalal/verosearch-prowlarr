@@ -92,7 +92,7 @@ const Home = () => {
                   {time(element.unix)} / {element.torznab.seeders} / {size(element.size)}
                 </p>
 
-                <a href={element.link}>
+                <a href={element.torznab.magneturl}>
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     className="h-4 w-4"
