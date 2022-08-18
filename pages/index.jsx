@@ -17,7 +17,7 @@ const Home = () => {
     setStatus(true)
 
     const res = await fetch(
-      `https://jditej.at7.in/api/v1/search?query=she+hulk&apikey=531ae118e5fe4b67ade8f1c862a047dd&type=search`
+      `https://jditej.at7.in/api/v1/search?query=${search}&apikey=531ae118e5fe4b67ade8f1c862a047dd&type=search`
     )
 
     let json = await res.json()
