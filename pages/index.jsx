@@ -102,7 +102,7 @@ const Home = () => {
       <main className="mt-4 flex items-center justify-between">
         <input
           type="text"
-          className="h-12 w-full rounded-lg border-2 border-gray-300 text-xl lg:w-3/4"
+          className="h-12 w-full rounded-lg border-2 border-gray-300 text-lg md:text-xl lg:w-3/4"
           value={search}
           onChange={(e) => setSearch(e.target.value)}
         />
