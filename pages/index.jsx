@@ -70,6 +70,10 @@ const Home = () => {
     }
   }
 
+  {
+    // ~ Filter Logic
+  }
+
   const SwitchFilter = (filter) => {
     if (filter === 'date') {
       setFilter('date')
