@@ -174,7 +174,7 @@ const Home = () => {
         <div className="mt-4 flex gap-2 font-medium">
           <button
             className={`w-1/3 rounded-lg py-2 ${
-              date ? 'border-[1px] border-slate-300 bg-slate-200 text-slate-600' : ''
+              date ? 'border-[1px] border-slate-300 bg-slate-200 text-slate-700' : ''
             }`}
             onClick={() => SwitchFilter('date')}
           >
@@ -182,7 +182,7 @@ const Home = () => {
           </button>
           <button
             className={`w-1/3 rounded-lg py-2 ${
-              seed ? 'border-[1px] border-slate-300 bg-slate-200 text-slate-600' : ''
+              seed ? 'border-[1px] border-slate-300 bg-slate-200 text-slate-700' : ''
             }`}
             onClick={() => SwitchFilter('seed')}
           >
@@ -190,7 +190,7 @@ const Home = () => {
           </button>
           <button
             className={`w-1/3 rounded-lg py-2 ${
-              size ? 'border-[1px] border-slate-300 bg-slate-200 text-slate-600' : ''
+              size ? 'border-[1px] border-slate-300 bg-slate-200 text-slate-700' : ''
             }`}
             onClick={() => SwitchFilter('size')}
           >
