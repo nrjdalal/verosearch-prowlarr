@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import { headers } from '../next.config'
 
 const Home = () => {
   const [status, setStatus] = useState(false)
@@ -18,9 +19,11 @@ const Home = () => {
       setResults([])
       setStatus(true)
 
-      const res = await fetch(
-        process.env.APIURL + `/api/v1/search?query=${search}&type=search&apikey=` + process.env.APIKEY
-      )
+      const res = await fetch(process.env.APIURL + `/api/v1/search?query=${search}&type=search`, {
+        headers: {
+          'X-Api-Key': process.env.APIKEY,
+        },
+      })
 
       let json = await res.json()
 
