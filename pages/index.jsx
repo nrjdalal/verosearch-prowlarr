@@ -5,6 +5,7 @@ const Home = () => {
   const [status, setStatus] = useState(false)
   const [search, setSearch] = useState('')
   const [results, setResults] = useState([])
+  const [duration, setDuration] = useState('')
 
   // filtering
   const [filter, setFilter] = useState('seed')
@@ -14,6 +15,7 @@ const Home = () => {
 
   const Searcher = async () => {
     if (search !== '') {
+      const start = Date.now()
       setResults([])
       setStatus(true)
 
@@ -82,13 +84,14 @@ const Home = () => {
       }
 
       setStatus(false)
+      const duration = (Date.now() - start) / 1000
+      setDuration(Math.round(duration))
     }
   }
 
   {
     // ~ Filter Logic
   }
-
   const SwitchFilter = (filter) => {
     if (filter === 'date') {
       setFilter('date')
@@ -165,7 +168,11 @@ const Home = () => {
         >
           {status
             ? 'Searching...'
-            : `${results.length !== 0 ? `${results.length} results found!` : 'No results! Search something!'}`}
+            : `${
+                results.length !== 0
+                  ? `Found ${results.length} results in ${duration} secs!`
+                  : 'No results! Search something!'
+              }`}
         </p>
 
         {
