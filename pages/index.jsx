@@ -199,23 +199,103 @@ const Home = () => {
         </div>
 
         <div className="my-4 flex flex-col gap-y-4">
-          {results.map((element, key) => {
-            return (
-              <div className="relative flex flex-col rounded-lg bg-white p-4 shadow-md" key={key}>
-                {
-                  // ~ Title
-                }
-                <p className="break-all font-medium text-black line-clamp-2">{element.title}</p>
+          {results.length !== 0 ? (
+            results.map((element, key) => {
+              return (
+                <div className="relative flex flex-col rounded-lg bg-white p-4 shadow-md" key={key}>
+                  {
+                    // ~ Title
+                  }
+                  <p className="break-all font-medium text-black line-clamp-2">{element.title}</p>
 
-                <div className="mt-2 flex items-center justify-between text-slate-500">
-                  <div className="flex items-center gap-2 text-xs md:text-sm">
-                    {
-                      // ~ Time
-                    }
-                    <div className="flex items-center">
+                  <div className="mt-2 flex items-center justify-between text-slate-500">
+                    <div className="flex items-center gap-2 text-xs md:text-sm">
+                      {
+                        // ~ Time
+                      }
+                      <div className="flex items-center">
+                        <svg
+                          xmlns="http://www.w3.org/2000/svg"
+                          className="mr-1 h-4 w-4"
+                          fill="none"
+                          viewBox="0 0 24 24"
+                          stroke="currentColor"
+                          strokeWidth={2}
+                        >
+                          <path
+                            strokeLinecap="round"
+                            strokeLinejoin="round"
+                            d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"
+                          />
+                        </svg>
+                        <p>{time(element.unix)}</p>
+                      </div>
+                      {
+                        // ~ Seed
+                      }
+                      <div className="flex items-center">
+                        <svg
+                          xmlns="http://www.w3.org/2000/svg"
+                          className="mr-1 h-4 w-4"
+                          fill="none"
+                          viewBox="0 0 24 24"
+                          stroke="currentColor"
+                          strokeWidth={2}
+                        >
+                          <path
+                            strokeLinecap="round"
+                            strokeLinejoin="round"
+                            d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-8l-4-4m0 0L8 8m4-4v12"
+                          />
+                        </svg>
+                        <p className="text-green-600">{element.torznab.seeders}</p>
+                      </div>
+                      {
+                        // ~ Size
+                      }
+                      <div className="flex items-center">
+                        <svg
+                          xmlns="http://www.w3.org/2000/svg"
+                          className="mr-1 h-4 w-4"
+                          fill="none"
+                          viewBox="0 0 24 24"
+                          stroke="currentColor"
+                          strokeWidth={2}
+                        >
+                          <path
+                            strokeLinecap="round"
+                            strokeLinejoin="round"
+                            d="M4 7v10c0 2.21 3.582 4 8 4s8-1.79 8-4V7M4 7c0 2.21 3.582 4 8 4s8-1.79 8-4M4 7c0-2.21 3.582-4 8-4s8 1.79 8 4m0 5c0 2.21-3.582 4-8 4s-8-1.79-8-4"
+                          />
+                        </svg>
+                        <p>{hsize(element.size)}</p>
+                      </div>
+                      {
+                        // ~ Index
+                      }
+                      <div className="flex items-center">
+                        <svg
+                          xmlns="http://www.w3.org/2000/svg"
+                          className="h-3 w-3"
+                          fill="none"
+                          viewBox="0 0 24 24"
+                          stroke="currentColor"
+                          strokeWidth={2}
+                        >
+                          <path
+                            strokeLinecap="round"
+                            strokeLinejoin="round"
+                            d="M16 12a4 4 0 10-8 0 4 4 0 008 0zm0 0v1.5a2.5 2.5 0 005 0V12a9 9 0 10-9 9m4.5-1.206a8.959 8.959 0 01-4.5 1.207"
+                          />
+                        </svg>
+                        <p>{element.indexer}</p>
+                      </div>
+                    </div>
+
+                    <a href={element.link}>
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
-                        className="mr-1 h-4 w-4"
+                        className="h-4 w-4 text-red-600"
                         fill="none"
                         viewBox="0 0 24 24"
                         stroke="currentColor"
@@ -224,93 +304,19 @@ const Home = () => {
                         <path
                           strokeLinecap="round"
                           strokeLinejoin="round"
-                          d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"
+                          d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1"
                         />
                       </svg>
-                      <p>{time(element.unix)}</p>
-                    </div>
-                    {
-                      // ~ Seed
-                    }
-                    <div className="flex items-center">
-                      <svg
-                        xmlns="http://www.w3.org/2000/svg"
-                        className="mr-1 h-4 w-4"
-                        fill="none"
-                        viewBox="0 0 24 24"
-                        stroke="currentColor"
-                        strokeWidth={2}
-                      >
-                        <path
-                          strokeLinecap="round"
-                          strokeLinejoin="round"
-                          d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-8l-4-4m0 0L8 8m4-4v12"
-                        />
-                      </svg>
-                      <p className="text-green-600">{element.torznab.seeders}</p>
-                    </div>
-                    {
-                      // ~ Size
-                    }
-                    <div className="flex items-center">
-                      <svg
-                        xmlns="http://www.w3.org/2000/svg"
-                        className="mr-1 h-4 w-4"
-                        fill="none"
-                        viewBox="0 0 24 24"
-                        stroke="currentColor"
-                        strokeWidth={2}
-                      >
-                        <path
-                          strokeLinecap="round"
-                          strokeLinejoin="round"
-                          d="M4 7v10c0 2.21 3.582 4 8 4s8-1.79 8-4V7M4 7c0 2.21 3.582 4 8 4s8-1.79 8-4M4 7c0-2.21 3.582-4 8-4s8 1.79 8 4m0 5c0 2.21-3.582 4-8 4s-8-1.79-8-4"
-                        />
-                      </svg>
-                      <p>{hsize(element.size)}</p>
-                    </div>
-                    {
-                      // ~ Index
-                    }
-                    <div className="flex items-center">
-                      <svg
-                        xmlns="http://www.w3.org/2000/svg"
-                        className="h-3 w-3"
-                        fill="none"
-                        viewBox="0 0 24 24"
-                        stroke="currentColor"
-                        strokeWidth={2}
-                      >
-                        <path
-                          strokeLinecap="round"
-                          strokeLinejoin="round"
-                          d="M16 12a4 4 0 10-8 0 4 4 0 008 0zm0 0v1.5a2.5 2.5 0 005 0V12a9 9 0 10-9 9m4.5-1.206a8.959 8.959 0 01-4.5 1.207"
-                        />
-                      </svg>
-                      <p>{element.indexer}</p>
-                    </div>
+                    </a>
                   </div>
-
-                  <a href={element.link}>
-                    <svg
-                      xmlns="http://www.w3.org/2000/svg"
-                      className="h-4 w-4 text-red-600"
-                      fill="none"
-                      viewBox="0 0 24 24"
-                      stroke="currentColor"
-                      strokeWidth={2}
-                    >
-                      <path
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                        d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1"
-                      />
-                    </svg>
-                  </a>
                 </div>
-              </div>
-            )
-          })}
+              )
+            })
+          ) : (
+            <div className="flex h-screen items-center justify-center">
+              This is a work in progress, maybe be slow but refined!
+            </div>
+          )}
         </div>
       </div>
     </div>
