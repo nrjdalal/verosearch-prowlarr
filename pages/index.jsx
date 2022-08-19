@@ -1,5 +1,4 @@
-import { parseString } from 'xml2js'
-import { useEffect, useState } from 'react'
+import { useState } from 'react'
 
 const Home = () => {
   const [status, setStatus] = useState(false)
@@ -19,13 +18,9 @@ const Home = () => {
       setResults([])
       setStatus(true)
 
-      const api = [
-        { link: 'https://jditej.at7.in', key: '531ae118e5fe4b67ade8f1c862a047dd' },
-        { link: 'https://potato.at7.in', key: 'c3218081b3b04bc2b22ad919e2e60b3f' },
-      ]
-      const currentApi = api[1]
-
-      const res = await fetch(currentApi.link + `/api/v1/search?query=${search}&type=search&apikey=` + currentApi.key)
+      const res = await fetch(
+        process.env.APIURL + `/api/v1/search?query=${search}&type=search&apikey=` + process.env.APIKEY
+      )
 
       let json = await res.json()
 
