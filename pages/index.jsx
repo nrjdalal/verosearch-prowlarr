@@ -319,7 +319,7 @@ const Home = () => {
             })
           ) : (
             <div className="flex h-screen items-center justify-center">
-              This is a work in progress, maybe be slow but refined!
+              This is a work in progress, maybe slow but refined!
             </div>
           )}
         </div>
