@@ -31,6 +31,10 @@ const Home = () => {
 
       if (json !== undefined) {
         json = json.map((element) => {
+          if (element.seeders === 0) {
+            return {}
+          }
+
           const info = {
             title: element.title,
             date: element.publishDate,
@@ -74,9 +78,6 @@ const Home = () => {
 
         if (filter === 'size') {
           setFilter('size')
-          setDate(false)
-          setSeed(false)
-          setSize(true)
 
           const res = json.sort((a, b) => b.size - a.size)
           setResults(res)
@@ -130,7 +131,7 @@ const Home = () => {
         <main className="mt-4 flex items-center justify-between">
           <input
             type="text"
-            className="h-12 w-full rounded-lg border-2 border-slate-400 text-lg md:text-xl lg:w-3/4"
+            className="h-12 w-full rounded-lg border-2 border-slate-300 text-lg placeholder:text-slate-300 md:text-xl lg:w-3/4"
             value={search}
             onChange={(e) => setSearch(e.target.value)}
             placeholder="Type here!"
@@ -318,9 +319,7 @@ const Home = () => {
               )
             })
           ) : (
-            <div className="flex h-64 items-end justify-center">
-              This is a work in progress, maybe slow but refined!
-            </div>
+            <div className="flex h-64 items-end justify-center">Search any Anime, Movie, TV Show & more!</div>
           )}
         </div>
       </div>
