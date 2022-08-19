@@ -348,19 +348,19 @@ const time = (date) => {
   let seconds = Math.floor(new Date() / 1000 - date)
   let interval = seconds / 31536000
   if (interval > 1) {
-    return Math.floor(interval) + 'y'
+    return Math.floor(interval) + 'year'
   }
   interval = seconds / 2592000
   if (interval > 1) {
-    return Math.floor(interval) + 'm'
+    return Math.floor(interval) + 'month'
   }
   interval = seconds / 86400
   if (interval > 1) {
-    return Math.floor(interval) + 'd'
+    return Math.floor(interval) + 'day'
   }
   interval = seconds / 3600
   if (interval > 1) {
-    return Math.floor(interval) + 'h'
+    return Math.floor(interval) + 'hour'
   }
   interval = seconds / 60
   if (interval > 1) {
