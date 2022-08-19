@@ -122,7 +122,7 @@ const Home = () => {
   }
 
   return (
-    <div className="bg-slate-50">
+    <div className="bg-slate-100">
       <div className="mx-auto min-h-screen max-w-6xl p-4 text-sm md:text-base">
         <main className="mt-4 flex items-center justify-between">
           <input
