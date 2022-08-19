@@ -366,5 +366,8 @@ const time = (date) => {
   if (interval > 1) {
     return Math.floor(interval) + ' min'
   }
+  if (interval < 1) {
+    return '?'
+  }
   return Math.floor(seconds) + ' sec'
 }
