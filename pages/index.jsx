@@ -129,7 +129,7 @@ const Home = () => {
         <main className="mt-4 flex items-center justify-between">
           <input
             type="text"
-            className="h-12 w-full rounded-lg border-2 border-slate-300 text-lg placeholder:text-slate-300 md:text-xl lg:w-3/4"
+            className="h-12 w-full rounded-lg border-2 border-slate-300 text-lg placeholder:text-slate-300 md:text-xl "
             value={search}
             onChange={(e) => setSearch(e.target.value)}
             placeholder="Type here!"
@@ -141,7 +141,7 @@ const Home = () => {
           />
 
           <button
-            className={`ml-4 flex h-12 w-1/6 items-center justify-center rounded-lg text-xl text-white lg:w-1/4 ${
+            className={`ml-4 flex h-12 w-1/6 items-center justify-center rounded-lg text-xl text-white  ${
               search ? 'bg-slate-900' : 'cursor-not-allowed bg-slate-300'
             } ${status ? 'animate-pulse' : ''}`}
             onClick={Searcher}
