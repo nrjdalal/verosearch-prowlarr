@@ -27,8 +27,6 @@ const Home = () => {
 
       let json = await res.json()
 
-      console.log(search.split(' '))
-
       if (json !== undefined) {
         json = json.map((element) => {
           const info = {
