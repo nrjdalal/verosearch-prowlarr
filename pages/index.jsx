@@ -163,9 +163,7 @@ const Home = () => {
         {
           // ~ Search status and number of results
         }
-        <p
-          className={`mt-4 border-b-2 border-slate-200 pb-4 text-center font-medium ${status ? 'animate-bounce' : ''}`}
-        >
+        <p className={`border-b-2 border-slate-200 py-6  text-center font-medium ${status ? 'animate-bounce' : ''}`}>
           {status
             ? 'Searching...'
             : `${
