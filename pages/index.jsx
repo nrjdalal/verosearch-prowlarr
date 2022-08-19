@@ -318,7 +318,7 @@ const Home = () => {
               )
             })
           ) : (
-            <div className="flex h-screen items-center justify-center">
+            <div className="flex h-64 items-end justify-center">
               This is a work in progress, maybe slow but refined!
             </div>
           )}
