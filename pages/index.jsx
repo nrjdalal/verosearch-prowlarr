@@ -85,7 +85,7 @@ const Home = () => {
 
       setStatus(false)
       const duration = (Date.now() - start) / 1000
-      setDuration(Math.round(duration))
+      setDuration(Math.ceil(duration))
     }
   }
 
