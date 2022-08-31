@@ -19,7 +19,7 @@ const Home = () => {
       setResults([])
       setStatus(true)
 
-      const res = await fetch(process.env.APIURL + '/api/v1/search?type=search}&query=' + search, {
+      const res = await fetch(process.env.APIURL + '/api/v1/search?type=search&query=' + search, {
         headers: {
           'X-Api-Key': process.env.APIKEY,
         },
