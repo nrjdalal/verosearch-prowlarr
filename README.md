@@ -1,12 +1,12 @@
 ## Getting Started
 
-First, run the development server:
+Just add the environment variables in .next.config.js and run the development server:
 
 ```bash
 yarn && yarn dev
 ```
-- Just add the environment variables in .next.config.js
-- Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Deploy on Vercel
 
