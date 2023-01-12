@@ -3,8 +3,8 @@ const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
   env: {
-    APIURL: 'https://prowlarr.at7.in',
-    APIKEY: process.env.APIKEY,
+    APIURL: process.env.APIURL || 'https://prowlarr.at7.in',
+    APIKEY: process.env.APIKEY || '3fbb3827a1c34737bf268287c4c93986',
   },
 }
 
