@@ -92,6 +92,8 @@ const Home = () => {
     // ~ Filter Logic
   }
   const SwitchFilter = (filter) => {
+    if (status === true) return
+
     if (filter === 'date') {
       setFilter('date')
       setDate(true)
