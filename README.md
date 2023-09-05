@@ -1,6 +1,6 @@
 ## Getting Started
 
-Just add the environment variables in .next.config.js and run the development server:
+> Just add the environment variables in .next.config.js and run the development server:
 
 ```bash
 yarn && yarn dev
